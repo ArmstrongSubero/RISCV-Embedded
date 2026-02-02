@@ -18,7 +18,7 @@ The guide is structured so that if you can use `digitalRead()`, `analogWrite()`,
 
 ## Why Move from Arduino to RISC-V?
 
-Arduino hides the hardware behind abstraction layers like `pinMode()`, `digitalWrite()`, and `analogRead()`. This guide strips those layers away and teaches you to work directly with the CH32V003's registers and peripherals — giving you full control of the silicon while keeping the learning curve manageable.
+Arduino hides the hardware behind abstraction layers like `pinMode()`, `digitalWrite()`, and `analogRead()`. This guide strips those layers away and teaches you to work directly with the CH32V003's registers and peripherals giving you full control of the silicon while keeping the learning curve manageable.
 
 | | CH32V003F4P6 | ATmega328P (Arduino UNO) |
 |---|---|---|
