@@ -10,9 +10,9 @@ Part of the [rvembedded.com](https://rvembedded.com) ecosystem for RISC-V embedd
 
 ## 📖 Start Here — The Lab Guide PDF
 
-**[RV_Embedded_Arduino_To_RISC_V_Lab_Guide.pdf](RV_Embedded_Arduino_To_RISC_V_Lab_Guide.pdf)** is the companion document for everything in this folder. It walks you through the underlying electronics and theory behind each project, shows you the schematics and circuits to build, and explains the code line by line. The `.c` files in this folder are the finished source listings from the guide — you are meant to read the PDF alongside the code.
+**[RV_Embedded_Arduino_To_RISC_V_Lab_Guide.pdf](RV_Embedded_Arduino_To_RISC_V_Lab_Guide.pdf)** is the companion document for everything in this folder. It walks you through the underlying electronics and theory behind each project, shows you the schematics and circuits to build, and explains the code line by line. The `.c` files in this folder are the finished source listings from the guide you are meant to read the PDF alongside the code.
 
-The guide is structured so that if you can use `digitalRead()`, `analogWrite()`, or `Serial.begin()`, you already know the *concept* — the PDF just shows you how to do the same thing at the register level on RISC-V.
+The guide is structured so that if you can use `digitalRead()`, `analogWrite()`, or `Serial.begin()`, you already know the *concept* the PDF just shows you how to do the same thing at the register level on RISC-V.
 
 ---
 
@@ -109,10 +109,10 @@ PWM generation, ADC reading, the on-chip comparator, DMA transfers, and DMA-driv
 ## Quick Start
 
 1. **Install MounRiver Studio II** from [mounriver.com](http://www.mounriver.com/)
-2. **Extract `CH32V003F4P6.zip`** — this is the preconfigured project template
+2. **Extract `CH32V003F4P6.zip`** this is the preconfigured project template
 3. **Open the PDF** and follow Lab #1 to wire up your CH32V003 and WCH-LinkE
 4. **Replace `main.c`** in the template project with any `.c` file from this folder
-5. **Build and flash** — click the build button, then program via the WCH-LinkE
+5. **Build and flash** click the build button, then program via the WCH-LinkE
 
 > **Tip:** Start with `00_Blank.c` to verify your toolchain works, then move to `01_Blink.c` to confirm your hardware is wired correctly. After that, follow the PDF sequentially or jump to whichever peripheral you need.
 
@@ -133,8 +133,8 @@ PWM generation, ADC reading, the on-chip comparator, DMA transfers, and DMA-driv
 **Do I need to read the entire PDF before writing code?**
 No. The PDF is designed so you can jump to any lab that interests you. That said, Labs #1–#4 (setup and super-loop basics) are recommended for everyone since they cover the project structure all other labs build on.
 
-**Can I use PlatformIO or the command-line toolchain instead of MounRiver?**
-Yes, but MounRiver is the path of least resistance — it bundles the compiler, flasher, and debug support. The `.c` files themselves are IDE-agnostic.
+**Can I use PlatformIO or the command-line toolchain instead of MounRiver Studio II?**
+Yes, but MounRiver Studio II is the path of least resistance as it bundles the compiler, flasher, and debug support. The `.c` files themselves are IDE-agnostic.
 
 **What if I don't have a specific component for a lab?**
 The guide was written to use common "jellybean" parts available worldwide. The only specialized hardware you truly need is the CH32V003 itself and the WCH-LinkE programmer. Most labs use basic LEDs, resistors, and pushbuttons.
