@@ -4,7 +4,7 @@
 
 This folder contains **20 self-contained C projects** and a **116-page lab manual** that teach you how to program the WCH CH32V003F4P6 RISC-V microcontroller by building on what you already know from Arduino. Each `.c` file maps to one or more labs in the guide and covers a specific peripheral or concept.
 
-Part of the [rv-embedded.com](https://rv-embedded.com) ecosystem for RISC-V embedded systems education.
+Part of the [rvembedded.com](https://rvembedded.com) ecosystem for RISC-V embedded systems education.
 
 ---
 
@@ -45,7 +45,7 @@ Despite having half the flash, the CH32V003's 32-bit compressed instructions and
 
 ### Software
 
-- **[MounRiver Studio](http://www.mounriver.com/)** — the recommended IDE (Eclipse-based, includes the RISC-V GCC toolchain and flash utility)
+- **[MounRiver Studio II](http://www.mounriver.com/)** — the recommended IDE (Eclipse-based, includes the RISC-V GCC toolchain and flash utility)
 - The **CH32V003F4P6.zip** project template included in this folder
 
 ---
@@ -108,7 +108,7 @@ PWM generation, ADC reading, the on-chip comparator, DMA transfers, and DMA-driv
 
 ## Quick Start
 
-1. **Install MounRiver Studio** from [mounriver.com](http://www.mounriver.com/)
+1. **Install MounRiver Studio II** from [mounriver.com](http://www.mounriver.com/)
 2. **Extract `CH32V003F4P6.zip`** — this is the preconfigured project template
 3. **Open the PDF** and follow Lab #1 to wire up your CH32V003 and WCH-LinkE
 4. **Replace `main.c`** in the template project with any `.c` file from this folder
@@ -146,7 +146,7 @@ This folder is the starting point. Once you're comfortable with the peripherals 
 
 ## Resources
 
-- [rv-embedded.com](https://rv-embedded.com) — tutorials, documentation, and more RISC-V content
+- [rvembedded.com](https://rvembedded.com) — tutorials, documentation, and more RISC-V content
 - [WCH Official Site](https://www.wch-ic.com/) — datasheets, reference manuals, and tools
 - [MounRiver Studio](http://www.mounriver.com/) — IDE download
 - [CH32V003 Reference Manual](https://www.wch-ic.com/products/CH32V003.html) — full peripheral documentation
@@ -160,6 +160,6 @@ This project is licensed under the MIT License. See the [LICENSE](../LICENSE) fi
 
 ## Author
 
-**Armstrong Subero** — Electronics Engineering Academy
+**Armstrong Subero** — RV Embedded 
 
-For more RISC-V embedded content, visit **[rv-embedded.com](https://rv-embedded.com)**.
+For more RISC-V embedded content, visit **[rvembedded.com](https://rvembedded.com)**.
