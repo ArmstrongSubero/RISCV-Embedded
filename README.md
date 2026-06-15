@@ -83,7 +83,7 @@ If you are coming from Arduino, see the [Arduino to RISC-V migration guide](http
 
 ## Legacy Examples
 
-The `Legacy_WCH_SPL/` folder contains the original bare metal examples written directly against the WCH standard peripheral library without the Rovari SDK. These cover additional topics including software UART, NFC (PN532), GPS, IMU (roll/pitch/yaw), nRF24L01 wireless, function generator, and RTC. They compile with MounRiver Studio.
+The `Legacy` folder contains the original bare metal examples written directly against the WCH standard peripheral library without the Rovari SDK. These are currently depreciated.
 
 ## License
 
