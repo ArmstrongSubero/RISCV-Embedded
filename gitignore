@@ -1,0 +1,40 @@
+# Build artifacts
+system/build/
+*.o
+*.elf
+*.hex
+*.bin
+*.map
+*.rsp
+*.d
+*.lst
+
+# Generated block code
+system/build/rovari.blocks.cpp
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# MounRiver Studio (legacy)
+.project
+.cproject
+.settings/
+Debug/
+Release/
+obj/
