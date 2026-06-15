@@ -1,0 +1,25 @@
+/*
+ * Copyright (c) 2026 Armstrong Subero
+ *
+ * Program:  23_ServoKnob (C style)
+ * Platform: CH32V003 / Rovari SDK
+ * Hardware: servo on PD2 (TIM1 CH1)
+ *           potentiometer on PA1 (ADC ch1)
+ */
+
+#include "rovari.h"
+
+void app_init()
+{
+    servo_init(PD2);
+    adc_init(PA1);
+}
+
+void app_run()
+{
+    uint16_t raw = analog_read(PA1);
+    uint16_t deg = (uint16_t)((raw * 180UL) / 1023UL);
+
+    servo_write_deg(PD2, deg);
+    delay(15);
+}

@@ -1,0 +1,10 @@
+{
+  "peripherals": [
+    "GPIO",
+    "RCC",
+    "MISC",
+    "UART",
+    "OPA"
+  ],
+  "libraries": []
+}

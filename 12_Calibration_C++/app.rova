@@ -1,0 +1,58 @@
+/*
+ * Copyright (c) 2026 Armstrong Subero
+ *
+ * Program: 12_Calibration (C++ style)
+ * Platform: CH32V003 / Rovari SDK
+ * Hardware: potentiometer on PA1 (ADC ch1)
+ *           LED on PD2 (TIM1 CH1) via 1k resistor
+ *           WCH-Link for UART (TX=PD5, RX=PD6)
+ */
+#include "rovari.h"
+
+Uart serial(SERIAL1, 115200);
+Adc sensor(PA1);
+Pwm led(PD2, 1000);
+
+uint16_t sensor_min = 1023;
+uint16_t sensor_max = 0;
+
+void app_init() {
+  serial.println("Calibrating for 5 seconds...");
+  serial.println("Move sensor to both extremes");
+
+  uint32_t start = millis();
+  while (millis() - start < 5000) {
+    uint16_t val = sensor.read();
+
+    if (val < sensor_min) {
+      sensor_min = val;
+    }
+    if (val > sensor_max) {
+      sensor_max = val;
+    }
+
+    delay(20);
+  }
+
+  uart_printf(SERIAL1, "Done. min=%d max=%d\r\n", sensor_min, sensor_max);
+}
+
+void app_run() {
+  uint16_t raw = sensor.read();
+
+  if (raw < sensor_min) {
+    raw = sensor_min;
+  }
+  if (raw > sensor_max) {
+    raw = sensor_max;
+  }
+
+  uint8_t mapped = 0;
+  if (sensor_max > sensor_min) {
+    mapped = (uint8_t)(((uint32_t)(raw - sensor_min) * 255) /
+                       (sensor_max - sensor_min));
+  }
+
+  led.write(mapped);
+  delay(10);
+}

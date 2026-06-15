@@ -1,0 +1,27 @@
+/*
+ * app.rova - Rovari Default App
+ * Target: CH32V003 (RV32EC, 16K/2K)
+ *
+ * app_init() runs once at startup.
+ * app_run()  loops forever.
+ *
+ * block_init() and block_run() are generated
+ * from rovari.blocks by the Guvari visual editor.
+ * Drag blocks to add hardware setup and logic.
+ */
+
+#include "rovari.h"
+
+Gpio led(PC0, Output);
+
+void app_init()
+{
+    uart_init(SERIAL1, 115200);
+    uart_println(SERIAL1, "CH32V003 Blink");
+}
+
+void app_run()
+{
+    led.toggle();
+    delay(250);
+}

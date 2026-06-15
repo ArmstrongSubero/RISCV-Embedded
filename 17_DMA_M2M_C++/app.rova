@@ -1,0 +1,60 @@
+/*
+ * Copyright (c) 2026 Armstrong Subero
+ *
+ * Program: 17_DMA_Mem2Mem (C++ style)
+ * Platform: CH32V003 / Rovari SDK
+ * Hardware: WCH-Link for UART (TX=PD5, RX=PD6)
+ */
+#include "rovari.h"
+
+#define BUF_SIZE 8
+
+uint32_t src[BUF_SIZE] = {
+    0xDEADBEEF, 0xCAFEBABE, 0x12345678, 0x9ABCDEF0,
+    0x11111111, 0x22222222, 0x33333333, 0x44444444
+};
+
+uint32_t dst[BUF_SIZE] = {0};
+
+Uart serial(SERIAL1, 115200);
+
+void app_init()
+{
+    serial.println("DMA Mem2Mem Test");
+
+    RCC_AHBPeriphClockCmd(RCC_AHBPeriph_DMA1, ENABLE);
+
+    DMA_InitTypeDef dma = {0};
+    dma.DMA_PeripheralBaseAddr = (uint32_t)src;
+    dma.DMA_MemoryBaseAddr     = (uint32_t)dst;
+    dma.DMA_DIR                = DMA_DIR_PeripheralSRC;
+    dma.DMA_BufferSize         = BUF_SIZE;
+    dma.DMA_PeripheralInc      = DMA_PeripheralInc_Enable;
+    dma.DMA_MemoryInc          = DMA_MemoryInc_Enable;
+    dma.DMA_PeripheralDataSize = DMA_PeripheralDataSize_Word;
+    dma.DMA_MemoryDataSize     = DMA_MemoryDataSize_Word;
+    dma.DMA_Mode               = DMA_Mode_Normal;
+    dma.DMA_Priority           = DMA_Priority_VeryHigh;
+    dma.DMA_M2M                = DMA_M2M_Enable;
+    DMA_Init(DMA1_Channel3, &dma);
+    DMA_Cmd(DMA1_Channel3, ENABLE);
+
+    while (DMA_GetFlagStatus(DMA1_FLAG_TC3) == RESET) {}
+
+    uint8_t pass = 1;
+    for (uint8_t i = 0; i < BUF_SIZE; i++)
+    {
+        if (src[i] != dst[i]) { pass = 0; }
+    }
+
+    serial.println(pass ? "PASS" : "FAIL");
+
+    for (uint8_t i = 0; i < BUF_SIZE; i++)
+    {
+        uart_printf(SERIAL1, "[%d] 0x%08lX\r\n", i, dst[i]);
+    }
+}
+
+void app_run()
+{
+}

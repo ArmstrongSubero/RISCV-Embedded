@@ -1,0 +1,12 @@
+{
+  "peripherals": [
+    "GPIO",
+    "RCC",
+    "MISC",
+    "UART",
+    "I2C"
+  ],
+  "libraries": [
+    "SSD1306 Lite"
+  ]
+}

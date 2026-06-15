@@ -1,0 +1,28 @@
+/*
+ * Copyright (c) 2026 Armstrong Subero
+ *
+ * Program: 07_UART (C style)
+ * Platform: CH32V003 / Rovari SDK
+ * Hardware: WCH-Link for UART (TX=PD5, RX=PD6)
+ */
+
+#include "rovari.h"
+
+void app_init()
+{
+    uart_init(SERIAL1, 115200);
+    uart_println(SERIAL1, "CH32V003 UART Ready");
+    uart_println(SERIAL1, "Type something and press Enter");
+}
+
+void app_run()
+{
+    char buf[32];
+    int n = uart_read_line(SERIAL1, buf, sizeof(buf));
+
+    if (n > 0)
+    {
+        uart_print(SERIAL1, "You said: ");
+        uart_println(SERIAL1, buf);
+    }
+}

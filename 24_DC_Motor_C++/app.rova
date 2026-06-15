@@ -1,0 +1,67 @@
+/*
+ * Copyright (c) 2026 Armstrong Subero
+ *
+ * Program: 24_DCMotor (C++ style)
+ * Platform: CH32V003 / Rovari SDK
+ * Hardware: DC motor via L298N or MOSFET driver
+ *           PWM on PD2 (TIM1 CH1) to EN/speed
+ *           PC1 to IN1 (direction A)
+ *           PC2 to IN2 (direction B)
+ */
+
+#include "rovari.h"
+
+class Motor {
+public:
+  Motor(pin_t pwm, pin_t in1, pin_t in2)
+      : _pwm(pwm, 1000), _in1(in1, Output), _in2(in2, Output) {}
+
+  void forward(uint8_t speed) {
+    _in1.high();
+    _in2.low();
+    _pwm.write(speed);
+  }
+
+  void reverse(uint8_t speed) {
+    _in1.low();
+    _in2.high();
+    _pwm.write(speed);
+  }
+
+  void stop() {
+    _in1.low();
+    _in2.low();
+    _pwm.write(0);
+  }
+
+private:
+  Pwm _pwm;
+  Gpio _in1;
+  Gpio _in2;
+};
+
+Motor m(PD2, PC1, PC2);
+
+void app_init() {}
+
+void app_run() {
+  m.forward(255);
+  delay(2000);
+
+  m.stop();
+  delay(500);
+
+  m.reverse(255);
+  delay(2000);
+
+  m.stop();
+  delay(500);
+
+  for (uint8_t i = 0; i < 255; i++) {
+    m.forward(i);
+    delay(10);
+  }
+
+  m.stop();
+  delay(1000);
+}

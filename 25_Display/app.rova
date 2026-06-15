@@ -1,0 +1,32 @@
+/*
+ * Copyright (c) 2026 Armstrong Subero
+ *
+ * Program:  25_Display (C style)
+ * Platform: CH32V003 / Rovari SDK
+ * Hardware: SSD1306 128x32 OLED on I2C
+ *           SCL=PC2, SDA=PC1 (4.7k pullups)
+ */
+
+#include "rovari.h"
+#include "rovari_ssd1306.h"
+
+void app_init()
+{
+    i2c_init(I2C_1, 100000);
+    
+    oled_init(I2C_1, OLED_128x32, SSD1306_I2C_ADDR);
+    oled_set_orientation(OLED_ORIENT_180); 
+    
+    oled_clear();
+    oled_printf_line(0, "Rovari SDK");
+    oled_printf_line(1, "CH32V003");
+    oled_printf_line(2, "RISC-V 48MHz");
+}
+
+void app_run()
+{
+    static uint32_t count = 0;
+    oled_printf_line(3, "Count: %lu", count);
+    count++;
+    delay(100);
+}

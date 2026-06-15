@@ -1,0 +1,25 @@
+/*
+ * Copyright (c) 2026 Armstrong Subero
+ *
+ * Program:  10_AnalogReadWrite (C style)
+ * Platform: CH32V003 / Rovari SDK
+ * Hardware: potentiometer on PA1 (ADC ch1)
+ *           LED on PD2 (TIM1 CH1) via 1k resistor
+ */
+
+#include "rovari.h"
+
+void app_init()
+{
+    adc_init(PA1);
+    pwm_init(PD2, 1000);
+}
+
+void app_run()
+{
+    uint16_t raw = analog_read(PA1);
+    uint8_t duty = (uint8_t)(raw / 4);
+
+    pwm_write(PD2, duty);
+    delay(10);
+}

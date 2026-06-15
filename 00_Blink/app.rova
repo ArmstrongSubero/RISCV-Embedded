@@ -1,0 +1,24 @@
+/*
+ * app.rova - Rovari Default App
+ * Target: CH32V003 (RV32EC, 16K/2K)
+ *
+ * app_init() runs once at startup.
+ * app_run()  loops forever.
+ *
+ * block_init() and block_run() are generated
+ * from rovari.blocks by the Guvari visual editor.
+ * Drag blocks to add hardware setup and logic.
+ */
+
+#include "rovari.h"
+
+void app_init()
+{
+    pin_mode(PC0, Output);
+}
+
+void app_run()
+{
+    pin_toggle(PC0);
+    delay(500);
+}

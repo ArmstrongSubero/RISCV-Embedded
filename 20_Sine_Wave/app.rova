@@ -1,0 +1,99 @@
+/*
+ * Copyright (c) 2026 Armstrong Subero
+ *
+ * Program: 21_SineWaveGeneration (C style)
+ * Platform: CH32V003 / Rovari SDK
+ * Hardware: low pass filter on PD2 (1k + 100nF)
+ */
+
+#include "rovari.h"
+
+#define SINE_SAMPLES 32
+#define ARR_VALUE    832
+#define PSC_VALUE    0
+#define RCR_VALUE    8
+
+static const uint16_t SINE_BASE12[SINE_SAMPLES] = {
+    2048,2447,2831,3185,3495,3750,3939,4056,
+    4095,4056,3939,3750,3495,3185,2831,2447,
+    2048,1649,1265, 911, 601, 346, 157,  40,
+       0,  40, 157, 346, 601, 911,1265,1649
+};
+
+static uint16_t SINE_WAVE[SINE_SAMPLES];
+
+static void gen_sine_lut_scaled(uint16_t arr)
+{
+    uint32_t mid = arr / 2u;
+    uint32_t amp = (arr / 2u) * 80u / 100u;
+    uint32_t two_amp = amp * 2u;
+
+    for (int i = 0; i < SINE_SAMPLES; i++)
+    {
+        uint32_t x = SINE_BASE12[i];
+        uint32_t offset = (two_amp * x + 2047u) / 4095u;
+        int32_t  v = (int32_t)(mid - amp) + (int32_t)offset;
+
+        if (v < 0)              { v = 0; }
+        if (v > (int32_t)arr)   { v = (int32_t)arr; }
+
+        SINE_WAVE[i] = (uint16_t)v;
+    }
+}
+
+void app_init()
+{
+    gen_sine_lut_scaled(ARR_VALUE);
+
+    RCC_APB2PeriphClockCmd(RCC_APB2Periph_GPIOD | RCC_APB2Periph_TIM1, ENABLE);
+    RCC_AHBPeriphClockCmd(RCC_AHBPeriph_DMA1, ENABLE);
+
+    GPIO_InitTypeDef gpio = {0};
+    gpio.GPIO_Pin   = GPIO_Pin_2;
+    gpio.GPIO_Mode  = GPIO_Mode_AF_PP;
+    gpio.GPIO_Speed = GPIO_Speed_30MHz;
+    GPIO_Init(GPIOD, &gpio);
+
+    TIM_TimeBaseInitTypeDef tb = {0};
+    tb.TIM_Period            = ARR_VALUE;
+    tb.TIM_Prescaler         = PSC_VALUE;
+    tb.TIM_ClockDivision     = TIM_CKD_DIV1;
+    tb.TIM_CounterMode       = TIM_CounterMode_Up;
+    tb.TIM_RepetitionCounter = RCR_VALUE;
+    TIM_TimeBaseInit(TIM1, &tb);
+
+    TIM_OCInitTypeDef oc = {0};
+    oc.TIM_OCMode       = TIM_OCMode_PWM1;
+    oc.TIM_OutputState  = TIM_OutputState_Enable;
+    oc.TIM_Pulse        = 0;
+    oc.TIM_OCPolarity   = TIM_OCPolarity_High;
+    TIM_OC1Init(TIM1, &oc);
+
+    TIM_OC1PreloadConfig(TIM1, TIM_OCPreload_Enable);
+    TIM_ARRPreloadConfig(TIM1, ENABLE);
+
+    DMA_DeInit(DMA1_Channel5);
+
+    DMA_InitTypeDef dma = {0};
+    dma.DMA_PeripheralBaseAddr = (uint32_t)&TIM1->CH1CVR;
+    dma.DMA_MemoryBaseAddr     = (uint32_t)SINE_WAVE;
+    dma.DMA_DIR                = DMA_DIR_PeripheralDST;
+    dma.DMA_BufferSize         = SINE_SAMPLES;
+    dma.DMA_PeripheralInc      = DMA_PeripheralInc_Disable;
+    dma.DMA_MemoryInc          = DMA_MemoryInc_Enable;
+    dma.DMA_PeripheralDataSize = DMA_PeripheralDataSize_HalfWord;
+    dma.DMA_MemoryDataSize     = DMA_MemoryDataSize_HalfWord;
+    dma.DMA_Mode               = DMA_Mode_Circular;
+    dma.DMA_Priority           = DMA_Priority_VeryHigh;
+    dma.DMA_M2M                = DMA_M2M_Disable;
+    DMA_Init(DMA1_Channel5, &dma);
+    DMA_Cmd(DMA1_Channel5, ENABLE);
+
+    TIM_DMACmd(TIM1, TIM_DMA_Update, ENABLE);
+    TIM_Cmd(TIM1, ENABLE);
+    TIM_CtrlPWMOutputs(TIM1, ENABLE);
+}
+
+void app_run()
+{
+}

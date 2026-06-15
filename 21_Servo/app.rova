@@ -1,0 +1,48 @@
+/*
+ * Copyright (c) 2026 Armstrong Subero
+ *
+ * Program:  22_ServoSweep (C style)
+ * Platform: CH32V003 / Rovari SDK
+ * Hardware: servo signal on PD2 (TIM1 CH1)
+ *           servo power from external 5V
+ */
+
+#include "rovari.h"
+
+void app_init()
+{
+    servo_init(PD2);
+
+    servo_write_deg(PD2, 0);
+    delay(1000);
+
+    servo_write_deg(PD2, 90);
+    delay(1000);
+
+    servo_write_deg(PD2, 180);
+    delay(1000);
+
+    servo_move_to(PD2, 0, 500, 10);
+    delay(1000);
+
+    servo_move_to(PD2, 90, 500, 10);
+    delay(1000);
+
+    servo_move_to(PD2, 180, 500, 10);
+    delay(1000);
+}
+
+void app_run()
+{
+    servo_sweep_scurve(PD2, 0, 180, 2000, 10);
+    delay(300);
+
+    servo_sweep_scurve(PD2, 180, 0, 2000, 10);
+    delay(300);
+
+    servo_sweep_scurve(PD2, 0, 180, 600, 8);
+    delay(200);
+
+    servo_sweep_scurve(PD2, 180, 0, 600, 8);
+    delay(200);
+}

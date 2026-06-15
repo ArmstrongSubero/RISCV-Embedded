@@ -1,0 +1,26 @@
+/*
+ * Copyright (c) 2026 Armstrong Subero
+ *
+ * Program: 08_AnalogToSerial (C style)
+ * Platform: CH32V003 / Rovari SDK
+ * Hardware: potentiometer on PC4 (ADC ch2)
+ *           WCH-Link for UART (TX=PD5, RX=PD6)
+ */
+
+#include "rovari.h"
+
+void app_init()
+{
+    uart_init(SERIAL1, 115200);
+    adc_init(PA1);
+    uart_println(SERIAL1, "ADC Reading");
+}
+
+void app_run()
+{
+    uint16_t raw = analog_read(PA1);
+    uint16_t mv  = analog_read_mv(PA1);
+
+    uart_printf(SERIAL1, "raw: %d  mv: %d\r\n", raw, mv);
+    delay(500);
+}

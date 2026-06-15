@@ -1,0 +1,31 @@
+/*
+ * Copyright (c) 2026 Armstrong Subero
+ *
+ * Program: 06_ToneGeneration (C++ style)
+ * Platform: CH32V003 / Rovari SDK
+ * Hardware: piezo buzzer on PD2 (TIM1 CH1)
+ */
+#include "rovari.h"
+
+#define MELODY_LEN 8
+
+Tone buzzer(PC4);
+
+static const uint16_t melody[] = {NOTE_C4, NOTE_D4, NOTE_E4, NOTE_F4,
+                                  NOTE_G4, NOTE_A4, NOTE_B4, NOTE_C5};
+
+static const uint16_t durations[] = {200, 200, 200, 200, 200, 200, 200, 400};
+
+void app_init() {}
+
+void app_run() {
+  for (uint8_t i = 0; i < MELODY_LEN; i++) {
+    buzzer.play(melody[i], durations[i]);
+    while (buzzer.isPlaying()) {
+      buzzer.update();
+    }
+    delay(50);
+  }
+
+  delay(1000);
+}

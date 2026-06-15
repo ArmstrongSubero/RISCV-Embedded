@@ -1,0 +1,26 @@
+/*
+ * Copyright (c) 2026 Armstrong Subero
+ * 
+ * Program:  02_Pusbbutton (C style)
+ * Platform: CH32V003 / Rovari SDK
+ * Hardware: LED on PC1 via 1k resistor
+ *           pushbutton on PC2 to GND
+ */
+
+#include "rovari.h"
+
+void app_init()
+{
+    pin_mode(PC1, Output);
+    button_begin(PC2);
+}
+
+void app_run()
+{
+    if (button_pressed(PC2))
+    {
+        pin_toggle(PC1);
+    }
+}
+
+

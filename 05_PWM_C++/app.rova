@@ -1,0 +1,30 @@
+/*
+ * Copyright (c) 2026 Armstrong Subero
+ *
+ * Program: 05_PWM (C++ style)
+ * Platform: CH32V003 / Rovari SDK
+ * Hardware: LED on PD2 (TIM1 CH1) via 1k resistor
+ */
+
+#include "rovari.h"
+
+Pwm led(PD2, 1000);
+
+void app_init()
+{
+}
+
+void app_run()
+{
+    for (uint8_t pct = 0; pct <= 100; pct++)
+    {
+        led.writePct(pct);
+        delay(10);
+    }
+
+    for (int pct = 100; pct >= 0; pct--)
+    {
+        led.writePct((uint8_t)pct);
+        delay(10);
+    }
+}

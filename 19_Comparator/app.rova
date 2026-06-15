@@ -1,0 +1,27 @@
+/*
+ * Copyright (c) 2026 Armstrong Subero
+ *
+ * Program:  19_Comparator (C style)
+ * Platform: CH32V003 / Rovari SDK
+ * Hardware: PA1 (V-) to voltage divider
+ *           PA2 (V+) to potentiometer
+ *           LED on PD0 via 1k resistor
+ */
+
+#include "rovari.h"
+
+void app_init()
+{
+    uart_init(SERIAL1, 115200);
+    pin_mode(PD0, Output);
+    comparator_init();
+    uart_println(SERIAL1, "Comparator: PA2(+) vs PA1(-)");
+}
+
+void app_run()
+{
+    uint8_t result = comparator_read();
+    digital_write(PD0, result);
+    uart_printf(SERIAL1, "V+ %s V-\r\n", result ? ">" : "<");
+    delay(500);
+}

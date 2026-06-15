@@ -1,0 +1,33 @@
+/*
+ * Copyright (c) 2026 Armstrong Subero
+ *
+ * Program:  14_Watchdog (C++ style)
+ * Platform: CH32V003 / Rovari SDK
+ * Hardware: LED on PC1 via 1k resistor
+ */
+
+#include "rovari.h"
+
+#define FEED 1
+
+Gpio led(PC1, Output);
+
+void app_init() {
+  for (uint8_t i = 0; i < 3; i++) {
+    led.high();
+    delay(80);
+    led.low();
+    delay(80);
+  }
+
+  iwdg_start(4000);
+}
+
+void app_run() {
+  led.toggle();
+  delay(200);
+
+#if FEED
+  iwdg_feed();
+#endif
+}

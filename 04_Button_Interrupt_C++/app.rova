@@ -1,0 +1,27 @@
+/*
+ * Copyright (c) 2026 Armstrong Subero
+ *
+ * Program:  04_ButtonInterrupt (C++ style)
+ * Platform: CH32V003 / Rovari SDK
+ * Hardware: LED on PC1 via 1k resistor
+ *           pushbutton on PC2 to GND
+ */
+
+#include "rovari.h"
+
+Gpio led(PC1, Output);
+
+void on_press()
+{
+    led.toggle();
+}
+
+void app_init()
+{
+    pin_mode(PC2, InputPullUp);
+    attach_interrupt(PC2, Falling, on_press);
+}
+
+void app_run()
+{
+}

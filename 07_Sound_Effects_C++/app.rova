@@ -1,0 +1,87 @@
+/*
+ * Copyright (c) 2026 Armstrong Subero
+ *
+ * Program: 06_ToneGeneration (C++ style)
+ * Platform: CH32V003 / Rovari SDK
+ * Hardware: piezo buzzer on PC4 (TIM1 CH4)
+ */
+#include "rovari.h"
+
+Tone buzzer(PC4);
+
+void app_init()
+{
+}
+
+void app_run()
+{
+    buzzer.click();
+    delay(500);
+
+    buzzer.beep(3);
+    delay(500);
+
+    buzzer.success();
+    delay(500);
+
+    buzzer.error();
+    delay(500);
+
+    buzzer.warning();
+    delay(500);
+
+    buzzer.startup();
+    delay(500);
+
+    buzzer.shutdown();
+    delay(500);
+
+    buzzer.doorbell();
+    delay(500);
+
+    buzzer.notification();
+    delay(500);
+
+    buzzer.alarm(5);
+    delay(500);
+
+    buzzer.ring(2);
+    delay(500);
+
+    buzzer.countdown(NOTE_A4, 4);
+    delay(500);
+
+    buzzer.chirp();
+    delay(500);
+
+    buzzer.siren(400, 1200, 2000);
+    delay(500);
+
+    buzzer.sweep(200, 2000, 1000);
+    delay(500);
+
+    buzzer.sweep(2000, 200, 1000);
+    delay(500);
+
+    buzzer.alert(NOTE_C5, NOTE_E5, 4);
+    delay(500);
+
+    buzzer.trill(NOTE_E5, NOTE_F5, 1000);
+    delay(500);
+
+    static const uint16_t notes[] = {
+        NOTE_E5, NOTE_D5, NOTE_C5, NOTE_D5,
+        NOTE_E5, NOTE_E5, NOTE_E5, REST,
+        NOTE_D5, NOTE_D5, NOTE_D5, REST,
+        NOTE_E5, NOTE_G5, NOTE_G5, REST
+    };
+    static const uint16_t times[] = {
+        200, 200, 200, 200,
+        200, 200, 400, 200,
+        200, 200, 400, 200,
+        200, 200, 400, 200
+    };
+    buzzer.playMelody(notes, times, 16);
+
+    delay(3000);
+}

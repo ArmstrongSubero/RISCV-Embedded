@@ -1,0 +1,13 @@
+{
+  "peripherals": [
+    "GPIO",
+    "RCC",
+    "MISC",
+    "UART",
+    "SPI",
+    "ADC"
+  ],
+  "libraries": [
+    "SD Card (FatFs)"
+  ]
+}

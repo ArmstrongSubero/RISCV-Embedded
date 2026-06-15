@@ -1,0 +1,24 @@
+/*
+ * Copyright (c) 2026 Armstrong Subero
+ *
+ * Program:  13_TimerInterrupt (C style)
+ * Platform: CH32V003 / Rovari SDK
+ * Hardware: LED on PC1 via 1k resistor
+ */
+
+#include "rovari.h"
+
+void blink()
+{
+    pin_toggle(PC1);
+}
+
+void app_init()
+{
+    pin_mode(PC1, Output);
+    timer_start(TIMER1, 2, blink);
+}
+
+void app_run()
+{
+}

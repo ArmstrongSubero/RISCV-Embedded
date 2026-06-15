@@ -1,0 +1,1709 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(save-restore.o)
+                              C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/debug_612e4371.o (__riscv_save_2)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(muldi3.o)
+                              C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/debug_612e4371.o (__mulsi3)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(div.o)
+                              C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tone_7826bf61.o (__divsi3)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-vsnprintf.o)
+                              C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_uart_f547dc16.o (vsnprintf)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-strncpy.o)
+                              C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/sevs_assert_target_d21dbdfb.o (strncpy)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-impure.o)
+                              C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-vsnprintf.o) (_impure_ptr)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-init.o)
+                              C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_main_9df9f901.o (__libc_init_array)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-nano-svfprintf.o)
+                              C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-vsnprintf.o) (_svfprintf_r)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-nano-vfprintf_i.o)
+                              C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-nano-svfprintf.o) (_printf_i)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-memchr.o)
+                              C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-nano-svfprintf.o) (memchr)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-memmove.o)
+                              C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-nano-svfprintf.o) (memmove)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-memcpy-asm.o)
+                              C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-nano-svfprintf.o) (memcpy)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-freer.o)
+                              C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-nano-svfprintf.o) (_free_r)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-mallocr.o)
+                              C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-nano-svfprintf.o) (_malloc_r)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-mlock.o)
+                              C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-freer.o) (__malloc_lock)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-reallocr.o)
+                              C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-nano-svfprintf.o) (_realloc_r)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-sbrkr.o)
+                              C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-mallocr.o) (_sbrk_r)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-lock.o)
+                              C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-mlock.o) (__retarget_lock_acquire_recursive)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-msizer.o)
+                              C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-reallocr.o) (_malloc_usable_size_r)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-reent.o)
+                              C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-sbrkr.o) (errno)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/app_a7edf8fa.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/app_a7edf8fa.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/app_a7edf8fa.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari.blocks_81508510.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari.blocks_81508510.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari.blocks_81508510.o
+ .text._Z10block_initv
+                0x00000000        0x2 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari.blocks_81508510.o
+ .text._Z9block_runv
+                0x00000000        0x2 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari.blocks_81508510.o
+ .debug_info    0x00000000       0xb3 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari.blocks_81508510.o
+ .debug_abbrev  0x00000000       0x65 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari.blocks_81508510.o
+ .debug_aranges
+                0x00000000       0x28 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari.blocks_81508510.o
+ .debug_rnglists
+                0x00000000       0x19 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari.blocks_81508510.o
+ .debug_line    0x00000000       0x69 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari.blocks_81508510.o
+ .debug_str     0x00000000      0x1ed C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari.blocks_81508510.o
+ .debug_line_str
+                0x00000000      0x10a C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari.blocks_81508510.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari.blocks_81508510.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari.blocks_81508510.o
+ .debug_frame   0x00000000       0x30 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari.blocks_81508510.o
+ .riscv.attributes
+                0x00000000       0x3d C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari.blocks_81508510.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_it_39d44d81.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_it_39d44d81.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_it_39d44d81.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/startup_dd1b3d20.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/startup_dd1b3d20.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/startup_dd1b3d20.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/system_ch32v00x_d3983265.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/system_ch32v00x_d3983265.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/system_ch32v00x_d3983265.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/core_riscv_7218a11c.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/core_riscv_7218a11c.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/core_riscv_7218a11c.o
+ .text.__get_MSTATUS
+                0x00000000        0x6 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/core_riscv_7218a11c.o
+ .text.__set_MSTATUS
+                0x00000000        0x6 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/core_riscv_7218a11c.o
+ .text.__get_MISA
+                0x00000000        0x6 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/core_riscv_7218a11c.o
+ .text.__set_MISA
+                0x00000000        0x6 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/core_riscv_7218a11c.o
+ .text.__get_MTVEC
+                0x00000000        0x6 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/core_riscv_7218a11c.o
+ .text.__set_MTVEC
+                0x00000000        0x6 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/core_riscv_7218a11c.o
+ .text.__get_MSCRATCH
+                0x00000000        0x6 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/core_riscv_7218a11c.o
+ .text.__set_MSCRATCH
+                0x00000000        0x6 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/core_riscv_7218a11c.o
+ .text.__get_MEPC
+                0x00000000        0x6 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/core_riscv_7218a11c.o
+ .text.__set_MEPC
+                0x00000000        0x6 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/core_riscv_7218a11c.o
+ .text.__get_MCAUSE
+                0x00000000        0x6 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/core_riscv_7218a11c.o
+ .text.__set_MCAUSE
+                0x00000000        0x6 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/core_riscv_7218a11c.o
+ .text.__get_MVENDORID
+                0x00000000        0x6 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/core_riscv_7218a11c.o
+ .text.__get_MARCHID
+                0x00000000        0x6 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/core_riscv_7218a11c.o
+ .text.__get_MIMPID
+                0x00000000        0x6 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/core_riscv_7218a11c.o
+ .text.__get_MHARTID
+                0x00000000        0x6 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/core_riscv_7218a11c.o
+ .text.__get_SP
+                0x00000000        0x4 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/core_riscv_7218a11c.o
+ .highcode      0x00000000        0xa C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/core_riscv_7218a11c.o
+ .debug_info    0x00000000      0x352 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/core_riscv_7218a11c.o
+ .debug_abbrev  0x00000000      0x117 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/core_riscv_7218a11c.o
+ .debug_loclists
+                0x00000000       0x85 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/core_riscv_7218a11c.o
+ .debug_aranges
+                0x00000000       0xa8 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/core_riscv_7218a11c.o
+ .debug_rnglists
+                0x00000000       0x79 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/core_riscv_7218a11c.o
+ .debug_line    0x00000000      0x334 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/core_riscv_7218a11c.o
+ .debug_str     0x00000000      0x257 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/core_riscv_7218a11c.o
+ .debug_line_str
+                0x00000000      0x237 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/core_riscv_7218a11c.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/core_riscv_7218a11c.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/core_riscv_7218a11c.o
+ .debug_frame   0x00000000      0x130 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/core_riscv_7218a11c.o
+ .riscv.attributes
+                0x00000000       0x41 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/core_riscv_7218a11c.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/debug_612e4371.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/debug_612e4371.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/debug_612e4371.o
+ .text.Delay_Us
+                0x00000000       0x46 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/debug_612e4371.o
+ .text.USART_Printf_Init
+                0x00000000       0x7a C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/debug_612e4371.o
+ .text.SDI_Printf_Enable
+                0x00000000       0x2a C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/debug_612e4371.o
+ .text._write   0x00000000       0x56 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/debug_612e4371.o
+ .text._sbrk    0x00000000       0x2e C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/debug_612e4371.o
+ .sdata.curbrk.0
+                0x00000000        0x4 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/debug_612e4371.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_gpio_51f76e01.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_gpio_51f76e01.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_gpio_51f76e01.o
+ .text.GPIO_DeInit
+                0x00000000       0x6c C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_gpio_51f76e01.o
+ .text.GPIO_AFIODeInit
+                0x00000000       0x28 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_gpio_51f76e01.o
+ .text.GPIO_StructInit
+                0x00000000       0x10 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_gpio_51f76e01.o
+ .text.GPIO_ReadInputDataBit
+                0x00000000        0xc C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_gpio_51f76e01.o
+ .text.GPIO_ReadInputData
+                0x00000000        0x8 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_gpio_51f76e01.o
+ .text.GPIO_ReadOutputDataBit
+                0x00000000        0xc C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_gpio_51f76e01.o
+ .text.GPIO_ReadOutputData
+                0x00000000        0x8 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_gpio_51f76e01.o
+ .text.GPIO_SetBits
+                0x00000000        0x4 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_gpio_51f76e01.o
+ .text.GPIO_WriteBit
+                0x00000000        0xa C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_gpio_51f76e01.o
+ .text.GPIO_Write
+                0x00000000        0x4 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_gpio_51f76e01.o
+ .text.GPIO_PinLockConfig
+                0x00000000       0x10 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_gpio_51f76e01.o
+ .text.GPIO_PinRemapConfig
+                0x00000000       0xba C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_gpio_51f76e01.o
+ .text.GPIO_EXTILineConfig
+                0x00000000       0x22 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_gpio_51f76e01.o
+ .text.GPIO_IPD_Unused
+                0x00000000       0xa8 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_gpio_51f76e01.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_rcc_87dcd468.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_rcc_87dcd468.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_rcc_87dcd468.o
+ .text.RCC_HSEConfig
+                0x00000000       0x3c C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_rcc_87dcd468.o
+ .text.RCC_DeInit
+                0x00000000       0x48 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_rcc_87dcd468.o
+ .text.RCC_HSICmd
+                0x00000000       0x14 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_rcc_87dcd468.o
+ .text.RCC_PLLConfig
+                0x00000000       0x12 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_rcc_87dcd468.o
+ .text.RCC_PLLCmd
+                0x00000000       0x1c C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_rcc_87dcd468.o
+ .text.RCC_SYSCLKConfig
+                0x00000000       0x4e C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_rcc_87dcd468.o
+ .text.RCC_GetSYSCLKSource
+                0x00000000        0xa C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_rcc_87dcd468.o
+ .text.RCC_HCLKConfig
+                0x00000000       0x10 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_rcc_87dcd468.o
+ .text.RCC_ITConfig
+                0x00000000       0x1c C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_rcc_87dcd468.o
+ .text.RCC_ADCCLKConfig
+                0x00000000       0x14 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_rcc_87dcd468.o
+ .text.RCC_LSICmd
+                0x00000000       0x14 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_rcc_87dcd468.o
+ .text.RCC_GetClocksFreq
+                0x00000000       0xa8 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_rcc_87dcd468.o
+ .text.RCC_AHBPeriphClockCmd
+                0x00000000       0x18 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_rcc_87dcd468.o
+ .text.RCC_APB2PeriphResetCmd
+                0x00000000       0x18 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_rcc_87dcd468.o
+ .text.RCC_APB1PeriphResetCmd
+                0x00000000       0x18 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_rcc_87dcd468.o
+ .text.RCC_ClockSecuritySystemCmd
+                0x00000000       0x1c C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_rcc_87dcd468.o
+ .text.RCC_MCOConfig
+                0x00000000        0xa C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_rcc_87dcd468.o
+ .text.RCC_GetFlagStatus
+                0x00000000       0x1c C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_rcc_87dcd468.o
+ .text.RCC_WaitForHSEStartUp
+                0x00000000       0x46 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_rcc_87dcd468.o
+ .text.RCC_ClearFlag
+                0x00000000       0x10 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_rcc_87dcd468.o
+ .text.RCC_GetITStatus
+                0x00000000        0xe C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_rcc_87dcd468.o
+ .text.RCC_ClearITPendingBit
+                0x00000000        0xa C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_rcc_87dcd468.o
+ .rodata.ADCPrescTable
+                0x00000000       0x14 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_rcc_87dcd468.o
+ .rodata.APBAHBPrescTable
+                0x00000000       0x10 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_rcc_87dcd468.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_misc_9a0fbf45.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_misc_9a0fbf45.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_misc_9a0fbf45.o
+ .text.NVIC_Init
+                0x00000000       0x70 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_misc_9a0fbf45.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TI1_Config
+                0x00000000       0x64 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TI2_Config
+                0x00000000       0x64 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_DeInit
+                0x00000000       0x5c C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_BDTRConfig
+                0x00000000       0x2e C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_TimeBaseStructInit
+                0x00000000       0x18 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_OCStructInit
+                0x00000000       0x22 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_ICStructInit
+                0x00000000       0x18 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_BDTRStructInit
+                0x00000000       0x1e C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_GenerateEvent
+                0x00000000        0x6 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_DMAConfig
+                0x00000000        0x8 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_DMACmd
+                0x00000000        0x8 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_InternalClockConfig
+                0x00000000       0x10 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_ITRxExternalClockConfig
+                0x00000000       0x20 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_TIxExternalClockConfig
+                0x00000000       0x50 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_ETRConfig
+                0x00000000       0x16 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_ETRClockMode1Config
+                0x00000000       0x2e C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_ETRClockMode2Config
+                0x00000000       0x26 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_PrescalerConfig
+                0x00000000        0xa C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_CounterModeConfig
+                0x00000000       0x14 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_SelectInputTrigger
+                0x00000000       0x14 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_EncoderInterfaceConfig
+                0x00000000       0x44 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_ForcedOC1Config
+                0x00000000       0x14 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_ForcedOC2Config
+                0x00000000       0x14 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_ForcedOC3Config
+                0x00000000       0x14 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_ForcedOC4Config
+                0x00000000       0x14 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_SelectCOM
+                0x00000000       0x18 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_SelectCCDMA
+                0x00000000       0x18 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_CCPreloadControl
+                0x00000000       0x18 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_OC1FastConfig
+                0x00000000       0x12 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_OC2FastConfig
+                0x00000000       0x16 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_OC3FastConfig
+                0x00000000       0x12 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_OC4FastConfig
+                0x00000000       0x16 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_ClearOC1Ref
+                0x00000000       0x14 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_ClearOC2Ref
+                0x00000000       0x12 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_ClearOC3Ref
+                0x00000000       0x14 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_ClearOC4Ref
+                0x00000000       0x12 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_OC1PolarityConfig
+                0x00000000       0x12 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_OC1NPolarityConfig
+                0x00000000       0x12 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_OC2PolarityConfig
+                0x00000000       0x16 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_OC2NPolarityConfig
+                0x00000000       0x16 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_OC3PolarityConfig
+                0x00000000       0x16 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_OC3NPolarityConfig
+                0x00000000       0x16 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_OC4PolarityConfig
+                0x00000000       0x14 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_CCxCmd
+                0x00000000       0x24 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_CCxNCmd
+                0x00000000       0x24 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_SelectOCxM
+                0x00000000       0x56 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_UpdateDisableConfig
+                0x00000000       0x18 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_UpdateRequestConfig
+                0x00000000       0x18 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_SelectHallSensor
+                0x00000000       0x1a C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_SelectOnePulseMode
+                0x00000000       0x1a C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_SelectOutputTrigger
+                0x00000000       0x1c C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_SelectSlaveMode
+                0x00000000       0x1a C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_SelectMasterSlaveMode
+                0x00000000       0x1c C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_SetCounter
+                0x00000000        0x6 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_SetAutoreload
+                0x00000000        0x6 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_SetIC1Prescaler
+                0x00000000       0x1a C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_SetIC2Prescaler
+                0x00000000       0x1e C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_PWMIConfig
+                0x00000000       0xaa C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_SetIC3Prescaler
+                0x00000000       0x1a C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_SetIC4Prescaler
+                0x00000000       0x1e C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_ICInit
+                0x00000000      0x154 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_SetClockDivision
+                0x00000000       0x1c C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_GetCapture2
+                0x00000000        0x8 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_GetCapture3
+                0x00000000        0x8 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_GetCapture4
+                0x00000000        0x8 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_GetCounter
+                0x00000000        0x6 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_GetPrescaler
+                0x00000000        0x6 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_GetFlagStatus
+                0x00000000        0xc C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_ClearFlag
+                0x00000000        0xa C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_IndicateCaptureLevelCmd
+                0x00000000       0x16 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_gpio_302f9672.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_gpio_302f9672.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_gpio_302f9672.o
+ .text.rovari_get_port
+                0x00000000       0x22 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_gpio_302f9672.o
+ .rodata.pin_mode.str1.4
+                0x00000000       0xa3 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_gpio_302f9672.o
+ .text.pin_mode
+                0x00000000      0x116 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_gpio_302f9672.o
+ .rodata.pin_mode
+                0x00000000       0x1c C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_gpio_302f9672.o
+ .text.digital_write
+                0x00000000       0x40 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_gpio_302f9672.o
+ .text.digital_read
+                0x00000000       0x30 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_gpio_302f9672.o
+ .text.pin_toggle
+                0x00000000       0x42 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_gpio_302f9672.o
+ .rodata.__PRETTY_FUNCTION__.3
+                0x00000000        0x9 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_gpio_302f9672.o
+ .sbss.s_port_clocks_enabled
+                0x00000000        0x1 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_gpio_302f9672.o
+ .rodata.rcc_table
+                0x00000000       0x10 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_gpio_302f9672.o
+ .rodata.port_table
+                0x00000000       0x10 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_gpio_302f9672.o
+ .debug_info    0x00000000      0x743 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_gpio_302f9672.o
+ .debug_abbrev  0x00000000      0x24e C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_gpio_302f9672.o
+ .debug_loclists
+                0x00000000      0x203 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_gpio_302f9672.o
+ .debug_aranges
+                0x00000000       0x40 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_gpio_302f9672.o
+ .debug_rnglists
+                0x00000000       0x39 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_gpio_302f9672.o
+ .debug_line    0x00000000      0x3d1 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_gpio_302f9672.o
+ .debug_str     0x00000000      0x4b6 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_gpio_302f9672.o
+ .debug_line_str
+                0x00000000      0x2f5 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_gpio_302f9672.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_gpio_302f9672.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_gpio_302f9672.o
+ .debug_frame   0x00000000       0xa8 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_gpio_302f9672.o
+ .riscv.attributes
+                0x00000000       0x3d C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_gpio_302f9672.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_main_9df9f901.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_main_9df9f901.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_main_9df9f901.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tick_ba34bfbd.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tick_ba34bfbd.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tick_ba34bfbd.o
+ .text.millis   0x00000000        0xa C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tick_ba34bfbd.o
+ .text.micros   0x00000000       0x46 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tick_ba34bfbd.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_button_f04fa8db.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_button_f04fa8db.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_button_f04fa8db.o
+ .text.find     0x00000000       0x36 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_button_f04fa8db.o
+ .text.update   0x00000000       0x7a C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_button_f04fa8db.o
+ .text.button_begin
+                0x00000000       0x72 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_button_f04fa8db.o
+ .text.button_pressed
+                0x00000000       0x34 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_button_f04fa8db.o
+ .text.button_released
+                0x00000000       0x34 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_button_f04fa8db.o
+ .text.button_held
+                0x00000000       0x44 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_button_f04fa8db.o
+ .text.button_state
+                0x00000000       0x2c C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_button_f04fa8db.o
+ .bss.s_buttons
+                0x00000000       0x50 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_button_f04fa8db.o
+ .debug_info    0x00000000      0x4df C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_button_f04fa8db.o
+ .debug_abbrev  0x00000000      0x1e8 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_button_f04fa8db.o
+ .debug_loclists
+                0x00000000      0x1ed C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_button_f04fa8db.o
+ .debug_aranges
+                0x00000000       0x50 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_button_f04fa8db.o
+ .debug_rnglists
+                0x00000000       0x4f C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_button_f04fa8db.o
+ .debug_line    0x00000000      0x559 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_button_f04fa8db.o
+ .debug_str     0x00000000      0x2bc C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_button_f04fa8db.o
+ .debug_line_str
+                0x00000000      0x259 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_button_f04fa8db.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_button_f04fa8db.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_button_f04fa8db.o
+ .debug_frame   0x00000000       0xe8 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_button_f04fa8db.o
+ .riscv.attributes
+                0x00000000       0x3d C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_button_f04fa8db.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/sevs_assert_target_d21dbdfb.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/sevs_assert_target_d21dbdfb.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/sevs_assert_target_d21dbdfb.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_usart_04110ab1.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_usart_04110ab1.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_usart_04110ab1.o
+ .text.USART_DeInit
+                0x00000000       0x36 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_usart_04110ab1.o
+ .text.USART_Init
+                0x00000000      0x100 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_usart_04110ab1.o
+ .text.USART_StructInit
+                0x00000000       0x18 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_usart_04110ab1.o
+ .text.USART_ClockInit
+                0x00000000       0x2a C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_usart_04110ab1.o
+ .text.USART_ClockStructInit
+                0x00000000       0x12 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_usart_04110ab1.o
+ .text.USART_Cmd
+                0x00000000       0x18 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_usart_04110ab1.o
+ .text.USART_ITConfig
+                0x00000000       0x38 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_usart_04110ab1.o
+ .text.USART_DMACmd
+                0x00000000       0x16 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_usart_04110ab1.o
+ .text.USART_SetAddress
+                0x00000000       0x1a C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_usart_04110ab1.o
+ .text.USART_WakeUpConfig
+                0x00000000       0x1c C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_usart_04110ab1.o
+ .text.USART_ReceiverWakeUpCmd
+                0x00000000       0x18 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_usart_04110ab1.o
+ .text.USART_LINBreakDetectLengthConfig
+                0x00000000       0x1c C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_usart_04110ab1.o
+ .text.USART_LINCmd
+                0x00000000       0x18 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_usart_04110ab1.o
+ .text.USART_SendData
+                0x00000000        0xa C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_usart_04110ab1.o
+ .text.USART_ReceiveData
+                0x00000000        0xa C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_usart_04110ab1.o
+ .text.USART_SendBreak
+                0x00000000        0xe C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_usart_04110ab1.o
+ .text.USART_SetGuardTime
+                0x00000000       0x1a C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_usart_04110ab1.o
+ .text.USART_SetPrescaler
+                0x00000000       0x1c C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_usart_04110ab1.o
+ .text.USART_SmartCardCmd
+                0x00000000       0x1a C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_usart_04110ab1.o
+ .text.USART_SmartCardNACKCmd
+                0x00000000       0x18 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_usart_04110ab1.o
+ .text.USART_HalfDuplexCmd
+                0x00000000       0x18 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_usart_04110ab1.o
+ .text.USART_OverSampling8Cmd
+                0x00000000       0x16 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_usart_04110ab1.o
+ .text.USART_OneBitMethodCmd
+                0x00000000       0x1e C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_usart_04110ab1.o
+ .text.USART_IrDAConfig
+                0x00000000       0x1a C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_usart_04110ab1.o
+ .text.USART_IrDACmd
+                0x00000000       0x18 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_usart_04110ab1.o
+ .text.USART_GetFlagStatus
+                0x00000000        0xc C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_usart_04110ab1.o
+ .text.USART_ClearFlag
+                0x00000000        0xa C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_usart_04110ab1.o
+ .text.USART_GetITStatus
+                0x00000000       0x42 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_usart_04110ab1.o
+ .text.USART_ClearITPendingBit
+                0x00000000       0x12 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_usart_04110ab1.o
+ .debug_info    0x00000000      0xab9 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_usart_04110ab1.o
+ .debug_abbrev  0x00000000      0x20b C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_usart_04110ab1.o
+ .debug_loclists
+                0x00000000      0x5d5 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_usart_04110ab1.o
+ .debug_aranges
+                0x00000000      0x100 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_usart_04110ab1.o
+ .debug_rnglists
+                0x00000000       0xbc C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_usart_04110ab1.o
+ .debug_line    0x00000000      0xbbe C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_usart_04110ab1.o
+ .debug_str     0x00000000      0x6e4 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_usart_04110ab1.o
+ .debug_line_str
+                0x00000000      0x277 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_usart_04110ab1.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_usart_04110ab1.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_usart_04110ab1.o
+ .debug_frame   0x00000000      0x204 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_usart_04110ab1.o
+ .riscv.attributes
+                0x00000000       0x3d C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_usart_04110ab1.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_uart_f547dc16.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_uart_f547dc16.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_uart_f547dc16.o
+ .text.uart_init
+                0x00000000       0xa8 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_uart_f547dc16.o
+ .text.uart_write_byte
+                0x00000000       0x48 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_uart_f547dc16.o
+ .rodata.uart_print.str1.4
+                0x00000000       0x86 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_uart_f547dc16.o
+ .text.uart_print
+                0x00000000       0x54 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_uart_f547dc16.o
+ .text.uart_println
+                0x00000000       0x60 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_uart_f547dc16.o
+ .rodata.uart_printf.str1.4
+                0x00000000        0xe C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_uart_f547dc16.o
+ .text.uart_printf
+                0x00000000       0x66 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_uart_f547dc16.o
+ .text.uart_read_byte
+                0x00000000       0x48 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_uart_f547dc16.o
+ .text.uart_available
+                0x00000000       0x28 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_uart_f547dc16.o
+ .rodata.uart_read_line.str1.4
+                0x00000000        0xe C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_uart_f547dc16.o
+ .text.uart_read_line
+                0x00000000      0x14c C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_uart_f547dc16.o
+ .rodata.__PRETTY_FUNCTION__.2
+                0x00000000        0xf C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_uart_f547dc16.o
+ .rodata.__PRETTY_FUNCTION__.3
+                0x00000000        0xc C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_uart_f547dc16.o
+ .rodata.__PRETTY_FUNCTION__.4
+                0x00000000        0xd C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_uart_f547dc16.o
+ .rodata.__PRETTY_FUNCTION__.5
+                0x00000000        0xb C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_uart_f547dc16.o
+ .bss.rx_ring1  0x00000000       0x44 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_uart_f547dc16.o
+ .debug_info    0x00000000      0xcbb C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_uart_f547dc16.o
+ .debug_abbrev  0x00000000      0x30f C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_uart_f547dc16.o
+ .debug_loclists
+                0x00000000      0x3ae C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_uart_f547dc16.o
+ .debug_aranges
+                0x00000000       0x58 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_uart_f547dc16.o
+ .debug_rnglists
+                0x00000000       0x89 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_uart_f547dc16.o
+ .debug_line    0x00000000      0x7d6 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_uart_f547dc16.o
+ .debug_str     0x00000000      0x5e5 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_uart_f547dc16.o
+ .debug_line_str
+                0x00000000      0x408 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_uart_f547dc16.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_uart_f547dc16.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_uart_f547dc16.o
+ .debug_frame   0x00000000      0x124 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_uart_f547dc16.o
+ .riscv.attributes
+                0x00000000       0x3d C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_uart_f547dc16.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_timer_47c1ffdd.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_timer_47c1ffdd.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_timer_47c1ffdd.o
+ .text.timer_start
+                0x00000000       0xd4 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_timer_47c1ffdd.o
+ .text.timer_start_ms
+                0x00000000       0x3e C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_timer_47c1ffdd.o
+ .text.timer_stop
+                0x00000000       0x48 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_timer_47c1ffdd.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_pwm_ece3d11f.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_pwm_ece3d11f.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_pwm_ece3d11f.o
+ .text.pwm_write
+                0x00000000       0x52 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_pwm_ece3d11f.o
+ .text.pwm_write_us
+                0x00000000       0x72 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_pwm_ece3d11f.o
+ .text.pwm_write_raw
+                0x00000000       0x2e C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_pwm_ece3d11f.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_capture_237520a6.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_capture_237520a6.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_capture_237520a6.o
+ .text.capture_init
+                0x00000000       0xe2 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_capture_237520a6.o
+ .text.capture_stop
+                0x00000000       0x48 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_capture_237520a6.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tone_7826bf61.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tone_7826bf61.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tone_7826bf61.o
+ .text.tone_play_ms
+                0x00000000       0x60 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tone_7826bf61.o
+ .text.tone_update
+                0x00000000       0x4c C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tone_7826bf61.o
+ .text.tone_is_playing
+                0x00000000       0x36 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tone_7826bf61.o
+ .sbss.s_duration
+                0x00000000        0x2 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tone_7826bf61.o
+ .sbss.s_start_ms
+                0x00000000        0x4 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tone_7826bf61.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(save-restore.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(save-restore.o)
+ .eh_frame      0x00000000       0x68 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(save-restore.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(muldi3.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(muldi3.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(div.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(div.o)
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-vsnprintf.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-vsnprintf.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-vsnprintf.o)
+ .text._vsnprintf_r
+                0x00000000       0x64 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-vsnprintf.o)
+ .text.vsnprintf
+                0x00000000       0x18 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-vsnprintf.o)
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-vsnprintf.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-vsnprintf.o)
+ .riscv.attributes
+                0x00000000       0x28 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-vsnprintf.o)
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-strncpy.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-strncpy.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-strncpy.o)
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-impure.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-impure.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-impure.o)
+ .sdata._impure_ptr
+                0x00000000        0x4 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-impure.o)
+ .data._impure_data
+                0x00000000       0x4c C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-impure.o)
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-impure.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-impure.o)
+ .riscv.attributes
+                0x00000000       0x28 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-impure.o)
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-init.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-init.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-init.o)
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-nano-svfprintf.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-nano-svfprintf.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-nano-svfprintf.o)
+ .text.__ssputs_r
+                0x00000000       0xf8 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-nano-svfprintf.o)
+ .text.__ssprint_r
+                0x00000000      0x138 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-nano-svfprintf.o)
+ .rodata._svfprintf_r.str1.4
+                0x00000000       0x13 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-nano-svfprintf.o)
+ .text._svfprintf_r
+                0x00000000      0x2aa C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-nano-svfprintf.o)
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-nano-svfprintf.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-nano-svfprintf.o)
+ .riscv.attributes
+                0x00000000       0x28 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-nano-svfprintf.o)
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-nano-vfprintf_i.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-nano-vfprintf_i.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-nano-vfprintf_i.o)
+ .text._printf_common
+                0x00000000       0xfc C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-nano-vfprintf_i.o)
+ .rodata._printf_i.str1.4
+                0x00000000       0x25 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-nano-vfprintf_i.o)
+ .text._printf_i
+                0x00000000      0x288 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-nano-vfprintf_i.o)
+ .rodata._printf_i
+                0x00000000       0x58 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-nano-vfprintf_i.o)
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-nano-vfprintf_i.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-nano-vfprintf_i.o)
+ .riscv.attributes
+                0x00000000       0x28 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-nano-vfprintf_i.o)
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-memchr.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-memchr.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-memchr.o)
+ .text.memchr   0x00000000       0x1a C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-memchr.o)
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-memchr.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-memchr.o)
+ .riscv.attributes
+                0x00000000       0x28 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-memchr.o)
+ .text          0x00000000       0x26 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-memmove.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-memmove.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-memmove.o)
+ .riscv.attributes
+                0x00000000       0x26 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-memmove.o)
+ .text          0x00000000       0x16 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-memcpy-asm.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-memcpy-asm.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-memcpy-asm.o)
+ .riscv.attributes
+                0x00000000       0x26 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-memcpy-asm.o)
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-freer.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-freer.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-freer.o)
+ .text._free_r  0x00000000       0xae C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-freer.o)
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-freer.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-freer.o)
+ .riscv.attributes
+                0x00000000       0x28 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-freer.o)
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-mallocr.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-mallocr.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-mallocr.o)
+ .text.sbrk_aligned
+                0x00000000       0x62 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-mallocr.o)
+ .text._malloc_r
+                0x00000000      0x142 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-mallocr.o)
+ .sbss.__malloc_sbrk_start
+                0x00000000        0x4 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-mallocr.o)
+ .sbss.__malloc_free_list
+                0x00000000        0x4 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-mallocr.o)
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-mallocr.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-mallocr.o)
+ .riscv.attributes
+                0x00000000       0x28 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-mallocr.o)
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-mlock.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-mlock.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-mlock.o)
+ .text.__malloc_lock
+                0x00000000       0x10 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-mlock.o)
+ .text.__malloc_unlock
+                0x00000000       0x10 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-mlock.o)
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-mlock.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-mlock.o)
+ .riscv.attributes
+                0x00000000       0x28 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-mlock.o)
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-reallocr.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-reallocr.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-reallocr.o)
+ .text._realloc_r
+                0x00000000       0x86 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-reallocr.o)
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-reallocr.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-reallocr.o)
+ .riscv.attributes
+                0x00000000       0x28 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-reallocr.o)
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-sbrkr.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-sbrkr.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-sbrkr.o)
+ .text._sbrk_r  0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-sbrkr.o)
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-sbrkr.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-sbrkr.o)
+ .riscv.attributes
+                0x00000000       0x28 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-sbrkr.o)
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-lock.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-lock.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_init
+                0x00000000        0x2 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x00000000        0x2 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_close
+                0x00000000        0x2 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x00000000        0x2 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x00000000        0x2 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_acquire_recursive
+                0x00000000        0x2 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x00000000        0x4 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x00000000        0x4 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_release
+                0x00000000        0x2 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_release_recursive
+                0x00000000        0x2 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-lock.o)
+ .sbss.__lock___arc4random_mutex
+                0x00000000        0x1 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-lock.o)
+ .sbss.__lock___dd_hash_mutex
+                0x00000000        0x1 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-lock.o)
+ .sbss.__lock___tz_mutex
+                0x00000000        0x1 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-lock.o)
+ .sbss.__lock___env_recursive_mutex
+                0x00000000        0x1 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-lock.o)
+ .sbss.__lock___malloc_recursive_mutex
+                0x00000000        0x1 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-lock.o)
+ .sbss.__lock___at_quick_exit_mutex
+                0x00000000        0x1 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-lock.o)
+ .sbss.__lock___atexit_recursive_mutex
+                0x00000000        0x1 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-lock.o)
+ .sbss.__lock___sfp_recursive_mutex
+                0x00000000        0x1 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-lock.o)
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-lock.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-lock.o)
+ .riscv.attributes
+                0x00000000       0x28 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-lock.o)
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-msizer.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-msizer.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-msizer.o)
+ .text._malloc_usable_size_r
+                0x00000000       0x14 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-msizer.o)
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-msizer.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-msizer.o)
+ .riscv.attributes
+                0x00000000       0x28 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-msizer.o)
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-reent.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-reent.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-reent.o)
+ .text._reclaim_reent
+                0x00000000      0x106 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-reent.o)
+ .sbss.errno    0x00000000        0x4 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-reent.o)
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-reent.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-reent.o)
+ .riscv.attributes
+                0x00000000       0x28 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-reent.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x00000000         0x00004000         xr
+RAM              0x20000000         0x00000800         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/app_a7edf8fa.o
+LOAD C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari.blocks_81508510.o
+LOAD C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_it_39d44d81.o
+LOAD C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/startup_dd1b3d20.o
+LOAD C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/system_ch32v00x_d3983265.o
+LOAD C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/core_riscv_7218a11c.o
+LOAD C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/debug_612e4371.o
+LOAD C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_gpio_51f76e01.o
+LOAD C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_rcc_87dcd468.o
+LOAD C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_misc_9a0fbf45.o
+LOAD C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+LOAD C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_gpio_302f9672.o
+LOAD C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_main_9df9f901.o
+LOAD C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tick_ba34bfbd.o
+LOAD C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_button_f04fa8db.o
+LOAD C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/sevs_assert_target_d21dbdfb.o
+LOAD C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_usart_04110ab1.o
+LOAD C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_uart_f547dc16.o
+LOAD C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_timer_47c1ffdd.o
+LOAD C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_pwm_ece3d11f.o
+LOAD C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_capture_237520a6.o
+LOAD C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tone_7826bf61.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libstdc++_nano.a
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libm_nano.a
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a
+START GROUP
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libnosys.a
+END GROUP
+START GROUP
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libnosys.a
+END GROUP
+                0x00000100                        __stack_size = 0x100
+                [!provide]                        PROVIDE (_stack_size = __stack_size)
+
+.init           0x00000000       0xa0
+                0x00000000                        _sinit = .
+                0x00000000                        . = ALIGN (0x4)
+ *(SORT_NONE(.init))
+ .init          0x00000000       0x9e C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/startup_dd1b3d20.o
+                0x00000000                _start
+                0x000000a0                        . = ALIGN (0x4)
+ *fill*         0x0000009e        0x2 
+                0x000000a0                        _einit = .
+
+.highcodelalign
+                0x000000a0        0x0
+                0x000000a0                        . = ALIGN (0x4)
+                0x000000a0                        PROVIDE (_highcode_lma = .)
+
+.highcode       0x20000000        0x0 load address 0x000000a0
+                0x20000000                        . = ALIGN (0x4)
+                0x20000000                        PROVIDE (_highcode_vma_start = .)
+ *(.highcode)
+ *(.highcode.*)
+                0x20000000                        . = ALIGN (0x4)
+                0x20000000                        PROVIDE (_highcode_vma_end = .)
+
+.text           0x000000a0     0x1544
+                0x000000a0                        . = ALIGN (0x4)
+ *(.text)
+ .text          0x000000a0       0x16 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(save-restore.o)
+                0x000000a0                __riscv_save_1
+                0x000000a0                __riscv_save_2
+                0x000000a0                __riscv_save_0
+                0x000000ac                __riscv_restore_0
+                0x000000ac                __riscv_restore_1
+                0x000000ac                __riscv_restore_2
+ *fill*         0x000000b6        0x2 
+ .text          0x000000b8       0x14 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(muldi3.o)
+                0x000000b8                __mulsi3
+ .text          0x000000cc       0x7e C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(div.o)
+                0x000000cc                __divsi3
+                0x000000d4                __udivsi3
+                0x000000d4                __hidden___udivsi3
+                0x00000100                __umodsi3
+                0x00000124                __modsi3
+ *(.text.*)
+ .text.app_init
+                0x0000014a        0x2 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/app_a7edf8fa.o
+                0x0000014a                app_init
+ .text.app_run  0x0000014c      0x166 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/app_a7edf8fa.o
+                0x0000014c                app_run
+ .text.NMI_Handler
+                0x000002b2        0x2 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_it_39d44d81.o
+                0x000002b2                NMI_Handler
+ .text.HardFault_Handler
+                0x000002b4       0x10 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_it_39d44d81.o
+                0x000002b4                HardFault_Handler
+ .text.vector_handler
+                0x000002c4        0x2 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/startup_dd1b3d20.o
+                0x000002c4                SysTick_Handler
+                0x000002c4                PVD_IRQHandler
+                0x000002c4                SPI1_IRQHandler
+                0x000002c4                AWU_IRQHandler
+                0x000002c4                EXTI7_0_IRQHandler
+                0x000002c4                DMA1_Channel4_IRQHandler
+                0x000002c4                ADC1_IRQHandler
+                0x000002c4                DMA1_Channel7_IRQHandler
+                0x000002c4                I2C1_EV_IRQHandler
+                0x000002c4                DMA1_Channel6_IRQHandler
+                0x000002c4                RCC_IRQHandler
+                0x000002c4                TIM1_TRG_COM_IRQHandler
+                0x000002c4                DMA1_Channel1_IRQHandler
+                0x000002c4                DMA1_Channel5_IRQHandler
+                0x000002c4                DMA1_Channel3_IRQHandler
+                0x000002c4                WWDG_IRQHandler
+                0x000002c4                SW_Handler
+                0x000002c4                TIM1_BRK_IRQHandler
+                0x000002c4                DMA1_Channel2_IRQHandler
+                0x000002c4                FLASH_IRQHandler
+                0x000002c4                USART1_IRQHandler
+                0x000002c4                I2C1_ER_IRQHandler
+ .text.handle_reset
+                0x000002c6       0xb2 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/startup_dd1b3d20.o
+                0x000002c6                handle_reset
+ .text.SystemInit
+                0x00000378       0xd8 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/system_ch32v00x_d3983265.o
+                0x00000378                SystemInit
+ .text.SystemCoreClockUpdate
+                0x00000450       0x5e C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/system_ch32v00x_d3983265.o
+                0x00000450                SystemCoreClockUpdate
+ .text.Delay_Init
+                0x000004ae       0x30 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/debug_612e4371.o
+                0x000004ae                Delay_Init
+ .text.Delay_Ms
+                0x000004de       0x32 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/debug_612e4371.o
+                0x000004de                Delay_Ms
+ .text.GPIO_Init
+                0x00000510       0x7c C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_gpio_51f76e01.o
+                0x00000510                GPIO_Init
+ .text.GPIO_ResetBits
+                0x0000058c        0x4 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_gpio_51f76e01.o
+                0x0000058c                GPIO_ResetBits
+ .text.RCC_AdjustHSICalibrationValue
+                0x00000590       0x12 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_rcc_87dcd468.o
+                0x00000590                RCC_AdjustHSICalibrationValue
+ .text.RCC_APB2PeriphClockCmd
+                0x000005a2       0x18 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_rcc_87dcd468.o
+                0x000005a2                RCC_APB2PeriphClockCmd
+ .text.RCC_APB1PeriphClockCmd
+                0x000005ba       0x18 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_rcc_87dcd468.o
+                0x000005ba                RCC_APB1PeriphClockCmd
+ .text.NVIC_PriorityGroupConfig
+                0x000005d2        0x6 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_misc_9a0fbf45.o
+                0x000005d2                NVIC_PriorityGroupConfig
+ .text.TIM_TimeBaseInit
+                0x000005d8       0x5c C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+                0x000005d8                TIM_TimeBaseInit
+ .text.TIM_OC1Init
+                0x00000634       0x7e C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+                0x00000634                TIM_OC1Init
+ .text.TIM_OC2Init
+                0x000006b2       0x92 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+                0x000006b2                TIM_OC2Init
+ .text.TIM_OC3Init
+                0x00000744       0x94 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+                0x00000744                TIM_OC3Init
+ .text.TIM_OC4Init
+                0x000007d8       0x6e C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+                0x000007d8                TIM_OC4Init
+ .text.TIM_Cmd  0x00000846       0x18 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+                0x00000846                TIM_Cmd
+ .text.TIM_CtrlPWMOutputs
+                0x0000085e       0x16 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+                0x0000085e                TIM_CtrlPWMOutputs
+ .text.TIM_ITConfig
+                0x00000874       0x16 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+                0x00000874                TIM_ITConfig
+ .text.TIM_ARRPreloadConfig
+                0x0000088a       0x1a C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+                0x0000088a                TIM_ARRPreloadConfig
+ .text.TIM_OC1PreloadConfig
+                0x000008a4       0x12 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+                0x000008a4                TIM_OC1PreloadConfig
+ .text.TIM_OC2PreloadConfig
+                0x000008b6       0x16 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+                0x000008b6                TIM_OC2PreloadConfig
+ .text.TIM_OC3PreloadConfig
+                0x000008cc       0x12 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+                0x000008cc                TIM_OC3PreloadConfig
+ .text.TIM_OC4PreloadConfig
+                0x000008de       0x16 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+                0x000008de                TIM_OC4PreloadConfig
+ .text.TIM_SetCompare1
+                0x000008f4        0x4 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+                0x000008f4                TIM_SetCompare1
+ .text.TIM_SetCompare2
+                0x000008f8        0x4 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+                0x000008f8                TIM_SetCompare2
+ .text.TIM_SetCompare3
+                0x000008fc        0x4 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+                0x000008fc                TIM_SetCompare3
+ .text.TIM_SetCompare4
+                0x00000900        0x4 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+                0x00000900                TIM_SetCompare4
+ .text.TIM_GetCapture1
+                0x00000904        0x8 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+                0x00000904                TIM_GetCapture1
+ .text.TIM_GetITStatus
+                0x0000090c       0x18 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+                0x0000090c                TIM_GetITStatus
+ .text.TIM_ClearITPendingBit
+                0x00000924        0xa C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+                0x00000924                TIM_ClearITPendingBit
+ .text.startup.main
+                0x0000092e       0x42 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_main_9df9f901.o
+                0x0000092e                main
+ .text.TIM2_IRQHandler
+                0x00000970       0x50 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tick_ba34bfbd.o
+                0x00000970                TIM2_IRQHandler
+ .text.rovari_tick_init
+                0x000009c0       0x92 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tick_ba34bfbd.o
+                0x000009c0                rovari_tick_init
+ .text.sevs_assert_fail
+                0x00000a52       0x7c C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/sevs_assert_target_d21dbdfb.o
+                0x00000a52                sevs_assert_fail
+ .text.TIM1_UP_IRQHandler
+                0x00000ace       0x56 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_timer_47c1ffdd.o
+                0x00000ace                TIM1_UP_IRQHandler
+ .text.find_pin
+                0x00000b24       0x26 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_pwm_ece3d11f.o
+ .text.set_compare
+                0x00000b4a       0x54 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_pwm_ece3d11f.o
+ .text.pwm_init
+                0x00000b9e      0x164 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_pwm_ece3d11f.o
+                0x00000b9e                pwm_init
+ .text.pwm_write_pct
+                0x00000d02       0x42 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_pwm_ece3d11f.o
+                0x00000d02                pwm_write_pct
+ .text.pwm_stop
+                0x00000d44       0x40 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_pwm_ece3d11f.o
+                0x00000d44                pwm_stop
+ .text.TIM1_CC_IRQHandler
+                0x00000d84       0x64 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_capture_237520a6.o
+                0x00000d84                TIM1_CC_IRQHandler
+ .text.tone_play.part.0
+                0x00000de8       0x18 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tone_7826bf61.o
+ .text.tone_play
+                0x00000e00       0x10 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tone_7826bf61.o
+                0x00000e00                tone_play
+ .text.tone_stop
+                0x00000e10       0x24 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tone_7826bf61.o
+                0x00000e10                tone_stop
+ .text.tone_click
+                0x00000e34       0x1c C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tone_7826bf61.o
+                0x00000e34                tone_click
+ .text.tone_beep
+                0x00000e50       0x46 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tone_7826bf61.o
+                0x00000e50                tone_beep
+ .text.tone_success
+                0x00000e96       0x2c C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tone_7826bf61.o
+                0x00000e96                tone_success
+ .text.tone_error
+                0x00000ec2       0x3c C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tone_7826bf61.o
+                0x00000ec2                tone_error
+ .text.tone_warning
+                0x00000efe       0x30 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tone_7826bf61.o
+                0x00000efe                tone_warning
+ .text.tone_startup
+                0x00000f2e       0x3c C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tone_7826bf61.o
+                0x00000f2e                tone_startup
+ .text.tone_shutdown
+                0x00000f6a       0x3c C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tone_7826bf61.o
+                0x00000f6a                tone_shutdown
+ .text.tone_doorbell
+                0x00000fa6       0x2c C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tone_7826bf61.o
+                0x00000fa6                tone_doorbell
+ .text.tone_notification
+                0x00000fd2       0x38 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tone_7826bf61.o
+                0x00000fd2                tone_notification
+ .text.tone_alarm
+                0x0000100a       0x46 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tone_7826bf61.o
+                0x0000100a                tone_alarm
+ .text.tone_ring
+                0x00001050       0x96 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tone_7826bf61.o
+                0x00001050                tone_ring
+ .text.tone_countdown
+                0x000010e6       0x5a C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tone_7826bf61.o
+                0x000010e6                tone_countdown
+ .text.tone_chirp
+                0x00001140       0x38 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tone_7826bf61.o
+                0x00001140                tone_chirp
+ .text.tone_siren
+                0x00001178       0xae C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tone_7826bf61.o
+                0x00001178                tone_siren
+ .text.tone_sweep
+                0x00001226       0x7e C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tone_7826bf61.o
+                0x00001226                tone_sweep
+ .text.tone_alert
+                0x000012a4       0x54 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tone_7826bf61.o
+                0x000012a4                tone_alert
+ .text.tone_trill
+                0x000012f8       0x52 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tone_7826bf61.o
+                0x000012f8                tone_trill
+ .text.tone_melody
+                0x0000134a       0x60 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tone_7826bf61.o
+                0x0000134a                tone_melody
+ .text.strncpy  0x000013aa       0x24 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-strncpy.o)
+                0x000013aa                strncpy
+ .text.__libc_init_array
+                0x000013ce       0x72 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-init.o)
+                0x000013ce                __libc_init_array
+ *(.rodata)
+ *(.rodata*)
+ *fill*         0x00001440        0x0 
+ .rodata._ZZ7app_runE5times
+                0x00001440       0x20 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/app_a7edf8fa.o
+ .rodata._ZZ7app_runE5notes
+                0x00001460       0x20 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/app_a7edf8fa.o
+ .rodata.AHBPrescTable
+                0x00001480       0x10 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/system_ch32v00x_d3983265.o
+                0x00001480                AHBPrescTable
+ .rodata.main.str1.4
+                0x00001490      0x11e C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_main_9df9f901.o
+                                 0x8d (size before relaxing)
+ .rodata.rovari_tick_init.str1.4
+                0x000015ae        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tick_ba34bfbd.o
+                                 0x8e (size before relaxing)
+ *fill*         0x000015ae        0x2 
+ .rodata.__PRETTY_FUNCTION__.0
+                0x000015b0       0x11 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tick_ba34bfbd.o
+ *fill*         0x000015c1        0x3 
+ .rodata.pwm_pins
+                0x000015c4       0x20 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_pwm_ece3d11f.o
+ *(.gnu.linkonce.t.*)
+                0x000015e4                        . = ALIGN (0x4)
+
+.rela.dyn       0x000015e4        0x0
+ .rela.init     0x000015e4        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/app_a7edf8fa.o
+ .rela.text.handle_reset
+                0x000015e4        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/app_a7edf8fa.o
+ .rela.text.__libc_init_array
+                0x000015e4        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/app_a7edf8fa.o
+
+.fini           0x000015e4        0x0
+ *(SORT_NONE(.fini))
+                0x000015e4                        . = ALIGN (0x4)
+                [!provide]                        PROVIDE (_etext = .)
+                [!provide]                        PROVIDE (_eitcm = .)
+
+.preinit_array  0x000015e4        0x0
+                0x000015e4                        PROVIDE (__preinit_array_start = .)
+ *(.preinit_array)
+                0x000015e4                        PROVIDE (__preinit_array_end = .)
+
+.init_array     0x000015e4        0x0
+                0x000015e4                        PROVIDE (__init_array_start = .)
+ *(SORT_BY_INIT_PRIORITY(.init_array.*) SORT_BY_INIT_PRIORITY(.ctors.*))
+ *(.init_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .ctors)
+                0x000015e4                        PROVIDE (__init_array_end = .)
+
+.fini_array     0x000015e4        0x0
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_INIT_PRIORITY(.fini_array.*) SORT_BY_INIT_PRIORITY(.dtors.*))
+ *(.fini_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .dtors)
+                [!provide]                        PROVIDE (__fini_array_end = .)
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+
+.dalign         0x20000000        0x0 load address 0x000015e4
+                0x20000000                        . = ALIGN (0x4)
+                0x20000000                        PROVIDE (_data_vma = .)
+
+.dlalign        0x000015e4        0x0
+                0x000015e4                        . = ALIGN (0x4)
+                0x000015e4                        PROVIDE (_data_lma = .)
+
+.data           0x20000000       0x10 load address 0x000015e4
+                0x20000000                        . = ALIGN (0x4)
+ *(.gnu.linkonce.r.*)
+ *(.data .data.*)
+ *(.gnu.linkonce.d.*)
+                0x20000000                        . = ALIGN (0x8)
+                0x20000800                        PROVIDE (__global_pointer$ = (. + 0x800))
+ *(.sdata .sdata.*)
+ .sdata.SystemCoreClock
+                0x20000000        0x4 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/system_ch32v00x_d3983265.o
+                0x20000000                SystemCoreClock
+ *(.sdata2*)
+ *(.gnu.linkonce.s.*)
+                0x20000008                        . = ALIGN (0x8)
+ *fill*         0x20000004        0x4 
+ *(.srodata.cst16)
+ *(.srodata.cst8)
+ *(.srodata.cst4)
+ *(.srodata.cst2)
+ *(.srodata .srodata.*)
+ .srodata.__PRETTY_FUNCTION__.0
+                0x20000008        0x5 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_main_9df9f901.o
+                0x20000010                        . = ALIGN (0x4)
+ *fill*         0x2000000d        0x3 
+                0x20000010                        PROVIDE (_edata = .)
+
+.bss            0x20000010       0x1c load address 0x000015f4
+                0x20000010                        . = ALIGN (0x4)
+                0x20000010                        PROVIDE (_sbss = .)
+ *(.sbss*)
+ .sbss.p_ms     0x20000010        0x2 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/debug_612e4371.o
+ .sbss.p_us     0x20000012        0x1 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/debug_612e4371.o
+ *fill*         0x20000013        0x1 
+ .sbss.NVIC_Priority_Group
+                0x20000014        0x4 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_misc_9a0fbf45.o
+                0x20000014                NVIC_Priority_Group
+ .sbss.s_ms_counter
+                0x20000018        0x4 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tick_ba34bfbd.o
+ .sbss.s_tim1_callback
+                0x2000001c        0x4 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_timer_47c1ffdd.o
+ .sbss.s_timer_period
+                0x20000020        0x2 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_pwm_ece3d11f.o
+ *fill*         0x20000022        0x2 
+ .sbss.s_capture_cb
+                0x20000024        0x4 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_capture_237520a6.o
+ .sbss.s_active
+                0x20000028        0x1 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tone_7826bf61.o
+ .sbss.s_pin    0x20000029        0x1 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tone_7826bf61.o
+ *(.gnu.linkonce.sb.*)
+ *(.bss*)
+ *(.gnu.linkonce.b.*)
+ *(COMMON*)
+                0x2000002c                        . = ALIGN (0x4)
+ *fill*         0x2000002a        0x2 
+                0x2000002c                        PROVIDE (_ebss = .)
+                0x2000002c                        PROVIDE (_end = _ebss)
+                [!provide]                        PROVIDE (end = .)
+
+.stack          0x20000700      0x100
+                0x20000700                        PROVIDE (_heap_end = .)
+                0x20000700                        . = ALIGN (0x4)
+                [!provide]                        PROVIDE (_susrstack = .)
+                0x20000800                        . = (. + __stack_size)
+ *fill*         0x20000700      0x100 
+                0x20000800                        PROVIDE (_eusrstack = .)
+OUTPUT(system\build\app.elf elf32-littleriscv)
+
+.debug_info     0x00000000     0x9560
+ .debug_info    0x00000000      0x911 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/app_a7edf8fa.o
+ .debug_info    0x00000911      0x2fa C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_it_39d44d81.o
+ .debug_info    0x00000c0b       0x23 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/startup_dd1b3d20.o
+ .debug_info    0x00000c2e      0x370 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/system_ch32v00x_d3983265.o
+ .debug_info    0x00000f9e      0x726 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/debug_612e4371.o
+ .debug_info    0x000016c4      0x7a1 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_gpio_51f76e01.o
+ .debug_info    0x00001e65      0x7f5 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_rcc_87dcd468.o
+ .debug_info    0x0000265a      0x53c C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_misc_9a0fbf45.o
+ .debug_info    0x00002b96     0x20f3 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .debug_info    0x00004c89      0x1f8 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_main_9df9f901.o
+ .debug_info    0x00004e81      0x94d C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tick_ba34bfbd.o
+ .debug_info    0x000057ce      0x249 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/sevs_assert_target_d21dbdfb.o
+ .debug_info    0x00005a17      0xa5d C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_timer_47c1ffdd.o
+ .debug_info    0x00006474      0xe01 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_pwm_ece3d11f.o
+ .debug_info    0x00007275      0xac0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_capture_237520a6.o
+ .debug_info    0x00007d35     0x1734 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tone_7826bf61.o
+ .debug_info    0x00009469       0x68 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(save-restore.o)
+ .debug_info    0x000094d1       0x31 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(muldi3.o)
+ .debug_info    0x00009502       0x5e C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(div.o)
+
+.debug_abbrev   0x00000000     0x1fc3
+ .debug_abbrev  0x00000000      0x120 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/app_a7edf8fa.o
+ .debug_abbrev  0x00000120      0x103 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_it_39d44d81.o
+ .debug_abbrev  0x00000223       0x12 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/startup_dd1b3d20.o
+ .debug_abbrev  0x00000235      0x1ba C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/system_ch32v00x_d3983265.o
+ .debug_abbrev  0x000003ef      0x217 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/debug_612e4371.o
+ .debug_abbrev  0x00000606      0x202 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_gpio_51f76e01.o
+ .debug_abbrev  0x00000808      0x248 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_rcc_87dcd468.o
+ .debug_abbrev  0x00000a50      0x1c4 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_misc_9a0fbf45.o
+ .debug_abbrev  0x00000c14      0x31f C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .debug_abbrev  0x00000f33      0x101 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_main_9df9f901.o
+ .debug_abbrev  0x00001034      0x2cc C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tick_ba34bfbd.o
+ .debug_abbrev  0x00001300      0x11d C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/sevs_assert_target_d21dbdfb.o
+ .debug_abbrev  0x0000141d      0x326 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_timer_47c1ffdd.o
+ .debug_abbrev  0x00001743      0x2d5 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_pwm_ece3d11f.o
+ .debug_abbrev  0x00001a18      0x26a C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_capture_237520a6.o
+ .debug_abbrev  0x00001c82      0x2c9 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tone_7826bf61.o
+ .debug_abbrev  0x00001f4b       0x28 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(save-restore.o)
+ .debug_abbrev  0x00001f73       0x28 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(muldi3.o)
+ .debug_abbrev  0x00001f9b       0x28 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(div.o)
+
+.debug_loclists
+                0x00000000     0x3155
+ .debug_loclists
+                0x00000000      0x118 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/app_a7edf8fa.o
+ .debug_loclists
+                0x00000118       0x77 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/system_ch32v00x_d3983265.o
+ .debug_loclists
+                0x0000018f      0x139 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/debug_612e4371.o
+ .debug_loclists
+                0x000002c8      0x50a C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_gpio_51f76e01.o
+ .debug_loclists
+                0x000007d2      0x3da C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_rcc_87dcd468.o
+ .debug_loclists
+                0x00000bac       0x6a C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_misc_9a0fbf45.o
+ .debug_loclists
+                0x00000c16     0x10d6 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .debug_loclists
+                0x00001cec       0x84 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tick_ba34bfbd.o
+ .debug_loclists
+                0x00001d70       0xa8 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/sevs_assert_target_d21dbdfb.o
+ .debug_loclists
+                0x00001e18      0x1ff C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_timer_47c1ffdd.o
+ .debug_loclists
+                0x00002017      0x450 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_pwm_ece3d11f.o
+ .debug_loclists
+                0x00002467       0xb0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_capture_237520a6.o
+ .debug_loclists
+                0x00002517      0xc3e C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tone_7826bf61.o
+
+.debug_aranges  0x00000000      0x7f0
+ .debug_aranges
+                0x00000000       0x28 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/app_a7edf8fa.o
+ .debug_aranges
+                0x00000028       0x28 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_it_39d44d81.o
+ .debug_aranges
+                0x00000050       0x30 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/startup_dd1b3d20.o
+ .debug_aranges
+                0x00000080       0x28 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/system_ch32v00x_d3983265.o
+ .debug_aranges
+                0x000000a8       0x50 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/debug_612e4371.o
+ .debug_aranges
+                0x000000f8       0x98 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_gpio_51f76e01.o
+ .debug_aranges
+                0x00000190       0xe0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_rcc_87dcd468.o
+ .debug_aranges
+                0x00000270       0x28 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_misc_9a0fbf45.o
+ .debug_aranges
+                0x00000298      0x2e8 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .debug_aranges
+                0x00000580       0x20 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_main_9df9f901.o
+ .debug_aranges
+                0x000005a0       0x38 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tick_ba34bfbd.o
+ .debug_aranges
+                0x000005d8       0x20 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/sevs_assert_target_d21dbdfb.o
+ .debug_aranges
+                0x000005f8       0x38 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_timer_47c1ffdd.o
+ .debug_aranges
+                0x00000630       0x58 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_pwm_ece3d11f.o
+ .debug_aranges
+                0x00000688       0x30 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_capture_237520a6.o
+ .debug_aranges
+                0x000006b8       0xd8 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tone_7826bf61.o
+ .debug_aranges
+                0x00000790       0x20 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(save-restore.o)
+ .debug_aranges
+                0x000007b0       0x20 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(muldi3.o)
+ .debug_aranges
+                0x000007d0       0x20 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(div.o)
+
+.debug_rnglists
+                0x00000000      0x6fc
+ .debug_rnglists
+                0x00000000       0x1a C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/app_a7edf8fa.o
+ .debug_rnglists
+                0x0000001a       0x19 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_it_39d44d81.o
+ .debug_rnglists
+                0x00000033       0x21 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/startup_dd1b3d20.o
+ .debug_rnglists
+                0x00000054       0x1a C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/system_ch32v00x_d3983265.o
+ .debug_rnglists
+                0x0000006e       0x37 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/debug_612e4371.o
+ .debug_rnglists
+                0x000000a5       0x6f C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_gpio_51f76e01.o
+ .debug_rnglists
+                0x00000114       0xa4 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_rcc_87dcd468.o
+ .debug_rnglists
+                0x000001b8       0x3d C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_misc_9a0fbf45.o
+ .debug_rnglists
+                0x000001f5      0x24f C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .debug_rnglists
+                0x00000444       0x13 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_main_9df9f901.o
+ .debug_rnglists
+                0x00000457       0x32 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tick_ba34bfbd.o
+ .debug_rnglists
+                0x00000489       0x14 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/sevs_assert_target_d21dbdfb.o
+ .debug_rnglists
+                0x0000049d       0x26 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_timer_47c1ffdd.o
+ .debug_rnglists
+                0x000004c3       0x60 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_pwm_ece3d11f.o
+ .debug_rnglists
+                0x00000523       0x2c C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_capture_237520a6.o
+ .debug_rnglists
+                0x0000054f      0x1ad C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tone_7826bf61.o
+
+.debug_line     0x00000000     0x70cc
+ .debug_line    0x00000000      0x476 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/app_a7edf8fa.o
+ .debug_line    0x00000476       0xc5 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_it_39d44d81.o
+ .debug_line    0x0000053b      0x144 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/startup_dd1b3d20.o
+ .debug_line    0x0000067f      0x376 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/system_ch32v00x_d3983265.o
+ .debug_line    0x000009f5      0x4b7 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/debug_612e4371.o
+ .debug_line    0x00000eac      0x872 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_gpio_51f76e01.o
+ .debug_line    0x0000171e      0xaaf C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_rcc_87dcd468.o
+ .debug_line    0x000021cd      0x1f0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_misc_9a0fbf45.o
+ .debug_line    0x000023bd     0x277a C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .debug_line    0x00004b37       0xcc C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_main_9df9f901.o
+ .debug_line    0x00004c03      0x2bb C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tick_ba34bfbd.o
+ .debug_line    0x00004ebe      0x158 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/sevs_assert_target_d21dbdfb.o
+ .debug_line    0x00005016      0x37b C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_timer_47c1ffdd.o
+ .debug_line    0x00005391      0x75f C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_pwm_ece3d11f.o
+ .debug_line    0x00005af0      0x2e6 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_capture_237520a6.o
+ .debug_line    0x00005dd6     0x10a8 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tone_7826bf61.o
+ .debug_line    0x00006e7e       0x81 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(save-restore.o)
+ .debug_line    0x00006eff       0x7a C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(muldi3.o)
+ .debug_line    0x00006f79      0x153 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(div.o)
+
+.debug_str      0x00000000     0x22c8
+ .debug_str     0x00000000     0x22c8 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/app_a7edf8fa.o
+                                0x302 (size before relaxing)
+ .debug_str     0x000022c8        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_it_39d44d81.o
+                                0x262 (size before relaxing)
+ .debug_str     0x000022c8        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/startup_dd1b3d20.o
+                                 0xa5 (size before relaxing)
+ .debug_str     0x000022c8        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/system_ch32v00x_d3983265.o
+                                0x2ee (size before relaxing)
+ .debug_str     0x000022c8        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/debug_612e4371.o
+                                0x528 (size before relaxing)
+ .debug_str     0x000022c8        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_gpio_51f76e01.o
+                                0x514 (size before relaxing)
+ .debug_str     0x000022c8        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_rcc_87dcd468.o
+                                0x58d (size before relaxing)
+ .debug_str     0x000022c8        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_misc_9a0fbf45.o
+                                0x4dc (size before relaxing)
+ .debug_str     0x000022c8        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+                                0xe3d (size before relaxing)
+ .debug_str     0x000022c8        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_main_9df9f901.o
+                                0x275 (size before relaxing)
+ .debug_str     0x000022c8        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tick_ba34bfbd.o
+                                0x69f (size before relaxing)
+ .debug_str     0x000022c8        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/sevs_assert_target_d21dbdfb.o
+                                0x219 (size before relaxing)
+ .debug_str     0x000022c8        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_timer_47c1ffdd.o
+                                0x675 (size before relaxing)
+ .debug_str     0x000022c8        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_pwm_ece3d11f.o
+                                0x75b (size before relaxing)
+ .debug_str     0x000022c8        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_capture_237520a6.o
+                                0x7c8 (size before relaxing)
+ .debug_str     0x000022c8        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tone_7826bf61.o
+                                0x3bd (size before relaxing)
+ .debug_str     0x000022c8        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(save-restore.o)
+                                0x205 (size before relaxing)
+ .debug_str     0x000022c8        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(muldi3.o)
+                                0x1a5 (size before relaxing)
+ .debug_str     0x000022c8        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(div.o)
+                                0x1d2 (size before relaxing)
+
+.debug_line_str
+                0x00000000      0xd2c
+ .debug_line_str
+                0x00000000      0xd2c C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/app_a7edf8fa.o
+                                0x2e4 (size before relaxing)
+ .debug_line_str
+                0x00000d2c        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_it_39d44d81.o
+                                0x26e (size before relaxing)
+ .debug_line_str
+                0x00000d2c        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/startup_dd1b3d20.o
+                                 0x99 (size before relaxing)
+ .debug_line_str
+                0x00000d2c        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/system_ch32v00x_d3983265.o
+                                0x26d (size before relaxing)
+ .debug_line_str
+                0x00000d2c        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/debug_612e4371.o
+                                0x310 (size before relaxing)
+ .debug_line_str
+                0x00000d2c        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_gpio_51f76e01.o
+                                0x274 (size before relaxing)
+ .debug_line_str
+                0x00000d2c        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_rcc_87dcd468.o
+                                0x262 (size before relaxing)
+ .debug_line_str
+                0x00000d2c        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_misc_9a0fbf45.o
+                                0x265 (size before relaxing)
+ .debug_line_str
+                0x00000d2c        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+                                0x271 (size before relaxing)
+ .debug_line_str
+                0x00000d2c        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_main_9df9f901.o
+                                0x2da (size before relaxing)
+ .debug_line_str
+                0x00000d2c        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tick_ba34bfbd.o
+                                0x2f8 (size before relaxing)
+ .debug_line_str
+                0x00000d2c        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/sevs_assert_target_d21dbdfb.o
+                                0x2d0 (size before relaxing)
+ .debug_line_str
+                0x00000d2c        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_timer_47c1ffdd.o
+                                0x2fa (size before relaxing)
+ .debug_line_str
+                0x00000d2c        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_pwm_ece3d11f.o
+                                0x305 (size before relaxing)
+ .debug_line_str
+                0x00000d2c        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_capture_237520a6.o
+                                0x30c (size before relaxing)
+ .debug_line_str
+                0x00000d2c        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tone_7826bf61.o
+                                0x2c4 (size before relaxing)
+ .debug_line_str
+                0x00000d2c        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(save-restore.o)
+                                0x196 (size before relaxing)
+ .debug_line_str
+                0x00000d2c        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(muldi3.o)
+                                0x190 (size before relaxing)
+ .debug_line_str
+                0x00000d2c        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(div.o)
+                                0x18d (size before relaxing)
+
+.comment        0x00000000       0x33
+ .comment       0x00000000       0x33 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/app_a7edf8fa.o
+                                 0x34 (size before relaxing)
+ .comment       0x00000033        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_it_39d44d81.o
+                                 0x34 (size before relaxing)
+ .comment       0x00000033        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/system_ch32v00x_d3983265.o
+                                 0x34 (size before relaxing)
+ .comment       0x00000033        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/debug_612e4371.o
+                                 0x34 (size before relaxing)
+ .comment       0x00000033        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_gpio_51f76e01.o
+                                 0x34 (size before relaxing)
+ .comment       0x00000033        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_rcc_87dcd468.o
+                                 0x34 (size before relaxing)
+ .comment       0x00000033        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_misc_9a0fbf45.o
+                                 0x34 (size before relaxing)
+ .comment       0x00000033        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+                                 0x34 (size before relaxing)
+ .comment       0x00000033        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_main_9df9f901.o
+                                 0x34 (size before relaxing)
+ .comment       0x00000033        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tick_ba34bfbd.o
+                                 0x34 (size before relaxing)
+ .comment       0x00000033        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/sevs_assert_target_d21dbdfb.o
+                                 0x34 (size before relaxing)
+ .comment       0x00000033        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_timer_47c1ffdd.o
+                                 0x34 (size before relaxing)
+ .comment       0x00000033        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_pwm_ece3d11f.o
+                                 0x34 (size before relaxing)
+ .comment       0x00000033        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_capture_237520a6.o
+                                 0x34 (size before relaxing)
+ .comment       0x00000033        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tone_7826bf61.o
+                                 0x34 (size before relaxing)
+ .comment       0x00000033        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-strncpy.o)
+                                 0x34 (size before relaxing)
+ .comment       0x00000033        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-init.o)
+                                 0x34 (size before relaxing)
+
+.note.GNU-stack
+                0x00000000        0x0
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/app_a7edf8fa.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_it_39d44d81.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/system_ch32v00x_d3983265.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/debug_612e4371.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_gpio_51f76e01.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_rcc_87dcd468.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_misc_9a0fbf45.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_main_9df9f901.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tick_ba34bfbd.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/sevs_assert_target_d21dbdfb.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_timer_47c1ffdd.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_pwm_ece3d11f.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_capture_237520a6.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tone_7826bf61.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-strncpy.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-init.o)
+
+.riscv.attributes
+                0x00000000       0x41
+ .riscv.attributes
+                0x00000000       0x3d C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/app_a7edf8fa.o
+ .riscv.attributes
+                0x0000003d       0x3d C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_it_39d44d81.o
+ .riscv.attributes
+                0x0000007a       0x3f C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/startup_dd1b3d20.o
+ .riscv.attributes
+                0x000000b9       0x3d C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/system_ch32v00x_d3983265.o
+ .riscv.attributes
+                0x000000f6       0x3d C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/debug_612e4371.o
+ .riscv.attributes
+                0x00000133       0x3d C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_gpio_51f76e01.o
+ .riscv.attributes
+                0x00000170       0x3d C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_rcc_87dcd468.o
+ .riscv.attributes
+                0x000001ad       0x3d C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_misc_9a0fbf45.o
+ .riscv.attributes
+                0x000001ea       0x3d C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .riscv.attributes
+                0x00000227       0x3d C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_main_9df9f901.o
+ .riscv.attributes
+                0x00000264       0x41 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tick_ba34bfbd.o
+ .riscv.attributes
+                0x000002a5       0x41 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/sevs_assert_target_d21dbdfb.o
+ .riscv.attributes
+                0x000002e6       0x41 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_timer_47c1ffdd.o
+ .riscv.attributes
+                0x00000327       0x3d C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_pwm_ece3d11f.o
+ .riscv.attributes
+                0x00000364       0x41 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_capture_237520a6.o
+ .riscv.attributes
+                0x000003a5       0x3d C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tone_7826bf61.o
+ .riscv.attributes
+                0x000003e2       0x26 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(save-restore.o)
+ .riscv.attributes
+                0x00000408       0x26 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(muldi3.o)
+ .riscv.attributes
+                0x0000042e       0x26 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(div.o)
+ .riscv.attributes
+                0x00000454       0x28 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-strncpy.o)
+ .riscv.attributes
+                0x0000047c       0x28 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-init.o)
+
+.debug_frame    0x00000000     0x11c8
+ .debug_frame   0x00000000       0x3c C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/app_a7edf8fa.o
+ .debug_frame   0x0000003c       0x30 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_it_39d44d81.o
+ .debug_frame   0x0000006c       0x4c C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/system_ch32v00x_d3983265.o
+ .debug_frame   0x000000b8       0xdc C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/debug_612e4371.o
+ .debug_frame   0x00000194      0x154 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_gpio_51f76e01.o
+ .debug_frame   0x000002e8      0x1d0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_rcc_87dcd468.o
+ .debug_frame   0x000004b8       0x30 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_misc_9a0fbf45.o
+ .debug_frame   0x000004e8      0x618 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/ch32v00x_tim_08755a84.o
+ .debug_frame   0x00000b00       0x28 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_main_9df9f901.o
+ .debug_frame   0x00000b28       0xa4 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tick_ba34bfbd.o
+ .debug_frame   0x00000bcc       0x2c C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/sevs_assert_target_d21dbdfb.o
+ .debug_frame   0x00000bf8       0xbc C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_timer_47c1ffdd.o
+ .debug_frame   0x00000cb4      0x114 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_pwm_ece3d11f.o
+ .debug_frame   0x00000dc8       0x9c C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_capture_237520a6.o
+ .debug_frame   0x00000e64      0x364 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/07_Sound_Effects/system/build/rovari_tone_7826bf61.o

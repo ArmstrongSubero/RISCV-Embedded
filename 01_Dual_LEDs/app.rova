@@ -1,0 +1,24 @@
+// 02_Dual_LEDs
+// Hardware: Two LEDs on PD0, one anode to pin, one cathode to pin
+#include "rovari.h"
+
+void app_init()
+{
+}
+
+void app_run()
+{
+    // LED A: sink current (PD0 = LOW)
+    pin_mode(PD0, Output);
+    digital_write(PD0, Low);
+    delay(1000);
+
+    // LED B: source current (PD0 = HIGH)
+    pin_mode(PD0, Output);
+    digital_write(PD0, High);
+    delay(1000);
+
+    // Both off: hi-Z
+    pin_mode(PD0, Input);
+    delay(1000);
+}

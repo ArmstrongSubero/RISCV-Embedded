@@ -1,0 +1,38 @@
+// 02_Dual_LEDs
+// Hardware: Two LEDs on PD0, one anode to pin, one cathode to pin
+#include "rovari.h"
+
+class DualLed {
+    public:
+        DualLed(pin_t pin) : _pin(pin) {}
+        
+        void sourceOn() { pin_mode(_pin, Output); 
+                          digital_write(_pin, High); }
+        
+        void sinkOn()   { pin_mode(_pin, Output); 
+                          digital_write(_pin, Low);  }
+        
+        void off()      { pin_mode(_pin, Input); }
+        
+    private:
+        pin_t _pin;
+};
+
+
+DualLed led(PD0);
+
+void app_init()
+{
+}
+
+void app_run()
+{
+    led.sinkOn();
+    delay(500);
+
+    led.sourceOn();
+    delay(500);
+
+    led.off();
+    delay(500);
+}

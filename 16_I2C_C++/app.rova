@@ -1,0 +1,39 @@
+/*
+ * Copyright (c) 2026 Armstrong Subero
+ *
+ * Program:  16_I2C (C++ style)
+ * Platform: CH32V003 / Rovari SDK
+ * Hardware: 24LC16B EEPROM
+ *           SCL=PC2, SDA=PC1 (4.7k pullups)
+ *           WCH-Link for UART (TX=PD5, RX=PD6)
+ */
+
+#include "rovari.h"
+
+#define EEPROM_ADDR 0x50
+
+Uart serial(SERIAL1, 115200);
+I2c bus(I2C_1, 100000);
+
+void app_init()
+{
+    serial.println("I2C EEPROM Test");
+}
+
+void app_run()
+{
+    static uint8_t val = 0;
+    static uint8_t addr = 0;
+
+    bus.writeReg(EEPROM_ADDR, addr, val);
+    delay(6);
+
+    uint8_t rd = bus.readReg(EEPROM_ADDR, addr);
+
+    uart_printf(SERIAL1, "W[%d]=%d R=%d %s\r\n",
+                addr, val, rd, (rd == val) ? "OK" : "FAIL");
+
+    val += 7;
+    addr = (addr + 1) & 0x0F;
+    delay(1000);
+}

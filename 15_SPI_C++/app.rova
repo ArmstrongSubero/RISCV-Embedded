@@ -1,0 +1,32 @@
+/*
+ * Copyright (c) 2026 Armstrong Subero
+ *
+ * Program: 15_SPI (C++ style)
+ * Platform: CH32V003 / Rovari SDK
+ * Hardware: MCP41010 digital potentiometer
+ *           SCK=PC5, MOSI=PC6, MISO=PC7, CS=PC3
+ */
+
+#include "rovari.h"
+
+#define MCP41010_CMD_WRITE 0x11
+
+Spi spi(SPI_1, 1000000);
+Gpio cs(PC3, Output);
+
+void app_init()
+{
+    cs.high();
+}
+
+void app_run()
+{
+    for (uint8_t i = 0; i < 255; i++)
+    {
+        cs.low();
+        spi.write(MCP41010_CMD_WRITE);
+        spi.write(i);
+        cs.high();
+        delay(10);
+    }
+}

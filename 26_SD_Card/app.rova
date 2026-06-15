@@ -1,0 +1,75 @@
+/*
+ * Copyright (c) 2026 Armstrong Subero
+ *
+ * Program:  26_SD_Logger (C style)
+ * Platform: CH32V003 / Rovari SDK
+ * Hardware: microSD on SPI, sensor on PA2
+ *           CS=PC4, SCK=PC5, MOSI=PC6, MISO=PC7 (3.3V)
+ */
+
+#include "rovari.h"
+#include "rovari_sd.h"
+
+void block_init(void);
+void block_run(void);
+
+#define SENSOR_PIN   PA2
+#define NUM_SAMPLES  60
+#define PERIOD_MS    1000u
+
+static int      count   = 0;
+static uint32_t next_ms = 0;
+static uint8_t  done    = 0;
+
+void app_init(void)
+{
+    block_init();
+
+    uart_init(SERIAL1, 115200);
+    uart_println(SERIAL1, "Data logger");
+
+    adc_init(SENSOR_PIN);
+
+    if (!sd_begin()) {
+        uart_println(SERIAL1, "mount failed");
+        return;
+    }
+
+    if (!sd_open("DATA.CSV")) {
+        uart_println(SERIAL1, "open failed");
+        return;
+    }
+    sd_print("millis,mv\r\n");
+    sd_close();
+
+    uart_println(SERIAL1, "logging");
+    next_ms = millis();
+}
+
+void app_run(void)
+{
+    uint32_t t;
+    uint16_t mv;
+
+    block_run();
+    if (done) return;
+
+    if ((int32_t)(millis() - next_ms) < 0) return;
+    next_ms += PERIOD_MS;
+
+    t  = millis();
+    mv = analog_read_mv(SENSOR_PIN);
+
+    if (sd_append("DATA.CSV")) {
+        sd_print_int((int32_t)t);
+        sd_print(",");
+        sd_print_int((int32_t)mv);
+        sd_print("\r\n");
+        sd_close();
+    }
+
+    if (++count >= NUM_SAMPLES) {
+        done = 1;
+        uart_println(SERIAL1, "done");
+    }
+}

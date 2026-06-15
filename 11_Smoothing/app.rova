@@ -1,0 +1,41 @@
+/*
+ * Copyright (c) 2026 Armstrong Subero
+ *
+ * Program: 11_Smoothing (C style)
+ * Platform: CH32V003 / Rovari SDK
+ * Hardware: potentiometer on PA1 (ADC ch1)
+ *           WCH-Link for UART (TX=PD5, RX=PD6)
+ */
+
+#include "rovari.h"
+
+#define NUM_SAMPLES 16
+
+uint16_t readings[NUM_SAMPLES];
+uint8_t index = 0;
+uint32_t total = 0;
+
+void app_init()
+{
+    uart_init(SERIAL1, 115200);
+    adc_init(PA1);
+
+    for (uint8_t i = 0; i < NUM_SAMPLES; i++)
+    {
+        readings[i] = 0;
+    }
+}
+
+void app_run()
+{
+    total -= readings[index];
+    readings[index] = analog_read(PA1);
+    total += readings[index];
+    index = (index + 1) % NUM_SAMPLES;
+
+    uint16_t average = (uint16_t)(total / NUM_SAMPLES);
+    uint16_t mv = (uint16_t)(((uint32_t)average * 5000) / 1023);
+
+    uart_printf(SERIAL1, "avg: %d  mv: %d\r\n", average, mv);
+    delay(100);
+}
