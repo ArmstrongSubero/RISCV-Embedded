@@ -1,0 +1,1484 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(save-restore.o)
+                              C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/debug_612e4371.o (__riscv_save_2)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(muldi3.o)
+                              C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/debug_612e4371.o (__mulsi3)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(div.o)
+                              C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/system_ch32v00x_d3983265.o (__udivsi3)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-vsnprintf.o)
+                              C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_uart_f547dc16.o (vsnprintf)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-strncpy.o)
+                              C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/sevs_assert_target_d21dbdfb.o (strncpy)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-impure.o)
+                              C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-vsnprintf.o) (_impure_ptr)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-init.o)
+                              C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_main_9df9f901.o (__libc_init_array)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-nano-svfprintf.o)
+                              C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-vsnprintf.o) (_svfprintf_r)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-nano-vfprintf_i.o)
+                              C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-nano-svfprintf.o) (_printf_i)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-memchr.o)
+                              C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-nano-svfprintf.o) (memchr)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-memmove.o)
+                              C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-nano-svfprintf.o) (memmove)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-memcpy-asm.o)
+                              C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-nano-svfprintf.o) (memcpy)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-freer.o)
+                              C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-nano-svfprintf.o) (_free_r)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-mallocr.o)
+                              C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-nano-svfprintf.o) (_malloc_r)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-mlock.o)
+                              C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-freer.o) (__malloc_lock)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-reallocr.o)
+                              C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-nano-svfprintf.o) (_realloc_r)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-sbrkr.o)
+                              C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-mallocr.o) (_sbrk_r)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-lock.o)
+                              C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-mlock.o) (__retarget_lock_acquire_recursive)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-msizer.o)
+                              C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-reallocr.o) (_malloc_usable_size_r)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-reent.o)
+                              C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-sbrkr.o) (errno)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/app_54a0eba9.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/app_54a0eba9.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/app_54a0eba9.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari.blocks_3399120c.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari.blocks_3399120c.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari.blocks_3399120c.o
+ .text._Z10block_initv
+                0x00000000        0x2 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari.blocks_3399120c.o
+ .text._Z9block_runv
+                0x00000000        0x2 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari.blocks_3399120c.o
+ .debug_info    0x00000000       0xb3 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari.blocks_3399120c.o
+ .debug_abbrev  0x00000000       0x65 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari.blocks_3399120c.o
+ .debug_aranges
+                0x00000000       0x28 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari.blocks_3399120c.o
+ .debug_rnglists
+                0x00000000       0x19 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari.blocks_3399120c.o
+ .debug_line    0x00000000       0x69 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari.blocks_3399120c.o
+ .debug_str     0x00000000      0x1ed C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari.blocks_3399120c.o
+ .debug_line_str
+                0x00000000      0x119 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari.blocks_3399120c.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari.blocks_3399120c.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari.blocks_3399120c.o
+ .debug_frame   0x00000000       0x30 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari.blocks_3399120c.o
+ .riscv.attributes
+                0x00000000       0x3d C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari.blocks_3399120c.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/blink_2838a8ce.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/blink_2838a8ce.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_it_72e0cebd.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_it_72e0cebd.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_it_72e0cebd.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/startup_fd654424.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/startup_fd654424.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/startup_fd654424.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/system_ch32v00x_d3983265.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/system_ch32v00x_d3983265.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/system_ch32v00x_d3983265.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/core_riscv_7218a11c.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/core_riscv_7218a11c.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/core_riscv_7218a11c.o
+ .text.__get_MSTATUS
+                0x00000000        0x6 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/core_riscv_7218a11c.o
+ .text.__set_MSTATUS
+                0x00000000        0x6 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/core_riscv_7218a11c.o
+ .text.__get_MISA
+                0x00000000        0x6 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/core_riscv_7218a11c.o
+ .text.__set_MISA
+                0x00000000        0x6 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/core_riscv_7218a11c.o
+ .text.__get_MTVEC
+                0x00000000        0x6 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/core_riscv_7218a11c.o
+ .text.__set_MTVEC
+                0x00000000        0x6 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/core_riscv_7218a11c.o
+ .text.__get_MSCRATCH
+                0x00000000        0x6 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/core_riscv_7218a11c.o
+ .text.__set_MSCRATCH
+                0x00000000        0x6 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/core_riscv_7218a11c.o
+ .text.__get_MEPC
+                0x00000000        0x6 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/core_riscv_7218a11c.o
+ .text.__set_MEPC
+                0x00000000        0x6 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/core_riscv_7218a11c.o
+ .text.__get_MCAUSE
+                0x00000000        0x6 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/core_riscv_7218a11c.o
+ .text.__set_MCAUSE
+                0x00000000        0x6 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/core_riscv_7218a11c.o
+ .text.__get_MVENDORID
+                0x00000000        0x6 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/core_riscv_7218a11c.o
+ .text.__get_MARCHID
+                0x00000000        0x6 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/core_riscv_7218a11c.o
+ .text.__get_MIMPID
+                0x00000000        0x6 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/core_riscv_7218a11c.o
+ .text.__get_MHARTID
+                0x00000000        0x6 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/core_riscv_7218a11c.o
+ .text.__get_SP
+                0x00000000        0x4 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/core_riscv_7218a11c.o
+ .highcode      0x00000000        0xa C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/core_riscv_7218a11c.o
+ .debug_info    0x00000000      0x352 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/core_riscv_7218a11c.o
+ .debug_abbrev  0x00000000      0x117 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/core_riscv_7218a11c.o
+ .debug_loclists
+                0x00000000       0x85 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/core_riscv_7218a11c.o
+ .debug_aranges
+                0x00000000       0xa8 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/core_riscv_7218a11c.o
+ .debug_rnglists
+                0x00000000       0x79 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/core_riscv_7218a11c.o
+ .debug_line    0x00000000      0x334 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/core_riscv_7218a11c.o
+ .debug_str     0x00000000      0x257 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/core_riscv_7218a11c.o
+ .debug_line_str
+                0x00000000      0x23c C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/core_riscv_7218a11c.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/core_riscv_7218a11c.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/core_riscv_7218a11c.o
+ .debug_frame   0x00000000      0x130 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/core_riscv_7218a11c.o
+ .riscv.attributes
+                0x00000000       0x41 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/core_riscv_7218a11c.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/debug_612e4371.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/debug_612e4371.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/debug_612e4371.o
+ .text.Delay_Us
+                0x00000000       0x46 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/debug_612e4371.o
+ .text.USART_Printf_Init
+                0x00000000       0x7a C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/debug_612e4371.o
+ .text.SDI_Printf_Enable
+                0x00000000       0x2a C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/debug_612e4371.o
+ .text._write   0x00000000       0x56 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/debug_612e4371.o
+ .text._sbrk    0x00000000       0x2e C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/debug_612e4371.o
+ .sdata.curbrk.0
+                0x00000000        0x4 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/debug_612e4371.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_gpio_51f76e01.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_gpio_51f76e01.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_gpio_51f76e01.o
+ .text.GPIO_DeInit
+                0x00000000       0x6c C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_gpio_51f76e01.o
+ .text.GPIO_AFIODeInit
+                0x00000000       0x28 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_gpio_51f76e01.o
+ .text.GPIO_Init
+                0x00000000       0x7c C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_gpio_51f76e01.o
+ .text.GPIO_StructInit
+                0x00000000       0x10 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_gpio_51f76e01.o
+ .text.GPIO_ReadInputDataBit
+                0x00000000        0xc C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_gpio_51f76e01.o
+ .text.GPIO_ReadInputData
+                0x00000000        0x8 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_gpio_51f76e01.o
+ .text.GPIO_ReadOutputDataBit
+                0x00000000        0xc C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_gpio_51f76e01.o
+ .text.GPIO_ReadOutputData
+                0x00000000        0x8 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_gpio_51f76e01.o
+ .text.GPIO_SetBits
+                0x00000000        0x4 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_gpio_51f76e01.o
+ .text.GPIO_ResetBits
+                0x00000000        0x4 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_gpio_51f76e01.o
+ .text.GPIO_WriteBit
+                0x00000000        0xa C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_gpio_51f76e01.o
+ .text.GPIO_Write
+                0x00000000        0x4 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_gpio_51f76e01.o
+ .text.GPIO_PinLockConfig
+                0x00000000       0x10 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_gpio_51f76e01.o
+ .text.GPIO_PinRemapConfig
+                0x00000000       0xba C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_gpio_51f76e01.o
+ .text.GPIO_EXTILineConfig
+                0x00000000       0x22 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_gpio_51f76e01.o
+ .text.GPIO_IPD_Unused
+                0x00000000       0xa8 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_gpio_51f76e01.o
+ .debug_info    0x00000000      0x7a1 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_gpio_51f76e01.o
+ .debug_abbrev  0x00000000      0x202 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_gpio_51f76e01.o
+ .debug_loclists
+                0x00000000      0x50a C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_gpio_51f76e01.o
+ .debug_aranges
+                0x00000000       0x98 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_gpio_51f76e01.o
+ .debug_rnglists
+                0x00000000       0x6f C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_gpio_51f76e01.o
+ .debug_line    0x00000000      0x872 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_gpio_51f76e01.o
+ .debug_str     0x00000000      0x514 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_gpio_51f76e01.o
+ .debug_line_str
+                0x00000000      0x279 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_gpio_51f76e01.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_gpio_51f76e01.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_gpio_51f76e01.o
+ .debug_frame   0x00000000      0x154 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_gpio_51f76e01.o
+ .riscv.attributes
+                0x00000000       0x3d C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_gpio_51f76e01.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_rcc_87dcd468.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_rcc_87dcd468.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_rcc_87dcd468.o
+ .text.RCC_HSEConfig
+                0x00000000       0x3c C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_rcc_87dcd468.o
+ .text.RCC_DeInit
+                0x00000000       0x48 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_rcc_87dcd468.o
+ .text.RCC_HSICmd
+                0x00000000       0x14 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_rcc_87dcd468.o
+ .text.RCC_PLLConfig
+                0x00000000       0x12 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_rcc_87dcd468.o
+ .text.RCC_PLLCmd
+                0x00000000       0x1c C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_rcc_87dcd468.o
+ .text.RCC_SYSCLKConfig
+                0x00000000       0x4e C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_rcc_87dcd468.o
+ .text.RCC_GetSYSCLKSource
+                0x00000000        0xa C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_rcc_87dcd468.o
+ .text.RCC_HCLKConfig
+                0x00000000       0x10 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_rcc_87dcd468.o
+ .text.RCC_ITConfig
+                0x00000000       0x1c C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_rcc_87dcd468.o
+ .text.RCC_ADCCLKConfig
+                0x00000000       0x14 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_rcc_87dcd468.o
+ .text.RCC_LSICmd
+                0x00000000       0x14 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_rcc_87dcd468.o
+ .text.RCC_GetClocksFreq
+                0x00000000       0xa8 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_rcc_87dcd468.o
+ .text.RCC_AHBPeriphClockCmd
+                0x00000000       0x18 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_rcc_87dcd468.o
+ .text.RCC_APB2PeriphClockCmd
+                0x00000000       0x18 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_rcc_87dcd468.o
+ .text.RCC_APB2PeriphResetCmd
+                0x00000000       0x18 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_rcc_87dcd468.o
+ .text.RCC_APB1PeriphResetCmd
+                0x00000000       0x18 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_rcc_87dcd468.o
+ .text.RCC_ClockSecuritySystemCmd
+                0x00000000       0x1c C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_rcc_87dcd468.o
+ .text.RCC_MCOConfig
+                0x00000000        0xa C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_rcc_87dcd468.o
+ .text.RCC_GetFlagStatus
+                0x00000000       0x1c C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_rcc_87dcd468.o
+ .text.RCC_WaitForHSEStartUp
+                0x00000000       0x46 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_rcc_87dcd468.o
+ .text.RCC_ClearFlag
+                0x00000000       0x10 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_rcc_87dcd468.o
+ .text.RCC_GetITStatus
+                0x00000000        0xe C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_rcc_87dcd468.o
+ .text.RCC_ClearITPendingBit
+                0x00000000        0xa C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_rcc_87dcd468.o
+ .rodata.ADCPrescTable
+                0x00000000       0x14 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_rcc_87dcd468.o
+ .rodata.APBAHBPrescTable
+                0x00000000       0x10 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_rcc_87dcd468.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_misc_9a0fbf45.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_misc_9a0fbf45.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_misc_9a0fbf45.o
+ .text.NVIC_Init
+                0x00000000       0x70 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_misc_9a0fbf45.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TI1_Config
+                0x00000000       0x64 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TI2_Config
+                0x00000000       0x64 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_DeInit
+                0x00000000       0x5c C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_OC1Init
+                0x00000000       0x7e C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_OC2Init
+                0x00000000       0x92 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_OC3Init
+                0x00000000       0x94 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_OC4Init
+                0x00000000       0x6e C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_BDTRConfig
+                0x00000000       0x2e C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_TimeBaseStructInit
+                0x00000000       0x18 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_OCStructInit
+                0x00000000       0x22 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_ICStructInit
+                0x00000000       0x18 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_BDTRStructInit
+                0x00000000       0x1e C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_CtrlPWMOutputs
+                0x00000000       0x16 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_GenerateEvent
+                0x00000000        0x6 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_DMAConfig
+                0x00000000        0x8 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_DMACmd
+                0x00000000        0x8 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_InternalClockConfig
+                0x00000000       0x10 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_ITRxExternalClockConfig
+                0x00000000       0x20 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_TIxExternalClockConfig
+                0x00000000       0x50 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_ETRConfig
+                0x00000000       0x16 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_ETRClockMode1Config
+                0x00000000       0x2e C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_ETRClockMode2Config
+                0x00000000       0x26 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_PrescalerConfig
+                0x00000000        0xa C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_CounterModeConfig
+                0x00000000       0x14 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_SelectInputTrigger
+                0x00000000       0x14 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_EncoderInterfaceConfig
+                0x00000000       0x44 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_ForcedOC1Config
+                0x00000000       0x14 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_ForcedOC2Config
+                0x00000000       0x14 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_ForcedOC3Config
+                0x00000000       0x14 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_ForcedOC4Config
+                0x00000000       0x14 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_ARRPreloadConfig
+                0x00000000       0x1a C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_SelectCOM
+                0x00000000       0x18 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_SelectCCDMA
+                0x00000000       0x18 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_CCPreloadControl
+                0x00000000       0x18 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_OC1PreloadConfig
+                0x00000000       0x12 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_OC2PreloadConfig
+                0x00000000       0x16 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_OC3PreloadConfig
+                0x00000000       0x12 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_OC4PreloadConfig
+                0x00000000       0x16 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_OC1FastConfig
+                0x00000000       0x12 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_OC2FastConfig
+                0x00000000       0x16 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_OC3FastConfig
+                0x00000000       0x12 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_OC4FastConfig
+                0x00000000       0x16 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_ClearOC1Ref
+                0x00000000       0x14 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_ClearOC2Ref
+                0x00000000       0x12 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_ClearOC3Ref
+                0x00000000       0x14 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_ClearOC4Ref
+                0x00000000       0x12 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_OC1PolarityConfig
+                0x00000000       0x12 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_OC1NPolarityConfig
+                0x00000000       0x12 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_OC2PolarityConfig
+                0x00000000       0x16 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_OC2NPolarityConfig
+                0x00000000       0x16 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_OC3PolarityConfig
+                0x00000000       0x16 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_OC3NPolarityConfig
+                0x00000000       0x16 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_OC4PolarityConfig
+                0x00000000       0x14 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_CCxCmd
+                0x00000000       0x24 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_CCxNCmd
+                0x00000000       0x24 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_SelectOCxM
+                0x00000000       0x56 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_UpdateDisableConfig
+                0x00000000       0x18 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_UpdateRequestConfig
+                0x00000000       0x18 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_SelectHallSensor
+                0x00000000       0x1a C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_SelectOnePulseMode
+                0x00000000       0x1a C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_SelectOutputTrigger
+                0x00000000       0x1c C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_SelectSlaveMode
+                0x00000000       0x1a C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_SelectMasterSlaveMode
+                0x00000000       0x1c C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_SetCounter
+                0x00000000        0x6 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_SetAutoreload
+                0x00000000        0x6 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_SetCompare1
+                0x00000000        0x4 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_SetCompare2
+                0x00000000        0x4 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_SetCompare3
+                0x00000000        0x4 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_SetCompare4
+                0x00000000        0x4 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_SetIC1Prescaler
+                0x00000000       0x1a C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_SetIC2Prescaler
+                0x00000000       0x1e C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_PWMIConfig
+                0x00000000       0xaa C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_SetIC3Prescaler
+                0x00000000       0x1a C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_SetIC4Prescaler
+                0x00000000       0x1e C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_ICInit
+                0x00000000      0x154 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_SetClockDivision
+                0x00000000       0x1c C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_GetCapture1
+                0x00000000        0x8 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_GetCapture2
+                0x00000000        0x8 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_GetCapture3
+                0x00000000        0x8 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_GetCapture4
+                0x00000000        0x8 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_GetCounter
+                0x00000000        0x6 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_GetPrescaler
+                0x00000000        0x6 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_GetFlagStatus
+                0x00000000        0xc C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_ClearFlag
+                0x00000000        0xa C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text.TIM_IndicateCaptureLevelCmd
+                0x00000000       0x16 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_gpio_302f9672.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_gpio_302f9672.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_gpio_302f9672.o
+ .text.rovari_get_port
+                0x00000000       0x22 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_gpio_302f9672.o
+ .rodata.pin_mode.str1.4
+                0x00000000       0xa3 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_gpio_302f9672.o
+ .text.pin_mode
+                0x00000000      0x116 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_gpio_302f9672.o
+ .rodata.pin_mode
+                0x00000000       0x1c C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_gpio_302f9672.o
+ .text.digital_write
+                0x00000000       0x40 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_gpio_302f9672.o
+ .text.digital_read
+                0x00000000       0x30 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_gpio_302f9672.o
+ .text.pin_toggle
+                0x00000000       0x42 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_gpio_302f9672.o
+ .rodata.__PRETTY_FUNCTION__.3
+                0x00000000        0x9 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_gpio_302f9672.o
+ .sbss.s_port_clocks_enabled
+                0x00000000        0x1 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_gpio_302f9672.o
+ .rodata.rcc_table
+                0x00000000       0x10 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_gpio_302f9672.o
+ .rodata.port_table
+                0x00000000       0x10 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_gpio_302f9672.o
+ .debug_info    0x00000000      0x743 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_gpio_302f9672.o
+ .debug_abbrev  0x00000000      0x24e C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_gpio_302f9672.o
+ .debug_loclists
+                0x00000000      0x203 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_gpio_302f9672.o
+ .debug_aranges
+                0x00000000       0x40 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_gpio_302f9672.o
+ .debug_rnglists
+                0x00000000       0x39 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_gpio_302f9672.o
+ .debug_line    0x00000000      0x3d1 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_gpio_302f9672.o
+ .debug_str     0x00000000      0x4b6 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_gpio_302f9672.o
+ .debug_line_str
+                0x00000000      0x2fa C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_gpio_302f9672.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_gpio_302f9672.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_gpio_302f9672.o
+ .debug_frame   0x00000000       0xa8 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_gpio_302f9672.o
+ .riscv.attributes
+                0x00000000       0x3d C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_gpio_302f9672.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_main_9df9f901.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_main_9df9f901.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_main_9df9f901.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_tick_ba34bfbd.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_tick_ba34bfbd.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_tick_ba34bfbd.o
+ .text.millis   0x00000000        0xa C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_tick_ba34bfbd.o
+ .text.micros   0x00000000       0x46 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_tick_ba34bfbd.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_button_f04fa8db.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_button_f04fa8db.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_button_f04fa8db.o
+ .text.find     0x00000000       0x36 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_button_f04fa8db.o
+ .text.update   0x00000000       0x7a C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_button_f04fa8db.o
+ .text.button_begin
+                0x00000000       0x72 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_button_f04fa8db.o
+ .text.button_pressed
+                0x00000000       0x34 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_button_f04fa8db.o
+ .text.button_released
+                0x00000000       0x34 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_button_f04fa8db.o
+ .text.button_held
+                0x00000000       0x44 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_button_f04fa8db.o
+ .text.button_state
+                0x00000000       0x2c C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_button_f04fa8db.o
+ .bss.s_buttons
+                0x00000000       0x50 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_button_f04fa8db.o
+ .debug_info    0x00000000      0x4df C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_button_f04fa8db.o
+ .debug_abbrev  0x00000000      0x1e8 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_button_f04fa8db.o
+ .debug_loclists
+                0x00000000      0x1ed C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_button_f04fa8db.o
+ .debug_aranges
+                0x00000000       0x50 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_button_f04fa8db.o
+ .debug_rnglists
+                0x00000000       0x4f C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_button_f04fa8db.o
+ .debug_line    0x00000000      0x559 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_button_f04fa8db.o
+ .debug_str     0x00000000      0x2bc C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_button_f04fa8db.o
+ .debug_line_str
+                0x00000000      0x25e C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_button_f04fa8db.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_button_f04fa8db.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_button_f04fa8db.o
+ .debug_frame   0x00000000       0xe8 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_button_f04fa8db.o
+ .riscv.attributes
+                0x00000000       0x3d C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_button_f04fa8db.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/sevs_assert_target_d21dbdfb.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/sevs_assert_target_d21dbdfb.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/sevs_assert_target_d21dbdfb.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_usart_04110ab1.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_usart_04110ab1.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_usart_04110ab1.o
+ .text.USART_DeInit
+                0x00000000       0x36 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_usart_04110ab1.o
+ .text.USART_Init
+                0x00000000      0x100 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_usart_04110ab1.o
+ .text.USART_StructInit
+                0x00000000       0x18 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_usart_04110ab1.o
+ .text.USART_ClockInit
+                0x00000000       0x2a C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_usart_04110ab1.o
+ .text.USART_ClockStructInit
+                0x00000000       0x12 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_usart_04110ab1.o
+ .text.USART_Cmd
+                0x00000000       0x18 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_usart_04110ab1.o
+ .text.USART_ITConfig
+                0x00000000       0x38 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_usart_04110ab1.o
+ .text.USART_DMACmd
+                0x00000000       0x16 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_usart_04110ab1.o
+ .text.USART_SetAddress
+                0x00000000       0x1a C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_usart_04110ab1.o
+ .text.USART_WakeUpConfig
+                0x00000000       0x1c C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_usart_04110ab1.o
+ .text.USART_ReceiverWakeUpCmd
+                0x00000000       0x18 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_usart_04110ab1.o
+ .text.USART_LINBreakDetectLengthConfig
+                0x00000000       0x1c C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_usart_04110ab1.o
+ .text.USART_LINCmd
+                0x00000000       0x18 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_usart_04110ab1.o
+ .text.USART_SendData
+                0x00000000        0xa C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_usart_04110ab1.o
+ .text.USART_ReceiveData
+                0x00000000        0xa C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_usart_04110ab1.o
+ .text.USART_SendBreak
+                0x00000000        0xe C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_usart_04110ab1.o
+ .text.USART_SetGuardTime
+                0x00000000       0x1a C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_usart_04110ab1.o
+ .text.USART_SetPrescaler
+                0x00000000       0x1c C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_usart_04110ab1.o
+ .text.USART_SmartCardCmd
+                0x00000000       0x1a C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_usart_04110ab1.o
+ .text.USART_SmartCardNACKCmd
+                0x00000000       0x18 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_usart_04110ab1.o
+ .text.USART_HalfDuplexCmd
+                0x00000000       0x18 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_usart_04110ab1.o
+ .text.USART_OverSampling8Cmd
+                0x00000000       0x16 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_usart_04110ab1.o
+ .text.USART_OneBitMethodCmd
+                0x00000000       0x1e C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_usart_04110ab1.o
+ .text.USART_IrDAConfig
+                0x00000000       0x1a C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_usart_04110ab1.o
+ .text.USART_IrDACmd
+                0x00000000       0x18 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_usart_04110ab1.o
+ .text.USART_GetFlagStatus
+                0x00000000        0xc C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_usart_04110ab1.o
+ .text.USART_ClearFlag
+                0x00000000        0xa C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_usart_04110ab1.o
+ .text.USART_GetITStatus
+                0x00000000       0x42 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_usart_04110ab1.o
+ .text.USART_ClearITPendingBit
+                0x00000000       0x12 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_usart_04110ab1.o
+ .debug_info    0x00000000      0xab9 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_usart_04110ab1.o
+ .debug_abbrev  0x00000000      0x20b C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_usart_04110ab1.o
+ .debug_loclists
+                0x00000000      0x5d5 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_usart_04110ab1.o
+ .debug_aranges
+                0x00000000      0x100 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_usart_04110ab1.o
+ .debug_rnglists
+                0x00000000       0xbc C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_usart_04110ab1.o
+ .debug_line    0x00000000      0xbbe C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_usart_04110ab1.o
+ .debug_str     0x00000000      0x6e4 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_usart_04110ab1.o
+ .debug_line_str
+                0x00000000      0x27c C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_usart_04110ab1.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_usart_04110ab1.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_usart_04110ab1.o
+ .debug_frame   0x00000000      0x204 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_usart_04110ab1.o
+ .riscv.attributes
+                0x00000000       0x3d C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_usart_04110ab1.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_uart_f547dc16.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_uart_f547dc16.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_uart_f547dc16.o
+ .text.uart_init
+                0x00000000       0xa8 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_uart_f547dc16.o
+ .text.uart_write_byte
+                0x00000000       0x48 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_uart_f547dc16.o
+ .rodata.uart_print.str1.4
+                0x00000000       0x86 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_uart_f547dc16.o
+ .text.uart_print
+                0x00000000       0x54 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_uart_f547dc16.o
+ .text.uart_println
+                0x00000000       0x60 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_uart_f547dc16.o
+ .rodata.uart_printf.str1.4
+                0x00000000        0xe C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_uart_f547dc16.o
+ .text.uart_printf
+                0x00000000       0x66 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_uart_f547dc16.o
+ .text.uart_read_byte
+                0x00000000       0x48 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_uart_f547dc16.o
+ .text.uart_available
+                0x00000000       0x28 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_uart_f547dc16.o
+ .rodata.uart_read_line.str1.4
+                0x00000000        0xe C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_uart_f547dc16.o
+ .text.uart_read_line
+                0x00000000      0x1a4 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_uart_f547dc16.o
+ .rodata.__PRETTY_FUNCTION__.2
+                0x00000000        0xf C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_uart_f547dc16.o
+ .rodata.__PRETTY_FUNCTION__.3
+                0x00000000        0xc C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_uart_f547dc16.o
+ .rodata.__PRETTY_FUNCTION__.4
+                0x00000000        0xd C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_uart_f547dc16.o
+ .rodata.__PRETTY_FUNCTION__.5
+                0x00000000        0xb C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_uart_f547dc16.o
+ .bss.rx_ring1  0x00000000       0x44 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_uart_f547dc16.o
+ .debug_info    0x00000000      0xd29 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_uart_f547dc16.o
+ .debug_abbrev  0x00000000      0x31f C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_uart_f547dc16.o
+ .debug_loclists
+                0x00000000      0x407 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_uart_f547dc16.o
+ .debug_aranges
+                0x00000000       0x58 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_uart_f547dc16.o
+ .debug_rnglists
+                0x00000000       0x96 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_uart_f547dc16.o
+ .debug_line    0x00000000      0x8dc C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_uart_f547dc16.o
+ .debug_str     0x00000000      0x5ea C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_uart_f547dc16.o
+ .debug_line_str
+                0x00000000      0x40d C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_uart_f547dc16.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_uart_f547dc16.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_uart_f547dc16.o
+ .debug_frame   0x00000000      0x124 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_uart_f547dc16.o
+ .riscv.attributes
+                0x00000000       0x3d C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_uart_f547dc16.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(save-restore.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(save-restore.o)
+ .eh_frame      0x00000000       0x68 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(save-restore.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(muldi3.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(muldi3.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(div.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(div.o)
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-vsnprintf.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-vsnprintf.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-vsnprintf.o)
+ .text._vsnprintf_r
+                0x00000000       0x64 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-vsnprintf.o)
+ .text.vsnprintf
+                0x00000000       0x18 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-vsnprintf.o)
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-vsnprintf.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-vsnprintf.o)
+ .riscv.attributes
+                0x00000000       0x28 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-vsnprintf.o)
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-strncpy.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-strncpy.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-strncpy.o)
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-impure.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-impure.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-impure.o)
+ .sdata._impure_ptr
+                0x00000000        0x4 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-impure.o)
+ .data._impure_data
+                0x00000000       0x4c C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-impure.o)
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-impure.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-impure.o)
+ .riscv.attributes
+                0x00000000       0x28 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-impure.o)
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-init.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-init.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-init.o)
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-nano-svfprintf.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-nano-svfprintf.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-nano-svfprintf.o)
+ .text.__ssputs_r
+                0x00000000       0xf8 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-nano-svfprintf.o)
+ .text.__ssprint_r
+                0x00000000      0x138 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-nano-svfprintf.o)
+ .rodata._svfprintf_r.str1.4
+                0x00000000       0x13 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-nano-svfprintf.o)
+ .text._svfprintf_r
+                0x00000000      0x2aa C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-nano-svfprintf.o)
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-nano-svfprintf.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-nano-svfprintf.o)
+ .riscv.attributes
+                0x00000000       0x28 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-nano-svfprintf.o)
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-nano-vfprintf_i.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-nano-vfprintf_i.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-nano-vfprintf_i.o)
+ .text._printf_common
+                0x00000000       0xfc C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-nano-vfprintf_i.o)
+ .rodata._printf_i.str1.4
+                0x00000000       0x25 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-nano-vfprintf_i.o)
+ .text._printf_i
+                0x00000000      0x288 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-nano-vfprintf_i.o)
+ .rodata._printf_i
+                0x00000000       0x58 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-nano-vfprintf_i.o)
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-nano-vfprintf_i.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-nano-vfprintf_i.o)
+ .riscv.attributes
+                0x00000000       0x28 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-nano-vfprintf_i.o)
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-memchr.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-memchr.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-memchr.o)
+ .text.memchr   0x00000000       0x1a C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-memchr.o)
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-memchr.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-memchr.o)
+ .riscv.attributes
+                0x00000000       0x28 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-memchr.o)
+ .text          0x00000000       0x26 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-memmove.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-memmove.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-memmove.o)
+ .riscv.attributes
+                0x00000000       0x26 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-memmove.o)
+ .text          0x00000000       0x16 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-memcpy-asm.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-memcpy-asm.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-memcpy-asm.o)
+ .riscv.attributes
+                0x00000000       0x26 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-memcpy-asm.o)
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-freer.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-freer.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-freer.o)
+ .text._free_r  0x00000000       0xae C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-freer.o)
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-freer.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-freer.o)
+ .riscv.attributes
+                0x00000000       0x28 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-freer.o)
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-mallocr.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-mallocr.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-mallocr.o)
+ .text.sbrk_aligned
+                0x00000000       0x62 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-mallocr.o)
+ .text._malloc_r
+                0x00000000      0x142 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-mallocr.o)
+ .sbss.__malloc_sbrk_start
+                0x00000000        0x4 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-mallocr.o)
+ .sbss.__malloc_free_list
+                0x00000000        0x4 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-mallocr.o)
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-mallocr.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-mallocr.o)
+ .riscv.attributes
+                0x00000000       0x28 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-mallocr.o)
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-mlock.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-mlock.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-mlock.o)
+ .text.__malloc_lock
+                0x00000000       0x10 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-mlock.o)
+ .text.__malloc_unlock
+                0x00000000       0x10 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-mlock.o)
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-mlock.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-mlock.o)
+ .riscv.attributes
+                0x00000000       0x28 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-mlock.o)
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-reallocr.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-reallocr.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-reallocr.o)
+ .text._realloc_r
+                0x00000000       0x86 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-reallocr.o)
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-reallocr.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-reallocr.o)
+ .riscv.attributes
+                0x00000000       0x28 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-reallocr.o)
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-sbrkr.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-sbrkr.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-sbrkr.o)
+ .text._sbrk_r  0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-sbrkr.o)
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-sbrkr.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-sbrkr.o)
+ .riscv.attributes
+                0x00000000       0x28 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-sbrkr.o)
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-lock.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-lock.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_init
+                0x00000000        0x2 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x00000000        0x2 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_close
+                0x00000000        0x2 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x00000000        0x2 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x00000000        0x2 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_acquire_recursive
+                0x00000000        0x2 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x00000000        0x4 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x00000000        0x4 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_release
+                0x00000000        0x2 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_release_recursive
+                0x00000000        0x2 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-lock.o)
+ .sbss.__lock___arc4random_mutex
+                0x00000000        0x1 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-lock.o)
+ .sbss.__lock___dd_hash_mutex
+                0x00000000        0x1 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-lock.o)
+ .sbss.__lock___tz_mutex
+                0x00000000        0x1 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-lock.o)
+ .sbss.__lock___env_recursive_mutex
+                0x00000000        0x1 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-lock.o)
+ .sbss.__lock___malloc_recursive_mutex
+                0x00000000        0x1 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-lock.o)
+ .sbss.__lock___at_quick_exit_mutex
+                0x00000000        0x1 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-lock.o)
+ .sbss.__lock___atexit_recursive_mutex
+                0x00000000        0x1 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-lock.o)
+ .sbss.__lock___sfp_recursive_mutex
+                0x00000000        0x1 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-lock.o)
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-lock.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-lock.o)
+ .riscv.attributes
+                0x00000000       0x28 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-lock.o)
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-msizer.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-msizer.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-msizer.o)
+ .text._malloc_usable_size_r
+                0x00000000       0x14 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-msizer.o)
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-msizer.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-msizer.o)
+ .riscv.attributes
+                0x00000000       0x28 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-msizer.o)
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-reent.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-reent.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-reent.o)
+ .text._reclaim_reent
+                0x00000000      0x106 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-reent.o)
+ .sbss.errno    0x00000000        0x4 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-reent.o)
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-reent.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-reent.o)
+ .riscv.attributes
+                0x00000000       0x28 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-reent.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x00000000         0x00004000         xr
+RAM              0x20000000         0x00000800         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/app_54a0eba9.o
+LOAD C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari.blocks_3399120c.o
+LOAD C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/blink_2838a8ce.o
+LOAD C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_it_72e0cebd.o
+LOAD C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/startup_fd654424.o
+LOAD C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/system_ch32v00x_d3983265.o
+LOAD C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/core_riscv_7218a11c.o
+LOAD C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/debug_612e4371.o
+LOAD C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_gpio_51f76e01.o
+LOAD C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_rcc_87dcd468.o
+LOAD C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_misc_9a0fbf45.o
+LOAD C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+LOAD C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_gpio_302f9672.o
+LOAD C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_main_9df9f901.o
+LOAD C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_tick_ba34bfbd.o
+LOAD C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_button_f04fa8db.o
+LOAD C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/sevs_assert_target_d21dbdfb.o
+LOAD C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_usart_04110ab1.o
+LOAD C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_uart_f547dc16.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libstdc++_nano.a
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libm_nano.a
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a
+START GROUP
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libnosys.a
+END GROUP
+START GROUP
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libnosys.a
+END GROUP
+                0x00000100                        __stack_size = 0x100
+                [!provide]                        PROVIDE (_stack_size = __stack_size)
+
+.init           0x00000000       0xa0
+                0x00000000                        _sinit = .
+                0x00000000                        . = ALIGN (0x4)
+ *(SORT_NONE(.init))
+ .init          0x00000000       0x9e C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/startup_fd654424.o
+                0x00000000                _start
+                0x000000a0                        . = ALIGN (0x4)
+ *fill*         0x0000009e        0x2 
+                0x000000a0                        _einit = .
+
+.highcodelalign
+                0x000000a0        0x0
+                0x000000a0                        . = ALIGN (0x4)
+                0x000000a0                        PROVIDE (_highcode_lma = .)
+
+.highcode       0x20000000        0x0 load address 0x000000a0
+                0x20000000                        . = ALIGN (0x4)
+                0x20000000                        PROVIDE (_highcode_vma_start = .)
+ *(.highcode)
+ *(.highcode.*)
+                0x20000000                        . = ALIGN (0x4)
+                0x20000000                        PROVIDE (_highcode_vma_end = .)
+
+.text           0x000000a0      0x7a8
+                0x000000a0                        . = ALIGN (0x4)
+ *(.text)
+ .text          0x000000a0       0x48 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/blink_2838a8ce.o
+                0x000000a0                asm_blink_init
+                0x000000d2                asm_blink_toggle
+ .text          0x000000e8       0x16 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(save-restore.o)
+                0x000000e8                __riscv_save_1
+                0x000000e8                __riscv_save_2
+                0x000000e8                __riscv_save_0
+                0x000000f4                __riscv_restore_0
+                0x000000f4                __riscv_restore_1
+                0x000000f4                __riscv_restore_2
+ *fill*         0x000000fe        0x2 
+ .text          0x00000100       0x14 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(muldi3.o)
+                0x00000100                __mulsi3
+ .text          0x00000114       0x7e C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(div.o)
+                0x00000114                __divsi3
+                0x0000011c                __udivsi3
+                0x0000011c                __hidden___udivsi3
+                0x00000148                __umodsi3
+                0x0000016c                __modsi3
+ *(.text.*)
+ .text.app_init
+                0x00000192        0x2 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/app_54a0eba9.o
+                0x00000192                app_init
+ .text.app_run  0x00000194        0xe C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/app_54a0eba9.o
+                0x00000194                app_run
+ .text.NMI_Handler
+                0x000001a2        0x2 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_it_72e0cebd.o
+                0x000001a2                NMI_Handler
+ .text.HardFault_Handler
+                0x000001a4       0x10 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_it_72e0cebd.o
+                0x000001a4                HardFault_Handler
+ .text.vector_handler
+                0x000001b4        0x2 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/startup_fd654424.o
+                0x000001b4                TIM1_CC_IRQHandler
+                0x000001b4                SysTick_Handler
+                0x000001b4                PVD_IRQHandler
+                0x000001b4                SPI1_IRQHandler
+                0x000001b4                AWU_IRQHandler
+                0x000001b4                EXTI7_0_IRQHandler
+                0x000001b4                DMA1_Channel4_IRQHandler
+                0x000001b4                ADC1_IRQHandler
+                0x000001b4                DMA1_Channel7_IRQHandler
+                0x000001b4                I2C1_EV_IRQHandler
+                0x000001b4                DMA1_Channel6_IRQHandler
+                0x000001b4                RCC_IRQHandler
+                0x000001b4                TIM1_TRG_COM_IRQHandler
+                0x000001b4                DMA1_Channel1_IRQHandler
+                0x000001b4                DMA1_Channel5_IRQHandler
+                0x000001b4                DMA1_Channel3_IRQHandler
+                0x000001b4                TIM1_UP_IRQHandler
+                0x000001b4                WWDG_IRQHandler
+                0x000001b4                SW_Handler
+                0x000001b4                TIM1_BRK_IRQHandler
+                0x000001b4                DMA1_Channel2_IRQHandler
+                0x000001b4                FLASH_IRQHandler
+                0x000001b4                USART1_IRQHandler
+                0x000001b4                I2C1_ER_IRQHandler
+ .text.handle_reset
+                0x000001b6       0xb2 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/startup_fd654424.o
+                0x000001b6                handle_reset
+ .text.SystemInit
+                0x00000268       0xd8 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/system_ch32v00x_d3983265.o
+                0x00000268                SystemInit
+ .text.SystemCoreClockUpdate
+                0x00000340       0x5e C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/system_ch32v00x_d3983265.o
+                0x00000340                SystemCoreClockUpdate
+ .text.Delay_Init
+                0x0000039e       0x30 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/debug_612e4371.o
+                0x0000039e                Delay_Init
+ .text.Delay_Ms
+                0x000003ce       0x32 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/debug_612e4371.o
+                0x000003ce                Delay_Ms
+ .text.RCC_AdjustHSICalibrationValue
+                0x00000400       0x12 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_rcc_87dcd468.o
+                0x00000400                RCC_AdjustHSICalibrationValue
+ .text.RCC_APB1PeriphClockCmd
+                0x00000412       0x18 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_rcc_87dcd468.o
+                0x00000412                RCC_APB1PeriphClockCmd
+ .text.NVIC_PriorityGroupConfig
+                0x0000042a        0x6 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_misc_9a0fbf45.o
+                0x0000042a                NVIC_PriorityGroupConfig
+ .text.TIM_TimeBaseInit
+                0x00000430       0x5c C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+                0x00000430                TIM_TimeBaseInit
+ .text.TIM_Cmd  0x0000048c       0x18 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+                0x0000048c                TIM_Cmd
+ .text.TIM_ITConfig
+                0x000004a4       0x16 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+                0x000004a4                TIM_ITConfig
+ .text.TIM_GetITStatus
+                0x000004ba       0x18 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+                0x000004ba                TIM_GetITStatus
+ .text.TIM_ClearITPendingBit
+                0x000004d2        0xa C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+                0x000004d2                TIM_ClearITPendingBit
+ .text.startup.main
+                0x000004dc       0x3c C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_main_9df9f901.o
+                0x000004dc                main
+ .text.TIM2_IRQHandler
+                0x00000518       0x50 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_tick_ba34bfbd.o
+                0x00000518                TIM2_IRQHandler
+ .text.rovari_tick_init
+                0x00000568       0x8e C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_tick_ba34bfbd.o
+                0x00000568                rovari_tick_init
+ .text.sevs_assert_fail
+                0x000005f6       0x76 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/sevs_assert_target_d21dbdfb.o
+                0x000005f6                sevs_assert_fail
+ .text.strncpy  0x0000066c       0x24 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-strncpy.o)
+                0x0000066c                strncpy
+ .text.__libc_init_array
+                0x00000690       0x72 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-init.o)
+                0x00000690                __libc_init_array
+ *(.rodata)
+ *(.rodata*)
+ *fill*         0x00000702        0x2 
+ .rodata.AHBPrescTable
+                0x00000704       0x10 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/system_ch32v00x_d3983265.o
+                0x00000704                AHBPrescTable
+ .rodata.main.str1.4
+                0x00000714      0x11e C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_main_9df9f901.o
+                                 0x8d (size before relaxing)
+ .rodata.rovari_tick_init.str1.4
+                0x00000832        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_tick_ba34bfbd.o
+                                 0x8e (size before relaxing)
+ *fill*         0x00000832        0x2 
+ .rodata.__PRETTY_FUNCTION__.0
+                0x00000834       0x11 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_tick_ba34bfbd.o
+ *(.gnu.linkonce.t.*)
+                0x00000848                        . = ALIGN (0x4)
+ *fill*         0x00000845        0x3 
+
+.rela.dyn       0x00000848        0x0
+ .rela.init     0x00000848        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/app_54a0eba9.o
+ .rela.text.handle_reset
+                0x00000848        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/app_54a0eba9.o
+ .rela.text.__libc_init_array
+                0x00000848        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/app_54a0eba9.o
+
+.fini           0x00000848        0x0
+ *(SORT_NONE(.fini))
+                0x00000848                        . = ALIGN (0x4)
+                [!provide]                        PROVIDE (_etext = .)
+                [!provide]                        PROVIDE (_eitcm = .)
+
+.preinit_array  0x00000848        0x0
+                0x00000848                        PROVIDE (__preinit_array_start = .)
+ *(.preinit_array)
+                0x00000848                        PROVIDE (__preinit_array_end = .)
+
+.init_array     0x00000848        0x0
+                0x00000848                        PROVIDE (__init_array_start = .)
+ *(SORT_BY_INIT_PRIORITY(.init_array.*) SORT_BY_INIT_PRIORITY(.ctors.*))
+ *(.init_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .ctors)
+                0x00000848                        PROVIDE (__init_array_end = .)
+
+.fini_array     0x00000848        0x0
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_INIT_PRIORITY(.fini_array.*) SORT_BY_INIT_PRIORITY(.dtors.*))
+ *(.fini_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .dtors)
+                [!provide]                        PROVIDE (__fini_array_end = .)
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+
+.dalign         0x20000000        0x0 load address 0x00000848
+                0x20000000                        . = ALIGN (0x4)
+                0x20000000                        PROVIDE (_data_vma = .)
+
+.dlalign        0x00000848        0x0
+                0x00000848                        . = ALIGN (0x4)
+                0x00000848                        PROVIDE (_data_lma = .)
+
+.data           0x20000000       0x10 load address 0x00000848
+                0x20000000                        . = ALIGN (0x4)
+ *(.gnu.linkonce.r.*)
+ *(.data .data.*)
+ *(.gnu.linkonce.d.*)
+                0x20000000                        . = ALIGN (0x8)
+                0x20000800                        PROVIDE (__global_pointer$ = (. + 0x800))
+ *(.sdata .sdata.*)
+ .sdata.SystemCoreClock
+                0x20000000        0x4 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/system_ch32v00x_d3983265.o
+                0x20000000                SystemCoreClock
+ *(.sdata2*)
+ *(.gnu.linkonce.s.*)
+                0x20000008                        . = ALIGN (0x8)
+ *fill*         0x20000004        0x4 
+ *(.srodata.cst16)
+ *(.srodata.cst8)
+ *(.srodata.cst4)
+ *(.srodata.cst2)
+ *(.srodata .srodata.*)
+ .srodata.__PRETTY_FUNCTION__.0
+                0x20000008        0x5 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_main_9df9f901.o
+                0x20000010                        . = ALIGN (0x4)
+ *fill*         0x2000000d        0x3 
+                0x20000010                        PROVIDE (_edata = .)
+
+.bss            0x20000010        0xc load address 0x00000858
+                0x20000010                        . = ALIGN (0x4)
+                0x20000010                        PROVIDE (_sbss = .)
+ *(.sbss*)
+ .sbss.p_ms     0x20000010        0x2 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/debug_612e4371.o
+ .sbss.p_us     0x20000012        0x1 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/debug_612e4371.o
+ *fill*         0x20000013        0x1 
+ .sbss.NVIC_Priority_Group
+                0x20000014        0x4 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_misc_9a0fbf45.o
+                0x20000014                NVIC_Priority_Group
+ .sbss.s_ms_counter
+                0x20000018        0x4 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_tick_ba34bfbd.o
+ *(.gnu.linkonce.sb.*)
+ *(.bss*)
+ *(.gnu.linkonce.b.*)
+ *(COMMON*)
+                0x2000001c                        . = ALIGN (0x4)
+                0x2000001c                        PROVIDE (_ebss = .)
+                0x2000001c                        PROVIDE (_end = _ebss)
+                [!provide]                        PROVIDE (end = .)
+
+.stack          0x20000700      0x100
+                0x20000700                        PROVIDE (_heap_end = .)
+                0x20000700                        . = ALIGN (0x4)
+                [!provide]                        PROVIDE (_susrstack = .)
+                0x20000800                        . = (. + __stack_size)
+ *fill*         0x20000700      0x100 
+                0x20000800                        PROVIDE (_eusrstack = .)
+OUTPUT(system\build\app.elf elf32-littleriscv)
+
+.debug_info     0x00000000     0x4bc6
+ .debug_info    0x00000000      0x146 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/app_54a0eba9.o
+ .debug_info    0x00000146       0x24 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/blink_2838a8ce.o
+ .debug_info    0x0000016a      0x2fa C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_it_72e0cebd.o
+ .debug_info    0x00000464       0x23 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/startup_fd654424.o
+ .debug_info    0x00000487      0x370 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/system_ch32v00x_d3983265.o
+ .debug_info    0x000007f7      0x726 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/debug_612e4371.o
+ .debug_info    0x00000f1d      0x7f5 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_rcc_87dcd468.o
+ .debug_info    0x00001712      0x53c C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_misc_9a0fbf45.o
+ .debug_info    0x00001c4e     0x20f3 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .debug_info    0x00003d41      0x1f8 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_main_9df9f901.o
+ .debug_info    0x00003f39      0x94d C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_tick_ba34bfbd.o
+ .debug_info    0x00004886      0x249 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/sevs_assert_target_d21dbdfb.o
+ .debug_info    0x00004acf       0x68 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(save-restore.o)
+ .debug_info    0x00004b37       0x31 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(muldi3.o)
+ .debug_info    0x00004b68       0x5e C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(div.o)
+
+.debug_abbrev   0x00000000     0x1277
+ .debug_abbrev  0x00000000       0xf0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/app_54a0eba9.o
+ .debug_abbrev  0x000000f0       0x14 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/blink_2838a8ce.o
+ .debug_abbrev  0x00000104      0x103 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_it_72e0cebd.o
+ .debug_abbrev  0x00000207       0x12 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/startup_fd654424.o
+ .debug_abbrev  0x00000219      0x1ba C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/system_ch32v00x_d3983265.o
+ .debug_abbrev  0x000003d3      0x217 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/debug_612e4371.o
+ .debug_abbrev  0x000005ea      0x248 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_rcc_87dcd468.o
+ .debug_abbrev  0x00000832      0x1c4 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_misc_9a0fbf45.o
+ .debug_abbrev  0x000009f6      0x31f C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .debug_abbrev  0x00000d15      0x101 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_main_9df9f901.o
+ .debug_abbrev  0x00000e16      0x2cc C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_tick_ba34bfbd.o
+ .debug_abbrev  0x000010e2      0x11d C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/sevs_assert_target_d21dbdfb.o
+ .debug_abbrev  0x000011ff       0x28 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(save-restore.o)
+ .debug_abbrev  0x00001227       0x28 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(muldi3.o)
+ .debug_abbrev  0x0000124f       0x28 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(div.o)
+
+.debug_loclists
+                0x00000000     0x1810
+ .debug_loclists
+                0x00000000       0x1a C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/app_54a0eba9.o
+ .debug_loclists
+                0x0000001a       0x77 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/system_ch32v00x_d3983265.o
+ .debug_loclists
+                0x00000091      0x139 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/debug_612e4371.o
+ .debug_loclists
+                0x000001ca      0x3da C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_rcc_87dcd468.o
+ .debug_loclists
+                0x000005a4       0x6a C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_misc_9a0fbf45.o
+ .debug_loclists
+                0x0000060e     0x10d6 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .debug_loclists
+                0x000016e4       0x84 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_tick_ba34bfbd.o
+ .debug_loclists
+                0x00001768       0xa8 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/sevs_assert_target_d21dbdfb.o
+
+.debug_aranges  0x00000000      0x5e0
+ .debug_aranges
+                0x00000000       0x28 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/app_54a0eba9.o
+ .debug_aranges
+                0x00000028       0x20 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/blink_2838a8ce.o
+ .debug_aranges
+                0x00000048       0x28 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_it_72e0cebd.o
+ .debug_aranges
+                0x00000070       0x30 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/startup_fd654424.o
+ .debug_aranges
+                0x000000a0       0x28 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/system_ch32v00x_d3983265.o
+ .debug_aranges
+                0x000000c8       0x50 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/debug_612e4371.o
+ .debug_aranges
+                0x00000118       0xe0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_rcc_87dcd468.o
+ .debug_aranges
+                0x000001f8       0x28 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_misc_9a0fbf45.o
+ .debug_aranges
+                0x00000220      0x2e8 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .debug_aranges
+                0x00000508       0x20 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_main_9df9f901.o
+ .debug_aranges
+                0x00000528       0x38 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_tick_ba34bfbd.o
+ .debug_aranges
+                0x00000560       0x20 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/sevs_assert_target_d21dbdfb.o
+ .debug_aranges
+                0x00000580       0x20 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(save-restore.o)
+ .debug_aranges
+                0x000005a0       0x20 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(muldi3.o)
+ .debug_aranges
+                0x000005c0       0x20 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(div.o)
+
+.debug_rnglists
+                0x00000000      0x42d
+ .debug_rnglists
+                0x00000000       0x19 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/app_54a0eba9.o
+ .debug_rnglists
+                0x00000019       0x19 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_it_72e0cebd.o
+ .debug_rnglists
+                0x00000032       0x21 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/startup_fd654424.o
+ .debug_rnglists
+                0x00000053       0x1a C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/system_ch32v00x_d3983265.o
+ .debug_rnglists
+                0x0000006d       0x37 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/debug_612e4371.o
+ .debug_rnglists
+                0x000000a4       0xa4 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_rcc_87dcd468.o
+ .debug_rnglists
+                0x00000148       0x3d C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_misc_9a0fbf45.o
+ .debug_rnglists
+                0x00000185      0x24f C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .debug_rnglists
+                0x000003d4       0x13 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_main_9df9f901.o
+ .debug_rnglists
+                0x000003e7       0x32 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_tick_ba34bfbd.o
+ .debug_rnglists
+                0x00000419       0x14 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/sevs_assert_target_d21dbdfb.o
+
+.debug_line     0x00000000     0x4704
+ .debug_line    0x00000000       0xcc C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/app_54a0eba9.o
+ .debug_line    0x000000cc       0xbc C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/blink_2838a8ce.o
+ .debug_line    0x00000188       0xc5 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_it_72e0cebd.o
+ .debug_line    0x0000024d      0x144 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/startup_fd654424.o
+ .debug_line    0x00000391      0x376 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/system_ch32v00x_d3983265.o
+ .debug_line    0x00000707      0x4b7 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/debug_612e4371.o
+ .debug_line    0x00000bbe      0xaaf C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_rcc_87dcd468.o
+ .debug_line    0x0000166d      0x1f0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_misc_9a0fbf45.o
+ .debug_line    0x0000185d     0x277a C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .debug_line    0x00003fd7       0xcc C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_main_9df9f901.o
+ .debug_line    0x000040a3      0x2bb C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_tick_ba34bfbd.o
+ .debug_line    0x0000435e      0x158 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/sevs_assert_target_d21dbdfb.o
+ .debug_line    0x000044b6       0x81 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(save-restore.o)
+ .debug_line    0x00004537       0x7a C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(muldi3.o)
+ .debug_line    0x000045b1      0x153 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(div.o)
+
+.debug_str      0x00000000     0x1e16
+ .debug_str     0x00000000     0x1e16 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/app_54a0eba9.o
+                                0x20e (size before relaxing)
+ .debug_str     0x00001e16        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/blink_2838a8ce.o
+                                 0xaa (size before relaxing)
+ .debug_str     0x00001e16        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_it_72e0cebd.o
+                                0x262 (size before relaxing)
+ .debug_str     0x00001e16        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/startup_fd654424.o
+                                 0xaf (size before relaxing)
+ .debug_str     0x00001e16        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/system_ch32v00x_d3983265.o
+                                0x2ee (size before relaxing)
+ .debug_str     0x00001e16        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/debug_612e4371.o
+                                0x528 (size before relaxing)
+ .debug_str     0x00001e16        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_rcc_87dcd468.o
+                                0x58d (size before relaxing)
+ .debug_str     0x00001e16        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_misc_9a0fbf45.o
+                                0x4dc (size before relaxing)
+ .debug_str     0x00001e16        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+                                0xe3d (size before relaxing)
+ .debug_str     0x00001e16        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_main_9df9f901.o
+                                0x275 (size before relaxing)
+ .debug_str     0x00001e16        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_tick_ba34bfbd.o
+                                0x69f (size before relaxing)
+ .debug_str     0x00001e16        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/sevs_assert_target_d21dbdfb.o
+                                0x219 (size before relaxing)
+ .debug_str     0x00001e16        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(save-restore.o)
+                                0x205 (size before relaxing)
+ .debug_str     0x00001e16        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(muldi3.o)
+                                0x1a5 (size before relaxing)
+ .debug_str     0x00001e16        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(div.o)
+                                0x1d2 (size before relaxing)
+
+.debug_line_str
+                0x00000000      0xab6
+ .debug_line_str
+                0x00000000      0xab6 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/app_54a0eba9.o
+                                0x2d7 (size before relaxing)
+ .debug_line_str
+                0x00000ab6        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/blink_2838a8ce.o
+                                 0x9e (size before relaxing)
+ .debug_line_str
+                0x00000ab6        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_it_72e0cebd.o
+                                0x27d (size before relaxing)
+ .debug_line_str
+                0x00000ab6        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/startup_fd654424.o
+                                 0xa3 (size before relaxing)
+ .debug_line_str
+                0x00000ab6        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/system_ch32v00x_d3983265.o
+                                0x272 (size before relaxing)
+ .debug_line_str
+                0x00000ab6        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/debug_612e4371.o
+                                0x315 (size before relaxing)
+ .debug_line_str
+                0x00000ab6        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_rcc_87dcd468.o
+                                0x267 (size before relaxing)
+ .debug_line_str
+                0x00000ab6        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_misc_9a0fbf45.o
+                                0x26a (size before relaxing)
+ .debug_line_str
+                0x00000ab6        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+                                0x276 (size before relaxing)
+ .debug_line_str
+                0x00000ab6        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_main_9df9f901.o
+                                0x2df (size before relaxing)
+ .debug_line_str
+                0x00000ab6        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_tick_ba34bfbd.o
+                                0x2fd (size before relaxing)
+ .debug_line_str
+                0x00000ab6        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/sevs_assert_target_d21dbdfb.o
+                                0x2d5 (size before relaxing)
+ .debug_line_str
+                0x00000ab6        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(save-restore.o)
+                                0x196 (size before relaxing)
+ .debug_line_str
+                0x00000ab6        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(muldi3.o)
+                                0x190 (size before relaxing)
+ .debug_line_str
+                0x00000ab6        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(div.o)
+                                0x18d (size before relaxing)
+
+.comment        0x00000000       0x33
+ .comment       0x00000000       0x33 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/app_54a0eba9.o
+                                 0x34 (size before relaxing)
+ .comment       0x00000033        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_it_72e0cebd.o
+                                 0x34 (size before relaxing)
+ .comment       0x00000033        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/system_ch32v00x_d3983265.o
+                                 0x34 (size before relaxing)
+ .comment       0x00000033        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/debug_612e4371.o
+                                 0x34 (size before relaxing)
+ .comment       0x00000033        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_rcc_87dcd468.o
+                                 0x34 (size before relaxing)
+ .comment       0x00000033        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_misc_9a0fbf45.o
+                                 0x34 (size before relaxing)
+ .comment       0x00000033        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+                                 0x34 (size before relaxing)
+ .comment       0x00000033        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_main_9df9f901.o
+                                 0x34 (size before relaxing)
+ .comment       0x00000033        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_tick_ba34bfbd.o
+                                 0x34 (size before relaxing)
+ .comment       0x00000033        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/sevs_assert_target_d21dbdfb.o
+                                 0x34 (size before relaxing)
+ .comment       0x00000033        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-strncpy.o)
+                                 0x34 (size before relaxing)
+ .comment       0x00000033        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-init.o)
+                                 0x34 (size before relaxing)
+
+.note.GNU-stack
+                0x00000000        0x0
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/app_54a0eba9.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_it_72e0cebd.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/system_ch32v00x_d3983265.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/debug_612e4371.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_rcc_87dcd468.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_misc_9a0fbf45.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_main_9df9f901.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_tick_ba34bfbd.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/sevs_assert_target_d21dbdfb.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-strncpy.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-init.o)
+
+.riscv.attributes
+                0x00000000       0x41
+ .riscv.attributes
+                0x00000000       0x3d C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/app_54a0eba9.o
+ .riscv.attributes
+                0x0000003d       0x3b C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/blink_2838a8ce.o
+ .riscv.attributes
+                0x00000078       0x3d C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_it_72e0cebd.o
+ .riscv.attributes
+                0x000000b5       0x3f C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/startup_fd654424.o
+ .riscv.attributes
+                0x000000f4       0x3d C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/system_ch32v00x_d3983265.o
+ .riscv.attributes
+                0x00000131       0x3d C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/debug_612e4371.o
+ .riscv.attributes
+                0x0000016e       0x3d C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_rcc_87dcd468.o
+ .riscv.attributes
+                0x000001ab       0x3d C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_misc_9a0fbf45.o
+ .riscv.attributes
+                0x000001e8       0x3d C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .riscv.attributes
+                0x00000225       0x3d C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_main_9df9f901.o
+ .riscv.attributes
+                0x00000262       0x41 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_tick_ba34bfbd.o
+ .riscv.attributes
+                0x000002a3       0x41 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/sevs_assert_target_d21dbdfb.o
+ .riscv.attributes
+                0x000002e4       0x26 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(save-restore.o)
+ .riscv.attributes
+                0x0000030a       0x26 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(muldi3.o)
+ .riscv.attributes
+                0x00000330       0x26 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/rv32ec/ilp32e\libgcc.a(div.o)
+ .riscv.attributes
+                0x00000356       0x28 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-strncpy.o)
+ .riscv.attributes
+                0x0000037e       0x28 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a(libc_a-init.o)
+
+.debug_frame    0x00000000      0xaa4
+ .debug_frame   0x00000000       0x3c C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/app_54a0eba9.o
+ .debug_frame   0x0000003c       0x30 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_it_72e0cebd.o
+ .debug_frame   0x0000006c       0x4c C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/system_ch32v00x_d3983265.o
+ .debug_frame   0x000000b8       0xdc C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/debug_612e4371.o
+ .debug_frame   0x00000194      0x1d0 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_rcc_87dcd468.o
+ .debug_frame   0x00000364       0x30 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_misc_9a0fbf45.o
+ .debug_frame   0x00000394      0x618 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/ch32v00x_tim_08755a84.o
+ .debug_frame   0x000009ac       0x28 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_main_9df9f901.o
+ .debug_frame   0x000009d4       0xa4 C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/rovari_tick_ba34bfbd.o
+ .debug_frame   0x00000a78       0x2c C:/Users/armstrongsubero/Desktop/CH32V003_Examples/41_Mixed_Assembly_C++/system/build/sevs_assert_target_d21dbdfb.o

@@ -1,0 +1,42 @@
+/*
+ * Copyright (c) 2026 Armstrong Subero
+ *
+ * Program:  VL53L0X ToF Sensor (C style)
+ * Platform: CH32V003 / Rovari SDK
+ * Hardware: VL53L0X V2 on I2C1
+ *           SCL=PC2, SDA=PC1 (4.7k pullups)
+ */
+
+#include "rovari.h"
+#include "rovari_vl53l0x.h"
+
+void app_init(void)
+{
+    uart_init(SERIAL1, 115200);
+    i2c_init(I2C_1, 400000);
+
+    uart_println(SERIAL1, "VL53L0X ToF Sensor");
+
+    if (vl53l0x_init(VL53L0X_HIGH_SPEED) != 0)
+    {
+        uart_println(SERIAL1, "Init failed");
+        while (1) { delay(1000); }
+    }
+
+    vl53l0x_start_continuous(0);
+    uart_println(SERIAL1, "Ranging...");
+}
+
+void app_run(void)
+{
+    uint16_t mm = vl53l0x_read_continuous_mm();
+
+    if (mm > 0)
+    {
+        uart_printf(SERIAL1, "\t%u\tmm\r\n", (unsigned)mm);
+    }
+    else
+    {
+        uart_println(SERIAL1, "TIMEOUT");
+    }
+}

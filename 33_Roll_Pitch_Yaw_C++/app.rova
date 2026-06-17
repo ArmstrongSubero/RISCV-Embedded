@@ -1,0 +1,60 @@
+/*
+ * Copyright (c) 2026 Armstrong Subero
+ *
+ * Program:  Roll Pitch Yaw (C++ style)
+ * Platform: CH32V003 / Rovari SDK
+ * Hardware: MPU6050 on I2C1
+ *           SCL=PC2, SDA=PC1 (4.7k pullups)
+ */
+
+#include "rovari.h"
+#include "rovari_mpu6050.h"
+#include "rovari_ahrs.h"
+
+Uart    serial(SERIAL1, 115200);
+I2c     bus(I2C_1, 400000);
+Mpu6050 imu;
+Ahrs    ahrs;
+
+void app_init(void)
+{
+    serial.println("Roll Pitch Yaw");
+
+    if (imu.init() != 0)
+    {
+        serial.println("MPU init failed");
+        while (1) { delay(1000); }
+    }
+
+    serial.println("Hold still...");
+    imu.calibrate();
+    ahrs.init();
+    serial.println("Ready");
+}
+
+static uint32_t tick = 0;
+
+void app_run(void)
+{
+    ahrs_angles_t a;
+
+    if (ahrs.update(&a) == 0)
+    {
+        if ((tick % 10) == 0)
+        {
+            int32_t rA = (a.roll < 0) ? -a.roll : a.roll,  rS = (a.roll < 0);
+            int32_t pA = (a.pitch < 0) ? -a.pitch : a.pitch, pS = (a.pitch < 0);
+            int32_t yA = (a.yaw < 0) ? -a.yaw : a.yaw,   yS = (a.yaw < 0);
+
+            uart_printf(SERIAL1,
+                "R:%c%ld.%02ld P:%c%ld.%02ld Y:%c%ld.%02ld%s\r\n",
+                rS ? '-' : '+', (long)(rA / 100), (long)(rA % 100),
+                pS ? '-' : '+', (long)(pA / 100), (long)(pA % 100),
+                yS ? '-' : '+', (long)(yA / 100), (long)(yA % 100),
+                ahrs.isLevel() ? " LEVEL" : "");
+        }
+        tick++;
+    }
+
+    delay(10);
+}

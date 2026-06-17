@@ -1,0 +1,37 @@
+/*
+ * Copyright (c) 2026 Armstrong Subero
+ *
+ * Program:  Joystick (C++ style)
+ * Platform: CH32V003 / Rovari SDK
+ * Hardware: 2-axis analog joystick
+ *           VRx=PA2, VRy=PA1, SW=PC0
+ *           VCC=3.3V, GND=GND
+ */
+
+#include "rovari.h"
+#include "rovari_joystick.h"
+
+Uart serial(SERIAL1, 115200);
+Joystick stick(PA2, PA1, PC0);
+
+void app_init(void)
+{
+    serial.println("Calibrating...");
+    delay(1000);
+    stick.calibrate();
+    serial.println("Ready");
+}
+
+void app_run(void)
+{
+    joystick_t joy;
+    stick.read(&joy);
+
+    uart_printf(SERIAL1, "X:%4d Y:%4d  %s %s\r\n",
+                (int)joy.x,
+                (int)joy.y,
+                stick.dirStr(joy.direction),
+                joy.button ? "BTN" : "");
+
+    delay(100);
+}

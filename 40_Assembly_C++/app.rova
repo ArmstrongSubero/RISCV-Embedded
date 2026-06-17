@@ -1,0 +1,23 @@
+/*
+ * Copyright (c) 2026 Armstrong Subero
+ *
+ * Program:  Assembly Blink (C++ entry point)
+ * Platform: CH32V003 / Rovari SDK
+ */
+
+#include "rovari.h"
+
+extern "C" {
+    void asm_main_init(void);
+    void asm_main_run(void);
+}
+
+void app_init(void)
+{
+    asm_main_init();
+}
+
+void app_run(void)
+{
+    asm_main_run();
+}

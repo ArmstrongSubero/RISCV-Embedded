@@ -1,0 +1,47 @@
+/*
+ * Copyright (c) 2026 Armstrong Subero
+ *
+ * Program:  Joystick to Servo (C++ style)
+ * Platform: CH32V003 / Rovari SDK
+ * Hardware: Joystick VRx=PA2, VRy=PA1, SW=PC0
+ *           Servo X (pan)  on PD2 (TIM1 CH1)
+ *           Servo Y (tilt) on PC4 (TIM1 CH4)
+ */
+
+#include "rovari.h"
+#include "rovari_joystick.h"
+
+Uart     serial(SERIAL1, 115200);
+Joystick stick(PA2, PA1, PC0);
+Servo    pan(PD2);
+Servo    tilt(PC4);
+
+void app_init(void)
+{
+    serial.println("Calibrating...");
+    delay(1000);
+    stick.calibrate();
+    serial.println("Ready");
+}
+
+void app_run(void)
+{
+    joystick_t joy;
+    stick.read(&joy);
+
+    if (joy.button)
+    {
+        pan.writeDeg(90);
+        tilt.writeDeg(90);
+    }
+    else
+    {
+        uint16_t pan_deg  = (uint16_t)((uint32_t)joy.raw_x * 180 / 1023);
+        uint16_t tilt_deg = (uint16_t)((uint32_t)joy.raw_y * 180 / 1023);
+
+        pan.writeDeg(pan_deg);
+        tilt.writeDeg(tilt_deg);
+    }
+
+    delay(20);
+}

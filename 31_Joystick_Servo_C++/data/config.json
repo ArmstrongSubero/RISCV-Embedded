@@ -1,0 +1,12 @@
+{
+  "peripherals": [
+    "GPIO",
+    "RCC",
+    "MISC",
+    "UART",
+    "ADC"
+  ],
+  "libraries": [
+    "Servo"
+  ]
+}

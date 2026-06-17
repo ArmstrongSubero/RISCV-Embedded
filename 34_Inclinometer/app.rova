@@ -1,0 +1,61 @@
+/*
+ * Copyright (c) 2026 Armstrong Subero
+ *
+ * Program:  Inclinometer (C style)
+ * Platform: CH32V003 / Rovari SDK
+ * Hardware: MPU6050 on I2C1
+ *           SCL=PC2, SDA=PC1 (4.7k pullups)
+ */
+
+#include "rovari.h"
+#include "rovari_mpu6050.h"
+#include "rovari_ahrs.h"
+
+void app_init(void)
+{
+    uart_init(SERIAL1, 115200);
+    i2c_init(I2C_1, 400000);
+
+    uart_println(SERIAL1, "Inclinometer");
+
+    if (mpu6050_init() != 0)
+    {
+        uart_println(SERIAL1, "MPU init failed");
+        while (1) { delay(1000); }
+    }
+
+    uart_println(SERIAL1, "Hold flat and still...");
+    mpu6050_calibrate();
+    ahrs_init();
+    uart_println(SERIAL1, "Ready");
+}
+
+static uint32_t tick = 0;
+
+void app_run(void)
+{
+    ahrs_angles_t a;
+
+    if (ahrs_update(&a) == 0)
+    {
+        if ((tick % 10) == 0)
+        {
+            uint32_t tilt = ahrs_tilt();
+
+            uart_printf(SERIAL1,
+                "TILT:%lu.%02lu deg  R:%c%lu.%02lu  P:%c%lu.%02lu%s\r\n",
+                (unsigned long)(tilt / 100),
+                (unsigned long)(tilt % 100),
+                (a.roll < 0)  ? '-' : '+',
+                (unsigned long)(((a.roll < 0) ? -a.roll : a.roll) / 100),
+                (unsigned long)(((a.roll < 0) ? -a.roll : a.roll) % 100),
+                (a.pitch < 0) ? '-' : '+',
+                (unsigned long)(((a.pitch < 0) ? -a.pitch : a.pitch) / 100),
+                (unsigned long)(((a.pitch < 0) ? -a.pitch : a.pitch) % 100),
+                ahrs_is_level() ? "  LEVEL" : "");
+        }
+        tick++;
+    }
+
+    delay(10);
+}

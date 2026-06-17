@@ -1,0 +1,67 @@
+/*
+ * Copyright (c) 2026 Armstrong Subero
+ *
+ * Program:  Fall Detector (C style)
+ * Platform: CH32V003 / Rovari SDK
+ * Hardware: MPU6050 on I2C1
+ *           SCL=PC2, SDA=PC1 (4.7k pullups)
+ */
+
+#include "rovari.h"
+#include "rovari_mpu6050.h"
+#include "rovari_fall.h"
+
+static uint8_t last_state = 0xFF;
+
+void app_init(void)
+{
+    uart_init(SERIAL1, 115200);
+    i2c_init(I2C_1, 400000);
+
+    uart_println(SERIAL1, "Fall Detector");
+
+    if (mpu6050_init() != 0)
+    {
+        uart_println(SERIAL1, "MPU init failed");
+        while (1) { delay(1000); }
+    }
+
+    uart_println(SERIAL1, "Hold still...");
+    mpu6050_calibrate();
+    fall_init();
+    fall_set_thresholds(1200, 600);
+    uart_println(SERIAL1, "Ready");
+}
+
+void app_run(void)
+{
+    mpu6050_raw_t raw;
+
+    if (mpu6050_read_raw(&raw) == 0)
+    {
+        mpu6050_data_t d;
+        d.ax = ((int32_t)raw.ax * 1000) / 16384;
+        d.ay = ((int32_t)raw.ay * 1000) / 16384;
+        d.az = ((int32_t)raw.az * 1000) / 16384;
+        d.gx = ((int32_t)raw.gx * 1000) / 131;
+        d.gy = ((int32_t)raw.gy * 1000) / 131;
+        d.gz = ((int32_t)raw.gz * 1000) / 131;
+
+        fall_update(&d);
+
+        uint8_t st = fall_get_state();
+        if (st != last_state)
+        {
+            uart_printf(SERIAL1, ">> %s\r\n", fall_state_str(st));
+            last_state = st;
+        }
+
+        if (fall_detected())
+        {
+            uart_println(SERIAL1, "FALL DETECTED");
+            last_state = 0xFF;
+        }
+    }
+
+    delay(10);
+}

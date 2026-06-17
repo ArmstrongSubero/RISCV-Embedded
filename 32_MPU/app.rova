@@ -1,0 +1,45 @@
+/*
+ * Copyright (c) 2026 Armstrong Subero
+ *
+ * Program:  MPU6050 IMU (C style)
+ * Platform: CH32V003 / Rovari SDK
+ * Hardware: MPU6050 on I2C1
+ *           SCL=PC2, SDA=PC1 (4.7k pullups)
+ */
+
+#include "rovari.h"
+#include "rovari_mpu6050.h"
+
+void app_init(void)
+{
+    uart_init(SERIAL1, 115200);
+    i2c_init(I2C_1, 400000);
+
+    uart_println(SERIAL1, "MPU6050 IMU");
+
+    if (mpu6050_init() != 0)
+    {
+        uart_println(SERIAL1, "Init failed");
+        while (1) { delay(1000); }
+    }
+
+    uart_println(SERIAL1, "Hold still...");
+    mpu6050_calibrate();
+    uart_println(SERIAL1, "Ready");
+}
+
+void app_run(void)
+{
+    mpu6050_data_t d;
+
+    if (mpu6050_read(&d) == 0)
+    {
+        uart_printf(SERIAL1,
+            "A:%ld,%ld,%ld G:%ld,%ld,%ld T:%ld.%02ld\r\n",
+            (long)d.ax, (long)d.ay, (long)d.az,
+            (long)d.gx, (long)d.gy, (long)d.gz,
+            (long)(d.temp / 100), (long)(d.temp % 100));
+    }
+
+    delay(10);
+}

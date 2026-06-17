@@ -1,0 +1,34 @@
+/*
+ * Copyright (c) 2026 Armstrong Subero
+ *
+ * Program:  Mixed C/Assembly Blink (C style)
+ * Platform: CH32V003 / Rovari SDK
+ * Hardware: LED on PC0
+ *
+ * GPIO init and toggle in assembly (asm_blink.S).
+ * Timing via SDK delay().
+ */
+
+#include "rovari.h"
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+void asm_blink_init(void);
+void asm_blink_toggle(void);
+
+#ifdef __cplusplus
+}
+#endif
+
+void app_init(void)
+{
+    asm_blink_init();
+}
+
+void app_run(void)
+{
+    asm_blink_toggle();
+    delay(500);
+}

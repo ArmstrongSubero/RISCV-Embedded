@@ -1,0 +1,44 @@
+/*
+ * Copyright (c) 2026 Armstrong Subero
+ *
+ * Program:  GPS Reader (C++ style)
+ * Platform: CH32V003 / Rovari SDK
+ * Hardware: NEO-6M GPS module
+ *           TX -> PD2
+ *           VCC=5V, GND=GND
+ */
+
+#include "rovari.h"
+#include "rovari_gps.h"
+
+Uart serial(SERIAL1, 115200);
+Gps  gps;
+
+void app_init(void)
+{
+}
+
+void app_run(void)
+{
+    gps_fix_t fix;
+
+    if (gps.read(&fix) == 0 && fix.valid)
+    {
+        int32_t lat_w = fix.lat / 1000000;
+        int32_t lat_f = fix.lat % 1000000;
+        if (lat_f < 0) lat_f = -lat_f;
+
+        int32_t lon_w = fix.lon / 1000000;
+        int32_t lon_f = fix.lon % 1000000;
+        if (lon_f < 0) lon_f = -lon_f;
+
+        uart_printf(SERIAL1,
+            "https://maps.google.com/?q=%s%ld.%06ld,%s%ld.%06ld\r\n",
+            (fix.lat < 0) ? "-" : "",
+            (long)(lat_w < 0 ? -lat_w : lat_w),
+            (long)lat_f,
+            (fix.lon < 0) ? "-" : "",
+            (long)(lon_w < 0 ? -lon_w : lon_w),
+            (long)lon_f);
+    }
+}

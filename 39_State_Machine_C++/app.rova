@@ -1,0 +1,159 @@
+/*
+ * Copyright (c) 2026 Armstrong Subero
+ *
+ * Program:  LED State Machine (C++ style)
+ * Platform: CH32V003 / Rovari SDK
+ * Hardware: LEDs on PC0, PC1, PC2, PC3
+ */
+
+#include "rovari.h"
+
+#define NUM_STATES 4
+
+void SM_STATE_ONE(void);
+void SM_STATE_TWO(void);
+void SM_STATE_THREE(void);
+void SM_STATE_FOUR(void);
+
+typedef enum
+{
+    STATE_ONE,
+    STATE_TWO,
+    STATE_THREE,
+    STATE_FOUR
+} StateType;
+
+typedef struct
+{
+    StateType State;
+    void (*func)(void);
+} StateMachineType;
+
+StateMachineType StateMachine[] =
+{
+    {STATE_ONE,   SM_STATE_ONE},
+    {STATE_TWO,   SM_STATE_TWO},
+    {STATE_THREE, SM_STATE_THREE},
+    {STATE_FOUR,  SM_STATE_FOUR}
+};
+
+StateType SM_STATE = STATE_ONE;
+
+Uart serial(SERIAL1, 115200);
+Gpio led0(PC0, Output);
+Gpio led1(PC1, Output);
+Gpio led2(PC2, Output);
+Gpio led3(PC3, Output);
+
+static Gpio* leds[] = {&led0, &led1, &led2, &led3};
+
+static void all_off(void)
+{
+    for (uint8_t i = 0; i < 4; i++)
+        leds[i]->low();
+}
+
+/*
+ * State 1: Chase pattern (knight rider)
+ */
+void SM_STATE_ONE(void)
+{
+    serial.println("CHASE");
+
+    for (uint8_t rep = 0; rep < 3; rep++)
+    {
+        for (uint8_t i = 0; i < 4; i++)
+        {
+            all_off();
+            leds[i]->high();
+            delay(150);
+        }
+        for (uint8_t i = 2; i > 0; i--)
+        {
+            all_off();
+            leds[i]->high();
+            delay(150);
+        }
+    }
+    all_off();
+
+    SM_STATE = STATE_TWO;
+}
+
+/*
+ * State 2: Alternating pairs
+ */
+void SM_STATE_TWO(void)
+{
+    serial.println("ALTERNATE");
+
+    for (uint8_t rep = 0; rep < 6; rep++)
+    {
+        led0.high(); led2.high();
+        led1.low();  led3.low();
+        delay(300);
+
+        led0.low();  led2.low();
+        led1.high(); led3.high();
+        delay(300);
+    }
+    all_off();
+
+    SM_STATE = STATE_THREE;
+}
+
+/*
+ * State 3: Binary counter (0 to 15)
+ */
+void SM_STATE_THREE(void)
+{
+    serial.println("COUNTER");
+
+    for (uint8_t count = 0; count < 16; count++)
+    {
+        for (uint8_t bit = 0; bit < 4; bit++)
+            leds[bit]->write((count >> bit) & 1);
+        delay(400);
+    }
+    all_off();
+
+    SM_STATE = STATE_FOUR;
+}
+
+/*
+ * State 4: All blink together
+ */
+void SM_STATE_FOUR(void)
+{
+    serial.println("ALL BLINK");
+
+    for (uint8_t rep = 0; rep < 6; rep++)
+    {
+        for (uint8_t i = 0; i < 4; i++)
+            leds[i]->high();
+        delay(250);
+
+        all_off();
+        delay(250);
+    }
+
+    SM_STATE = STATE_ONE;
+}
+
+void RUN_STATEMACHINE(void)
+{
+    if (SM_STATE < NUM_STATES)
+    {
+        (*StateMachine[SM_STATE].func)();
+    }
+}
+
+void app_init(void)
+{
+    serial.println("LED State Machine");
+}
+
+void app_run(void)
+{
+    RUN_STATEMACHINE();
+}

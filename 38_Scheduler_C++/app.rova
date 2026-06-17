@@ -1,0 +1,64 @@
+/*
+ * Copyright (c) 2026 Armstrong Subero
+ *
+ * Program:  4 Cooperative Threads (C++ style)
+ * Platform: CH32V003 / Rovari SDK
+ * Hardware: LEDs on PC0, PC1, PC2, PC3
+ */
+
+#include "rovari.h"
+#include "rovari_threads.h"
+
+Uart serial(SERIAL1, 115200);
+
+struct thread t1, t2, t3, t4;
+uint8_t stack1[192] __attribute__((aligned(4)));
+uint8_t stack2[192] __attribute__((aligned(4)));
+uint8_t stack3[192] __attribute__((aligned(4)));
+uint8_t stack4[192] __attribute__((aligned(4)));
+
+void task1(void *data)
+{
+    (void)data;
+    while (1) { pin_toggle(PC0); thread_sleep(100); }
+}
+
+void task2(void *data)
+{
+    (void)data;
+    while (1) { pin_toggle(PC1); thread_sleep(200); }
+}
+
+void task3(void *data)
+{
+    (void)data;
+    while (1) { pin_toggle(PC2); thread_sleep(300); }
+}
+
+void task4(void *data)
+{
+    (void)data;
+    while (1) { pin_toggle(PC3); thread_sleep(500); }
+}
+
+void app_init(void)
+{
+    Gpio led0(PC0, Output);
+    Gpio led1(PC1, Output);
+    Gpio led2(PC2, Output);
+    Gpio led3(PC3, Output);
+
+    threads_init();
+
+    thread_start(&t1, task1, 0, stack1, sizeof(stack1));
+    thread_start(&t2, task2, 0, stack2, sizeof(stack2));
+    thread_start(&t3, task3, 0, stack3, sizeof(stack3));
+    thread_start(&t4, task4, 0, stack4, sizeof(stack4));
+
+    serial.println("4 threads running");
+}
+
+void app_run(void)
+{
+    thread_yield();
+}

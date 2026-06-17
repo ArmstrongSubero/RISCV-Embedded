@@ -1,0 +1,40 @@
+/*
+ * Copyright (c) 2026 Armstrong Subero
+ *
+ * Program:  Temp Sensor (C style)
+ * Platform: CH32V003 / Rovari SDK
+ * Hardware: MCP9700 on PA2
+ *           VDD=5V, VSS=GND, VOUT=PA2
+ */
+
+#include "rovari.h"
+#include "rovari_mcp9700.h"
+
+/* Actual VDD in millivolts. Measure with a meter and adjust. */
+#define VDD_MV      4500U
+
+#define SENSOR_PIN  PA2
+
+void app_init(void)
+{
+    uart_init(SERIAL1, 115200);
+    uart_println(SERIAL1, "MCP9700 Temperature");
+
+    mcp9700_init(SENSOR_PIN, VDD_MV);
+}
+
+void app_run(void)
+{
+    int16_t  c10 = mcp9700_read_c10(SENSOR_PIN);
+    uint16_t mv  = mcp9700_read_mv(SENSOR_PIN);
+
+    int abs_c10 = (c10 < 0) ? -c10 : c10;
+
+    uart_printf(SERIAL1, "%s%d.%d C  (%u mV)\r\n",
+                (c10 < 0) ? "-" : "",
+                abs_c10 / 10,
+                abs_c10 % 10,
+                (unsigned)mv);
+
+    delay(1000);
+}

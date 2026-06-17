@@ -1,0 +1,166 @@
+/*
+ * Copyright (c) 2026 Armstrong Subero
+ *
+ * Program:  LED State Machine
+ * Platform: CH32V003 / Rovari SDK
+ * Hardware: LEDs on PC0, PC1, PC2, PC3
+ */
+
+#include "rovari.h"
+
+#define NUM_STATES 4
+
+void SM_STATE_ONE(void);
+void SM_STATE_TWO(void);
+void SM_STATE_THREE(void);
+void SM_STATE_FOUR(void);
+
+typedef enum
+{
+    STATE_ONE,
+    STATE_TWO,
+    STATE_THREE,
+    STATE_FOUR
+} StateType;
+
+typedef struct
+{
+    StateType State;
+    void (*func)(void);
+} StateMachineType;
+
+StateMachineType StateMachine[] =
+{
+    {STATE_ONE,   SM_STATE_ONE},
+    {STATE_TWO,   SM_STATE_TWO},
+    {STATE_THREE, SM_STATE_THREE},
+    {STATE_FOUR,  SM_STATE_FOUR}
+};
+
+StateType SM_STATE = STATE_ONE;
+
+static const pin_t leds[] = {PC0, PC1, PC2, PC3};
+
+static void all_off(void)
+{
+    for (uint8_t i = 0; i < 4; i++)
+        digital_write(leds[i], Low);
+}
+
+/*
+ * State 1: Chase pattern (knight rider)
+ * Single LED sweeps left then right
+ */
+void SM_STATE_ONE(void)
+{
+    uart_println(SERIAL1, "CHASE");
+
+    for (uint8_t rep = 0; rep < 3; rep++)
+    {
+        for (uint8_t i = 0; i < 4; i++)
+        {
+            all_off();
+            digital_write(leds[i], High);
+            delay(150);
+        }
+        for (uint8_t i = 2; i > 0; i--)
+        {
+            all_off();
+            digital_write(leds[i], High);
+            delay(150);
+        }
+    }
+    all_off();
+
+    SM_STATE = STATE_TWO;
+}
+
+/*
+ * State 2: Alternating pairs
+ * PC0+PC2 on, PC1+PC3 off, then swap
+ */
+void SM_STATE_TWO(void)
+{
+    uart_println(SERIAL1, "ALTERNATE");
+
+    for (uint8_t rep = 0; rep < 6; rep++)
+    {
+        digital_write(PC0, High);
+        digital_write(PC2, High);
+        digital_write(PC1, Low);
+        digital_write(PC3, Low);
+        delay(300);
+
+        digital_write(PC0, Low);
+        digital_write(PC2, Low);
+        digital_write(PC1, High);
+        digital_write(PC3, High);
+        delay(300);
+    }
+    all_off();
+
+    SM_STATE = STATE_THREE;
+}
+
+/*
+ * State 3: Binary counter
+ * LEDs display 0000 to 1111 (0 to 15)
+ */
+void SM_STATE_THREE(void)
+{
+    uart_println(SERIAL1, "COUNTER");
+
+    for (uint8_t count = 0; count < 16; count++)
+    {
+        for (uint8_t bit = 0; bit < 4; bit++)
+            digital_write(leds[bit], (count >> bit) & 1 ? High : Low);
+        delay(400);
+    }
+    all_off();
+
+    SM_STATE = STATE_FOUR;
+}
+
+/*
+ * State 4: All blink together
+ */
+void SM_STATE_FOUR(void)
+{
+    uart_println(SERIAL1, "ALL BLINK");
+
+    for (uint8_t rep = 0; rep < 6; rep++)
+    {
+        for (uint8_t i = 0; i < 4; i++)
+            digital_write(leds[i], High);
+        delay(250);
+
+        all_off();
+        delay(250);
+    }
+
+    SM_STATE = STATE_ONE;
+}
+
+void RUN_STATEMACHINE(void)
+{
+    if (SM_STATE < NUM_STATES)
+    {
+        (*StateMachine[SM_STATE].func)();
+    }
+}
+
+void app_init(void)
+{
+    uart_init(SERIAL1, 115200);
+    pin_mode(PC0, Output);
+    pin_mode(PC1, Output);
+    pin_mode(PC2, Output);
+    pin_mode(PC3, Output);
+
+    uart_println(SERIAL1, "LED State Machine");
+}
+
+void app_run(void)
+{
+    RUN_STATEMACHINE();
+}
