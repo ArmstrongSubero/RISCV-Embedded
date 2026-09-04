@@ -1,0 +1,28 @@
+/*
+ * Copyright (c) 2026 Armstrong Subero
+ *
+ * Program:  14_TRNG (C style)
+ * Platform: Baochip-1x / Rovari SDK
+ * Hardware: none (on-chip hardware TRNG via SCE)
+ */
+
+#include "rovari.h"
+#include "hardware/trng.h"
+
+void app_init(void)
+{
+    trng_init();
+    mini_printf("Hardware TRNG Ready\r\n");
+}
+
+void app_run(void)
+{
+    uint32_t r1 = trng_random();
+    uint32_t r2 = trng_random();
+    uint32_t r3 = trng_random();
+    uint32_t r4 = trng_random();
+
+    mini_printf("%08x %08x %08x %08x\r\n", r1, r2, r3, r4);
+
+    delay(1000);
+}

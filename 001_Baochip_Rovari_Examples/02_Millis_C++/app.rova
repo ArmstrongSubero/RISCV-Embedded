@@ -1,0 +1,25 @@
+/*
+ * Copyright (c) 2026 Armstrong Subero
+ *
+ * Program:  02_BlinkWithoutDelay (C++ style)
+ * Platform: Baochip-1x / Rovari SDK
+ * Hardware: LED on PB1 via 330R resistor
+ */
+
+#include "rovari.h"
+
+Gpio led(PB1, Output);
+uint64_t last_toggle = 0;
+
+void app_init(void)
+{
+}
+
+void app_run(void)
+{
+    if (millis() - last_toggle >= 500)
+    {
+        last_toggle = millis();
+        led.toggle();
+    }
+}

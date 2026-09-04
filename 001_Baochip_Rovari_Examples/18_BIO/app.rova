@@ -1,0 +1,55 @@
+/*
+ * Copyright (c) 2026 Armstrong Subero
+ *
+ * Program:  18_BIO_Blink (C style)
+ * Platform: Baochip-1x / Rovari SDK
+ * Hardware: scope probe on PB2 (BIO channel 2)
+ *
+ * Loads a toggle program onto BIO core 0 to generate a
+ * 100 kHz square wave on PB2. The main CPU is free while
+ * the BIO coprocessor runs at 700 MHz.
+ */
+
+#include "rovari.h"
+
+extern "C" {
+#include "hardware/bio.h"
+}
+
+static const uint32_t bio_blink_program[] = {
+    0x00400293,   /* addi  x5, x0, 4    ; bit mask for pin 2    */
+    0x00028D13,   /* addi  x26, x5, 0   ; GPIO mask = pin 2     */
+    0x00028C13,   /* addi  x24, x5, 0   ; pin 2 = output        */
+    0x00028B13,   /* addi  x22, x5, 0   ; set pin 2 HIGH        */
+    0x00000A13,   /* addi  x20, x0, 0   ; wait quantum          */
+    0x00000B93,   /* addi  x23, x0, 0   ; clear pin 2 LOW       */
+    0x00000A13,   /* addi  x20, x0, 0   ; wait quantum          */
+    0xFF1FF06F,   /* jal   x0, -16      ; loop                  */
+};
+
+void app_init(void)
+{
+    mini_printf("BIO Square Wave on PB2\r\n");
+
+    bio_init(FCLK_HZ);
+    bio_load_code_words(0, bio_blink_program, 8);
+    bio_map_pin(2);
+    bio_set_divider(0, 1750, 0);
+    bio_start_cores(0x1);
+
+    mini_printf("BIO core 0 running. Expected: 100 kHz on PB2.\r\n");
+}
+
+void app_run(void)
+{
+    if (!bio_core_trapped(0))
+    {
+        mini_printf("BIO running, PC=0x%03x\r\n", bio_core_pc(0));
+    }
+    else
+    {
+        mini_printf("BIO TRAPPED!\r\n");
+    }
+
+    delay(2000);
+}

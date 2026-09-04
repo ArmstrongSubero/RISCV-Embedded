@@ -1,0 +1,9 @@
+{
+  "peripherals": [
+    "GPIO",
+    "QSPI"
+  ],
+  "libraries": [
+    "W25Q Flash"
+  ]
+}

@@ -1,0 +1,38 @@
+/*
+ * Copyright (c) 2026 Armstrong Subero
+ *
+ * Program:  10_SPI (C++ style)
+ * Platform: Baochip-1x / Rovari SDK
+ * Hardware: MCP41010 digital potentiometer
+ *           SCK=PC0, MOSI=PC1, MISO=PC2, CS=PB4
+ *           PA0=3V3, PB0=GND, measure PW0
+ */
+
+#include "rovari.h"
+
+#define MCP41010_CMD_WRITE 0x11
+
+Spi spi(SPI_1, 1000000);
+Gpio cs(PB4, Output);
+
+void app_init(void)
+{
+    cs.high();
+}
+
+void app_run(void)
+{
+    for (uint8_t i = 0; i < 255; i++)
+    {
+        uint8_t pkt[2] = {MCP41010_CMD_WRITE, i};
+
+        cs.low();
+        delay_us(10);
+        spi.writeBuf(pkt, 2);
+        delay_us(10);
+        cs.high();
+        delay_us(10);
+
+        delay(10);
+    }
+}

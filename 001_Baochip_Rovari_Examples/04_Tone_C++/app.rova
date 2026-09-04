@@ -1,0 +1,42 @@
+/*
+ * Copyright (c) 2026 Armstrong Subero
+ *
+ * Program:  04_ToneGeneration (C++ style)
+ * Platform: Baochip-1x / Rovari SDK
+ * Hardware: piezo buzzer on PB3 (PWM slice 1, ch 3)
+ */
+
+#include "rovari.h"
+
+#define MELODY_LEN 8
+
+Tone buzzer(PB3);
+
+static const uint16_t melody[] = {
+    NOTE_C4, NOTE_D4, NOTE_E4, NOTE_F4,
+    NOTE_G4, NOTE_A4, NOTE_B4, NOTE_C5
+};
+
+static const uint16_t durations[] = {
+    200, 200, 200, 200,
+    200, 200, 200, 400
+};
+
+void app_init(void)
+{
+}
+
+void app_run(void)
+{
+    for (uint8_t i = 0; i < MELODY_LEN; i++)
+    {
+        buzzer.play(melody[i], durations[i]);
+        while (buzzer.isPlaying())
+        {
+            buzzer.update();
+        }
+        delay(50);
+    }
+
+    delay(1000);
+}

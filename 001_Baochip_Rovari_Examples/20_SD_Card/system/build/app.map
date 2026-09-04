@@ -1,0 +1,1284 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-vsnprintf.o)
+                              C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_uart_dca14ff7.o (vsnprintf)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-impure.o)
+                              C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-vsnprintf.o) (_impure_ptr)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-init.o)
+                              C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_main_620c9b9a.o (__libc_init_array)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-nano-svfprintf.o)
+                              C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-vsnprintf.o) (_svfprintf_r)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-nano-vfprintf_i.o)
+                              C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-nano-svfprintf.o) (_printf_i)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-memchr.o)
+                              C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-nano-svfprintf.o) (memchr)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-memmove.o)
+                              C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-nano-svfprintf.o) (memmove)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-freer.o)
+                              C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-nano-svfprintf.o) (_free_r)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-mallocr.o)
+                              C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-nano-svfprintf.o) (_malloc_r)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-mlock.o)
+                              C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-freer.o) (__malloc_lock)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-reallocr.o)
+                              C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-nano-svfprintf.o) (_realloc_r)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-sbrkr.o)
+                              C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-mallocr.o) (_sbrk_r)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-lock.o)
+                              C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-mlock.o) (__retarget_lock_acquire_recursive)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-msizer.o)
+                              C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-reallocr.o) (_malloc_usable_size_r)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-reent.o)
+                              C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-sbrkr.o) (errno)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libnosys.a(sbrk.o)
+                              C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-sbrkr.o) (_sbrk)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/app_a92fdcbf.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/app_a92fdcbf.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/app_a92fdcbf.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/app_a92fdcbf.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/app_a92fdcbf.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari.blocks_3a562ad7.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari.blocks_3a562ad7.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari.blocks_3a562ad7.o
+ .text._Z10block_initv
+                0x00000000        0x2 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari.blocks_3a562ad7.o
+ .text._Z9block_runv
+                0x00000000        0x2 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari.blocks_3a562ad7.o
+ .debug_info    0x00000000       0xb3 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari.blocks_3a562ad7.o
+ .debug_abbrev  0x00000000       0x65 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari.blocks_3a562ad7.o
+ .debug_aranges
+                0x00000000       0x28 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari.blocks_3a562ad7.o
+ .debug_rnglists
+                0x00000000       0x19 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari.blocks_3a562ad7.o
+ .debug_line    0x00000000       0x69 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari.blocks_3a562ad7.o
+ .debug_str     0x00000000      0x1dd C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari.blocks_3a562ad7.o
+ .debug_line_str
+                0x00000000      0x128 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari.blocks_3a562ad7.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari.blocks_3a562ad7.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari.blocks_3a562ad7.o
+ .debug_frame   0x00000000       0x30 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari.blocks_3a562ad7.o
+ .riscv.attributes
+                0x00000000       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari.blocks_3a562ad7.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/baochip1x_it_9a387028.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/baochip1x_it_9a387028.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/baochip1x_it_9a387028.o
+ .debug_info    0x00000000       0x65 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/baochip1x_it_9a387028.o
+ .debug_abbrev  0x00000000       0x26 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/baochip1x_it_9a387028.o
+ .debug_aranges
+                0x00000000       0x18 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/baochip1x_it_9a387028.o
+ .debug_line    0x00000000       0x44 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/baochip1x_it_9a387028.o
+ .debug_str     0x00000000      0x14c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/baochip1x_it_9a387028.o
+ .debug_line_str
+                0x00000000      0x110 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/baochip1x_it_9a387028.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/baochip1x_it_9a387028.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/baochip1x_it_9a387028.o
+ .riscv.attributes
+                0x00000000       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/baochip1x_it_9a387028.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/startup_0be78bf6.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/startup_0be78bf6.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/startup_0be78bf6.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_gpio_9054eec4.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_gpio_9054eec4.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_gpio_9054eec4.o
+ .text.gpio_put
+                0x00000000       0x9a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_gpio_9054eec4.o
+ .text.gpio_get
+                0x00000000       0x82 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_gpio_9054eec4.o
+ .text.gpio_get_pull
+                0x00000000       0x82 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_gpio_9054eec4.o
+ .text.gpio_set_schmitt
+                0x00000000       0x9a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_gpio_9054eec4.o
+ .text.gpio_put_all
+                0x00000000       0x50 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_gpio_9054eec4.o
+ .text.gpio_get_all
+                0x00000000       0x4a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_gpio_9054eec4.o
+ .text.gpio_set_dir_masked
+                0x00000000       0x50 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_gpio_9054eec4.o
+ .text.gpio_get_dir
+                0x00000000       0x82 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_gpio_9054eec4.o
+ .rodata.__PRETTY_FUNCTION__.0
+                0x00000000        0xd C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_gpio_9054eec4.o
+ .rodata.__PRETTY_FUNCTION__.1
+                0x00000000       0x14 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_gpio_9054eec4.o
+ .rodata.__PRETTY_FUNCTION__.2
+                0x00000000        0xd C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_gpio_9054eec4.o
+ .rodata.__PRETTY_FUNCTION__.3
+                0x00000000        0xd C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_gpio_9054eec4.o
+ .rodata.__PRETTY_FUNCTION__.4
+                0x00000000       0x11 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_gpio_9054eec4.o
+ .rodata.__PRETTY_FUNCTION__.5
+                0x00000000        0xe C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_gpio_9054eec4.o
+ .rodata.__PRETTY_FUNCTION__.9
+                0x00000000        0x9 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_gpio_9054eec4.o
+ .rodata.__PRETTY_FUNCTION__.10
+                0x00000000        0x9 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_gpio_9054eec4.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_gpio_9054eec4.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_gpio_9054eec4.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_uart_2b9c0ebf.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_uart_2b9c0ebf.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_uart_2b9c0ebf.o
+ .text.uart_tx_complete_hook
+                0x00000000        0x2 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_uart_2b9c0ebf.o
+ .rodata.uart_puts.str1.4
+                0x00000000        0xc C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_uart_2b9c0ebf.o
+ .text.uart_puts
+                0x00000000       0x92 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_uart_2b9c0ebf.o
+ .text.uart_is_readable
+                0x00000000       0x4c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_uart_2b9c0ebf.o
+ .text.uart_getc
+                0x00000000       0x7c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_uart_2b9c0ebf.o
+ .text.uart_get_perclk
+                0x00000000       0x2e C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_uart_2b9c0ebf.o
+ .text.uart_write_async
+                0x00000000       0x9e C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_uart_2b9c0ebf.o
+ .text.uart_write_done
+                0x00000000       0x90 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_uart_2b9c0ebf.o
+ .text.uart_write_wait
+                0x00000000       0x3e C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_uart_2b9c0ebf.o
+ .rodata.__PRETTY_FUNCTION__.0
+                0x00000000       0x10 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_uart_2b9c0ebf.o
+ .rodata.__PRETTY_FUNCTION__.1
+                0x00000000        0xa C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_uart_2b9c0ebf.o
+ .rodata.__PRETTY_FUNCTION__.2
+                0x00000000       0x11 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_uart_2b9c0ebf.o
+ .rodata.__PRETTY_FUNCTION__.3
+                0x00000000        0xa C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_uart_2b9c0ebf.o
+ .sbss.s_uart_tx_notified
+                0x00000000        0x4 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_uart_2b9c0ebf.o
+ .sbss.s_uart_tx_busy
+                0x00000000        0x4 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_uart_2b9c0ebf.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_uart_2b9c0ebf.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_uart_2b9c0ebf.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_irq_bff3f790.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_irq_bff3f790.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_irq_bff3f790.o
+ .text.irq_init
+                0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_irq_bff3f790.o
+ .text.irq_set_handler
+                0x00000000       0x16 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_irq_bff3f790.o
+ .rodata.irq_enable.str1.4
+                0x00000000       0x85 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_irq_bff3f790.o
+ .text.irq_enable
+                0x00000000       0x6a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_irq_bff3f790.o
+ .text.irq_enable_events
+                0x00000000       0x2e C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_irq_bff3f790.o
+ .text.irq_disable
+                0x00000000       0x50 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_irq_bff3f790.o
+ .rodata.__PRETTY_FUNCTION__.0
+                0x00000000        0xc C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_irq_bff3f790.o
+ .rodata.__PRETTY_FUNCTION__.1
+                0x00000000        0xb C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_irq_bff3f790.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_irq_bff3f790.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_irq_bff3f790.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao_delay_09c3a55a.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao_delay_09c3a55a.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao_delay_09c3a55a.o
+ .text.delay_us
+                0x00000000       0x22 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao_delay_09c3a55a.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao_delay_09c3a55a.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao_delay_09c3a55a.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao_stdio_b6cd46e2.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao_stdio_b6cd46e2.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao_stdio_b6cd46e2.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao_stdio_b6cd46e2.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao_stdio_b6cd46e2.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao_stdlib_51aafccb.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao_stdlib_51aafccb.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao_stdlib_51aafccb.o
+ .text.trap_dispatch
+                0x00000000       0x38 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao_stdlib_51aafccb.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao_stdlib_51aafccb.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao_stdlib_51aafccb.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_gpio_6fb6af80.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_gpio_6fb6af80.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_gpio_6fb6af80.o
+ .text.digital_write
+                0x00000000       0x5a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_gpio_6fb6af80.o
+ .text.digital_read
+                0x00000000       0x50 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_gpio_6fb6af80.o
+ .rodata.__PRETTY_FUNCTION__.1
+                0x00000000        0xd C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_gpio_6fb6af80.o
+ .rodata.__PRETTY_FUNCTION__.2
+                0x00000000        0xe C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_gpio_6fb6af80.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_gpio_6fb6af80.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_gpio_6fb6af80.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_main_620c9b9a.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_main_620c9b9a.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_main_620c9b9a.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_main_620c9b9a.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_main_620c9b9a.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_tick_d798bda6.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_tick_d798bda6.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_tick_d798bda6.o
+ .text.rovari_tick_init
+                0x00000000        0x2 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_tick_d798bda6.o
+ .text.micros   0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_tick_d798bda6.o
+ .debug_info    0x00000000      0x128 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_tick_d798bda6.o
+ .debug_abbrev  0x00000000       0xb7 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_tick_d798bda6.o
+ .debug_loclists
+                0x00000000       0x52 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_tick_d798bda6.o
+ .debug_aranges
+                0x00000000       0x28 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_tick_d798bda6.o
+ .debug_rnglists
+                0x00000000       0x19 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_tick_d798bda6.o
+ .debug_line    0x00000000       0xda C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_tick_d798bda6.o
+ .debug_str     0x00000000      0x1b2 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_tick_d798bda6.o
+ .debug_line_str
+                0x00000000      0x2bb C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_tick_d798bda6.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_tick_d798bda6.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_tick_d798bda6.o
+ .debug_frame   0x00000000       0x3c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_tick_d798bda6.o
+ .riscv.attributes
+                0x00000000       0x67 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_tick_d798bda6.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_button_b4b82f26.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_button_b4b82f26.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_button_b4b82f26.o
+ .text.find     0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_button_b4b82f26.o
+ .text.update   0x00000000       0x7c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_button_b4b82f26.o
+ .text.button_begin
+                0x00000000       0x72 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_button_b4b82f26.o
+ .text.button_pressed
+                0x00000000       0x32 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_button_b4b82f26.o
+ .text.button_released
+                0x00000000       0x32 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_button_b4b82f26.o
+ .text.button_held
+                0x00000000       0x46 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_button_b4b82f26.o
+ .text.button_state
+                0x00000000       0x2a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_button_b4b82f26.o
+ .bss.s_buttons
+                0x00000000       0x50 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_button_b4b82f26.o
+ .debug_info    0x00000000      0x4f7 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_button_b4b82f26.o
+ .debug_abbrev  0x00000000      0x1f4 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_button_b4b82f26.o
+ .debug_loclists
+                0x00000000      0x242 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_button_b4b82f26.o
+ .debug_aranges
+                0x00000000       0x50 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_button_b4b82f26.o
+ .debug_rnglists
+                0x00000000       0x52 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_button_b4b82f26.o
+ .debug_line    0x00000000      0x583 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_button_b4b82f26.o
+ .debug_str     0x00000000      0x2bb C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_button_b4b82f26.o
+ .debug_line_str
+                0x00000000      0x265 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_button_b4b82f26.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_button_b4b82f26.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_button_b4b82f26.o
+ .debug_frame   0x00000000      0x108 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_button_b4b82f26.o
+ .riscv.attributes
+                0x00000000       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_button_b4b82f26.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_uart_dca14ff7.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_uart_dca14ff7.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_uart_dca14ff7.o
+ .text.uart_write_byte
+                0x00000000        0xc C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_uart_dca14ff7.o
+ .text.uart_print
+                0x00000000        0xc C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_uart_dca14ff7.o
+ .text.uart_println
+                0x00000000       0x30 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_uart_dca14ff7.o
+ .text.uart_printf
+                0x00000000       0x3c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_uart_dca14ff7.o
+ .text.uart_read_byte
+                0x00000000       0x16 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_uart_dca14ff7.o
+ .text.uart_available
+                0x00000000        0x8 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_uart_dca14ff7.o
+ .text.uart_read_line
+                0x00000000       0x6c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_uart_dca14ff7.o
+ .debug_info    0x00000000      0x4a3 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_uart_dca14ff7.o
+ .debug_abbrev  0x00000000      0x1c3 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_uart_dca14ff7.o
+ .debug_loclists
+                0x00000000      0x21a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_uart_dca14ff7.o
+ .debug_aranges
+                0x00000000       0x50 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_uart_dca14ff7.o
+ .debug_rnglists
+                0x00000000       0x43 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_uart_dca14ff7.o
+ .debug_line    0x00000000      0x2ec C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_uart_dca14ff7.o
+ .debug_str     0x00000000      0x276 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_uart_dca14ff7.o
+ .debug_line_str
+                0x00000000      0x446 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_uart_dca14ff7.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_uart_dca14ff7.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_uart_dca14ff7.o
+ .debug_frame   0x00000000       0xd0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_uart_dca14ff7.o
+ .riscv.attributes
+                0x00000000       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_uart_dca14ff7.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/sevs_assert_target_1358f0b7.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/sevs_assert_target_1358f0b7.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/sevs_assert_target_1358f0b7.o
+ .text.sevs_target_pop_crash_record
+                0x00000000       0x46 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/sevs_assert_target_1358f0b7.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/sevs_assert_target_1358f0b7.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/sevs_assert_target_1358f0b7.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_spi_d455e9dd.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_spi_d455e9dd.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_spi_d455e9dd.o
+ .rodata.spi_init.str1.4
+                0x00000000       0x86 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_spi_d455e9dd.o
+ .text.spi_init
+                0x00000000       0xba C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_spi_d455e9dd.o
+ .rodata.spi_write_blocking.str1.4
+                0x00000000        0xf C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_spi_d455e9dd.o
+ .text.spi_write_blocking
+                0x00000000      0x120 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_spi_d455e9dd.o
+ .rodata.spi_write_read_blocking.str1.4
+                0x00000000       0x1d C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_spi_d455e9dd.o
+ .text.spi_write_read_blocking
+                0x00000000      0x1c0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_spi_d455e9dd.o
+ .text.spi_write_read_async
+                0x00000000      0x134 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_spi_d455e9dd.o
+ .text.spi_async_done
+                0x00000000       0x62 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_spi_d455e9dd.o
+ .text.spi_async_wait
+                0x00000000       0x58 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_spi_d455e9dd.o
+ .text.spi_async_read
+                0x00000000       0x6c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_spi_d455e9dd.o
+ .rodata.__PRETTY_FUNCTION__.0
+                0x00000000        0xf C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_spi_d455e9dd.o
+ .rodata.__PRETTY_FUNCTION__.1
+                0x00000000        0xf C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_spi_d455e9dd.o
+ .rodata.__PRETTY_FUNCTION__.2
+                0x00000000        0xf C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_spi_d455e9dd.o
+ .rodata.__PRETTY_FUNCTION__.3
+                0x00000000       0x15 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_spi_d455e9dd.o
+ .rodata.__PRETTY_FUNCTION__.4
+                0x00000000       0x18 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_spi_d455e9dd.o
+ .rodata.__PRETTY_FUNCTION__.5
+                0x00000000       0x13 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_spi_d455e9dd.o
+ .rodata.__PRETTY_FUNCTION__.6
+                0x00000000        0x9 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_spi_d455e9dd.o
+ .rodata.spi_cg
+                0x00000000       0x10 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_spi_d455e9dd.o
+ .rodata.spi_base
+                0x00000000       0x10 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_spi_d455e9dd.o
+ .dma_buffers   0x00000000      0x220 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_spi_d455e9dd.o
+ .debug_info    0x00000000     0x117b C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_spi_d455e9dd.o
+ .debug_abbrev  0x00000000      0x272 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_spi_d455e9dd.o
+ .debug_loclists
+                0x00000000      0xa3a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_spi_d455e9dd.o
+ .debug_aranges
+                0x00000000       0x50 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_spi_d455e9dd.o
+ .debug_rnglists
+                0x00000000       0xdd C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_spi_d455e9dd.o
+ .debug_line    0x00000000     0x1189 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_spi_d455e9dd.o
+ .debug_str     0x00000000      0x3d7 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_spi_d455e9dd.o
+ .debug_line_str
+                0x00000000      0x3b5 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_spi_d455e9dd.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_spi_d455e9dd.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_spi_d455e9dd.o
+ .debug_frame   0x00000000      0x140 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_spi_d455e9dd.o
+ .riscv.attributes
+                0x00000000       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_spi_d455e9dd.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_spi_3f8b68a3.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_spi_3f8b68a3.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_spi_3f8b68a3.o
+ .text._rovari_spi_init
+                0x00000000       0x3e C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_spi_3f8b68a3.o
+ .text._rovari_spi_write
+                0x00000000       0x30 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_spi_3f8b68a3.o
+ .text._rovari_spi_write_buf
+                0x00000000       0x1e C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_spi_3f8b68a3.o
+ .text._rovari_spi_read
+                0x00000000       0x40 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_spi_3f8b68a3.o
+ .text._rovari_spi_transfer
+                0x00000000       0x40 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_spi_3f8b68a3.o
+ .sdata.s_clkdiv
+                0x00000000        0x4 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_spi_3f8b68a3.o
+ .debug_info    0x00000000      0x3fe C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_spi_3f8b68a3.o
+ .debug_abbrev  0x00000000      0x16c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_spi_3f8b68a3.o
+ .debug_loclists
+                0x00000000      0x2c2 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_spi_3f8b68a3.o
+ .debug_aranges
+                0x00000000       0x40 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_spi_3f8b68a3.o
+ .debug_rnglists
+                0x00000000       0x2b C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_spi_3f8b68a3.o
+ .debug_line    0x00000000      0x284 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_spi_3f8b68a3.o
+ .debug_str     0x00000000      0x254 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_spi_3f8b68a3.o
+ .debug_line_str
+                0x00000000      0x341 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_spi_3f8b68a3.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_spi_3f8b68a3.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_spi_3f8b68a3.o
+ .debug_frame   0x00000000       0x88 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_spi_3f8b68a3.o
+ .riscv.attributes
+                0x00000000       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_spi_3f8b68a3.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/ff_a0f070b4.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/ff_a0f070b4.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/ff_a0f070b4.o
+ .text.f_lseek  0x00000000      0x152 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/ff_a0f070b4.o
+ .text.f_stat   0x00000000       0x62 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/ff_a0f070b4.o
+ .text.f_getfree
+                0x00000000      0x11e C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/ff_a0f070b4.o
+ .text.f_truncate
+                0x00000000       0xa4 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/ff_a0f070b4.o
+ .text.f_unlink
+                0x00000000       0xd4 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/ff_a0f070b4.o
+ .text.f_mkdir  0x00000000      0x182 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/ff_a0f070b4.o
+ .text.f_rename
+                0x00000000      0x166 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/ff_a0f070b4.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/ff_a0f070b4.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/ff_a0f070b4.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/diskio_51b23938.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/diskio_51b23938.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/diskio_51b23938.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/diskio_51b23938.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/diskio_51b23938.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-vsnprintf.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-vsnprintf.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-vsnprintf.o)
+ .text._vsnprintf_r
+                0x00000000       0x5e C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-vsnprintf.o)
+ .text.vsnprintf
+                0x00000000       0x18 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-vsnprintf.o)
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-vsnprintf.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-vsnprintf.o)
+ .riscv.attributes
+                0x00000000       0x4e C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-vsnprintf.o)
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-impure.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-impure.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-impure.o)
+ .sdata._impure_ptr
+                0x00000000        0x4 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-impure.o)
+ .data._impure_data
+                0x00000000       0x4c C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-impure.o)
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-impure.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-impure.o)
+ .riscv.attributes
+                0x00000000       0x4e C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-impure.o)
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-init.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-init.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-init.o)
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-init.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-init.o)
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-nano-svfprintf.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-nano-svfprintf.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-nano-svfprintf.o)
+ .text.__ssputs_r
+                0x00000000      0x106 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-nano-svfprintf.o)
+ .text.__ssprint_r
+                0x00000000      0x142 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-nano-svfprintf.o)
+ .rodata._svfprintf_r.str1.4
+                0x00000000       0x13 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-nano-svfprintf.o)
+ .text._svfprintf_r
+                0x00000000      0x290 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-nano-svfprintf.o)
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-nano-svfprintf.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-nano-svfprintf.o)
+ .riscv.attributes
+                0x00000000       0x4e C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-nano-svfprintf.o)
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-nano-vfprintf_i.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-nano-vfprintf_i.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-nano-vfprintf_i.o)
+ .text._printf_common
+                0x00000000      0x112 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-nano-vfprintf_i.o)
+ .rodata._printf_i.str1.4
+                0x00000000       0x25 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-nano-vfprintf_i.o)
+ .text._printf_i
+                0x00000000      0x272 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-nano-vfprintf_i.o)
+ .rodata._printf_i
+                0x00000000       0x58 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-nano-vfprintf_i.o)
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-nano-vfprintf_i.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-nano-vfprintf_i.o)
+ .riscv.attributes
+                0x00000000       0x4e C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-nano-vfprintf_i.o)
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-memchr.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-memchr.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-memchr.o)
+ .text.memchr   0x00000000       0x1a C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-memchr.o)
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-memchr.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-memchr.o)
+ .riscv.attributes
+                0x00000000       0x4e C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-memchr.o)
+ .text          0x00000000       0x26 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-memmove.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-memmove.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-memmove.o)
+ .riscv.attributes
+                0x00000000       0x4c C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-memmove.o)
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-freer.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-freer.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-freer.o)
+ .text._free_r  0x00000000       0xae C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-freer.o)
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-freer.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-freer.o)
+ .riscv.attributes
+                0x00000000       0x4e C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-freer.o)
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-mallocr.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-mallocr.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-mallocr.o)
+ .text.sbrk_aligned
+                0x00000000       0x66 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-mallocr.o)
+ .text._malloc_r
+                0x00000000      0x142 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-mallocr.o)
+ .sbss.__malloc_sbrk_start
+                0x00000000        0x4 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-mallocr.o)
+ .sbss.__malloc_free_list
+                0x00000000        0x4 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-mallocr.o)
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-mallocr.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-mallocr.o)
+ .riscv.attributes
+                0x00000000       0x4e C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-mallocr.o)
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-mlock.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-mlock.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-mlock.o)
+ .text.__malloc_lock
+                0x00000000       0x10 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-mlock.o)
+ .text.__malloc_unlock
+                0x00000000       0x10 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-mlock.o)
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-mlock.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-mlock.o)
+ .riscv.attributes
+                0x00000000       0x4e C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-mlock.o)
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-reallocr.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-reallocr.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-reallocr.o)
+ .text._realloc_r
+                0x00000000       0x8a C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-reallocr.o)
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-reallocr.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-reallocr.o)
+ .riscv.attributes
+                0x00000000       0x4e C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-reallocr.o)
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-sbrkr.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-sbrkr.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-sbrkr.o)
+ .text._sbrk_r  0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-sbrkr.o)
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-sbrkr.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-sbrkr.o)
+ .riscv.attributes
+                0x00000000       0x4e C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-sbrkr.o)
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-lock.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-lock.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_init
+                0x00000000        0x2 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x00000000        0x2 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_close
+                0x00000000        0x2 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x00000000        0x2 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x00000000        0x2 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_acquire_recursive
+                0x00000000        0x2 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x00000000        0x4 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x00000000        0x4 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_release
+                0x00000000        0x2 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_release_recursive
+                0x00000000        0x2 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-lock.o)
+ .sbss.__lock___arc4random_mutex
+                0x00000000        0x1 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-lock.o)
+ .sbss.__lock___dd_hash_mutex
+                0x00000000        0x1 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-lock.o)
+ .sbss.__lock___tz_mutex
+                0x00000000        0x1 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-lock.o)
+ .sbss.__lock___env_recursive_mutex
+                0x00000000        0x1 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-lock.o)
+ .sbss.__lock___malloc_recursive_mutex
+                0x00000000        0x1 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-lock.o)
+ .sbss.__lock___at_quick_exit_mutex
+                0x00000000        0x1 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-lock.o)
+ .sbss.__lock___atexit_recursive_mutex
+                0x00000000        0x1 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-lock.o)
+ .sbss.__lock___sfp_recursive_mutex
+                0x00000000        0x1 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-lock.o)
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-lock.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-lock.o)
+ .riscv.attributes
+                0x00000000       0x4e C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-lock.o)
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-msizer.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-msizer.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-msizer.o)
+ .text._malloc_usable_size_r
+                0x00000000       0x14 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-msizer.o)
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-msizer.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-msizer.o)
+ .riscv.attributes
+                0x00000000       0x4e C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-msizer.o)
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-reent.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-reent.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-reent.o)
+ .text._reclaim_reent
+                0x00000000      0x112 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-reent.o)
+ .sbss.errno    0x00000000        0x4 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-reent.o)
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-reent.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-reent.o)
+ .riscv.attributes
+                0x00000000       0x4e C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-reent.o)
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libnosys.a(sbrk.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libnosys.a(sbrk.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libnosys.a(sbrk.o)
+ .text._sbrk    0x00000000       0x2e C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libnosys.a(sbrk.o)
+ .sbss.heap_end.0
+                0x00000000        0x4 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libnosys.a(sbrk.o)
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libnosys.a(sbrk.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libnosys.a(sbrk.o)
+ .riscv.attributes
+                0x00000000       0x4e C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libnosys.a(sbrk.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+SIGBLOCK         0x60060000         0x00000300         r
+RRAM             0x60060300         0x00399d00         xr
+SRAM             0x61000000         0x00200000         xrw
+IFRAM            0x50000000         0x00020000         rw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/app_a92fdcbf.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari.blocks_3a562ad7.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/baochip1x_it_9a387028.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/startup_0be78bf6.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_gpio_9054eec4.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_uart_2b9c0ebf.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_irq_bff3f790.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao_delay_09c3a55a.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao_stdio_b6cd46e2.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao_stdlib_51aafccb.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_gpio_6fb6af80.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_main_620c9b9a.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_tick_d798bda6.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_button_b4b82f26.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_uart_dca14ff7.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/sevs_assert_target_1358f0b7.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_spi_d455e9dd.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_spi_3f8b68a3.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/ff_a0f070b4.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/diskio_51b23938.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libstdc++_nano.a
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libm_nano.a
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0\libgcc.a
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0\libgcc.a
+START GROUP
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0\libgcc.a
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libnosys.a
+END GROUP
+START GROUP
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0\libgcc.a
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libnosys.a
+END GROUP
+                0x00002000                        _stack_size = 0x2000
+                0x61200000                        _stack_top = (ORIGIN (SRAM) + LENGTH (SRAM))
+
+.text           0x60060300     0x34a0
+ *(.text.start)
+ .text.start    0x60060300      0x13c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/startup_0be78bf6.o
+                0x60060300                _start
+                0x60060370                _trap_entry
+ *(.text .text.*)
+ .text.app_init
+                0x6006043c      0x1c6 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/app_a92fdcbf.o
+                0x6006043c                app_init
+ .text.app_run  0x60060602       0x14 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/app_a92fdcbf.o
+                0x60060602                app_run
+ .text.gpio_set_function
+                0x60060616       0x9e C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_gpio_9054eec4.o
+                0x60060616                gpio_set_function
+ .text.gpio_set_dir
+                0x600606b4       0x92 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_gpio_9054eec4.o
+                0x600606b4                gpio_set_dir
+ .text.gpio_toggle
+                0x60060746       0x7e C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_gpio_9054eec4.o
+                0x60060746                gpio_toggle
+ .text.gpio_pull_up
+                0x600607c4       0x7e C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_gpio_9054eec4.o
+                0x600607c4                gpio_pull_up
+ .text.gpio_disable_pulls
+                0x60060842       0x82 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_gpio_9054eec4.o
+                0x60060842                gpio_disable_pulls
+ .text.gpio_init
+                0x600608c4       0x7a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_gpio_9054eec4.o
+                0x600608c4                gpio_init
+ .text.uart_init
+                0x6006093e      0x116 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_uart_2b9c0ebf.o
+                0x6006093e                uart_init
+ .text.uart_write
+                0x60060a54      0x140 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_uart_2b9c0ebf.o
+                0x60060a54                uart_write
+ .text.uart_putc
+                0x60060b94       0x3e C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_uart_2b9c0ebf.o
+                0x60060b94                uart_putc
+ .text.trap_dispatch
+                0x60060bd2       0xb8 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_irq_bff3f790.o
+                0x60060bd2                trap_dispatch
+ .text.ticktimer_init
+                0x60060c8a       0x20 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao_delay_09c3a55a.o
+ .text.millis   0x60060caa       0x40 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao_delay_09c3a55a.o
+                0x60060caa                millis
+ .text.delay_ms
+                0x60060cea       0x3c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao_delay_09c3a55a.o
+                0x60060cea                delay_ms
+ .text.print_unsigned
+                0x60060d26       0x86 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao_stdio_b6cd46e2.o
+ .text.mini_printf
+                0x60060dac      0x14c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao_stdio_b6cd46e2.o
+                0x60060dac                mini_printf
+ .text.memcpy   0x60060ef8       0x1c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao_stdlib_51aafccb.o
+                0x60060ef8                memcpy
+ .text.memset   0x60060f14       0x12 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao_stdlib_51aafccb.o
+                0x60060f14                memset
+ .text.memcmp   0x60060f26       0x80 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao_stdlib_51aafccb.o
+                0x60060f26                memcmp
+ .text.strchr   0x60060fa6       0x20 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao_stdlib_51aafccb.o
+                0x60060fa6                strchr
+ .text.setup_default_uart
+                0x60060fc6        0xa C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao_stdlib_51aafccb.o
+                0x60060fc6                setup_default_uart
+ .text.bao_init
+                0x60060fd0        0xe C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao_stdlib_51aafccb.o
+                0x60060fd0                bao_init
+ .text.pin_mode
+                0x60060fde       0x90 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_gpio_6fb6af80.o
+                0x60060fde                pin_mode
+ .text.pin_toggle
+                0x6006106e       0x46 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_gpio_6fb6af80.o
+                0x6006106e                pin_toggle
+ .text.startup.main
+                0x600610b4       0x14 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_main_620c9b9a.o
+                0x600610b4                main
+ .text.copy_clipped
+                0x600610c8       0x2c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/sevs_assert_target_1358f0b7.o
+ .text.sevs_target_disable_irq
+                0x600610f4        0x2 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/sevs_assert_target_1358f0b7.o
+                0x600610f4                sevs_target_disable_irq
+ .text.sevs_target_uart_write_str
+                0x600610f6        0x2 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/sevs_assert_target_1358f0b7.o
+                0x600610f6                sevs_target_uart_write_str
+ .text.sevs_target_halt
+                0x600610f8        0x2 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/sevs_assert_target_1358f0b7.o
+                0x600610f8                sevs_target_halt
+ .text.sevs_assert_fail
+                0x600610fa      0x2cc C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/sevs_assert_target_1358f0b7.o
+                0x600610fa                sevs_assert_fail
+ .text.ld_32    0x600613c6       0x1e C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/ff_a0f070b4.o
+ .text.clst2sect
+                0x600613e4       0x1e C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/ff_a0f070b4.o
+ .text.get_ldnumber
+                0x60061402       0x3e C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/ff_a0f070b4.o
+ .text.validate
+                0x60061440       0x4a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/ff_a0f070b4.o
+ .text.sync_window
+                0x6006148a       0x5e C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/ff_a0f070b4.o
+ .text.st_clust
+                0x600614e8       0x26 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/ff_a0f070b4.o
+ .text.move_window
+                0x6006150e       0x3c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/ff_a0f070b4.o
+ .text.check_fs
+                0x6006154a       0xf2 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/ff_a0f070b4.o
+ .text.put_fat  0x6006163c      0x12a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/ff_a0f070b4.o
+ .text.dir_clear
+                0x60061766       0x6a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/ff_a0f070b4.o
+ .text.mount_volume
+                0x600617d0      0x2b0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/ff_a0f070b4.o
+ .text.get_fileinfo.part.0.constprop.0.isra.0
+                0x60061a80       0x92 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/ff_a0f070b4.o
+ .text.ld_clust.isra.0
+                0x60061b12       0x28 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/ff_a0f070b4.o
+ .text.get_fat.isra.0
+                0x60061b3a       0xdc C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/ff_a0f070b4.o
+ .text.dir_sdi.constprop.0
+                0x60061c16       0xa6 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/ff_a0f070b4.o
+ .text.remove_chain
+                0x60061cbc       0x96 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/ff_a0f070b4.o
+ .text.create_chain
+                0x60061d52      0x112 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/ff_a0f070b4.o
+ .text.dir_next
+                0x60061e64       0xd0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/ff_a0f070b4.o
+ .text.follow_path
+                0x60061f34      0x1ec C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/ff_a0f070b4.o
+ .text.dir_read.constprop.0
+                0x60062120       0x78 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/ff_a0f070b4.o
+ .text.dir_register
+                0x60062198       0x82 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/ff_a0f070b4.o
+ .text.sync_fs  0x6006221a       0xe0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/ff_a0f070b4.o
+ .text.f_mount  0x600622fa       0x4c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/ff_a0f070b4.o
+                0x600622fa                f_mount
+ .text.f_open   0x60062346      0x1e2 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/ff_a0f070b4.o
+                0x60062346                f_open
+ .text.f_read   0x60062528      0x16c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/ff_a0f070b4.o
+                0x60062528                f_read
+ .text.f_write  0x60062694      0x1b2 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/ff_a0f070b4.o
+                0x60062694                f_write
+ .text.f_sync   0x60062846       0xa4 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/ff_a0f070b4.o
+                0x60062846                f_sync
+ .text.f_close  0x600628ea       0x26 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/ff_a0f070b4.o
+                0x600628ea                f_close
+ .text.f_opendir
+                0x60062910       0x70 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/ff_a0f070b4.o
+                0x60062910                f_opendir
+ .text.f_closedir
+                0x60062980       0x1c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/ff_a0f070b4.o
+                0x60062980                f_closedir
+ .text.f_readdir
+                0x6006299c       0x6c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/ff_a0f070b4.o
+                0x6006299c                f_readdir
+ .text.spi_wait
+                0x60062a08       0x28 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/diskio_51b23938.o
+ .text.spi_full_duplex
+                0x60062a30       0x76 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/diskio_51b23938.o
+ .text.dly_100us
+                0x60062aa6       0x1e C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/diskio_51b23938.o
+ .text.sd_crc7.constprop.0
+                0x60062ac4       0x40 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/diskio_51b23938.o
+ .text.sd_send_cmd_r7
+                0x60062b04       0xa6 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/diskio_51b23938.o
+ .text.sd_send_cmd
+                0x60062baa       0xaa C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/diskio_51b23938.o
+ .text.disk_status
+                0x60062c54        0xa C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/diskio_51b23938.o
+                0x60062c54                disk_status
+ .text.disk_initialize
+                0x60062c5e      0x182 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/diskio_51b23938.o
+                0x60062c5e                disk_initialize
+ .text.disk_read
+                0x60062de0      0x13c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/diskio_51b23938.o
+                0x60062de0                disk_read
+ .text.disk_write
+                0x60062f1c      0x1a2 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/diskio_51b23938.o
+                0x60062f1c                disk_write
+ .text.disk_ioctl
+                0x600630be       0x36 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/diskio_51b23938.o
+                0x600630be                disk_ioctl
+ .text.__libc_init_array
+                0x600630f4       0x5e C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-init.o)
+                0x600630f4                __libc_init_array
+ *(.rodata .rodata.*)
+ *fill*         0x60063152        0x2 
+ .rodata.app_init.str1.4
+                0x60063154      0x4a3 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/app_a92fdcbf.o
+                                0x14f (size before relaxing)
+ .rodata.gpio_set_function.str1.4
+                0x600635f7        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_gpio_9054eec4.o
+                                 0xa4 (size before relaxing)
+ *fill*         0x600635f7        0x1 
+ .rodata.__PRETTY_FUNCTION__.6
+                0x600635f8       0x13 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_gpio_9054eec4.o
+ *fill*         0x6006360b        0x1 
+ .rodata.__PRETTY_FUNCTION__.7
+                0x6006360c        0xd C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_gpio_9054eec4.o
+ *fill*         0x60063619        0x3 
+ .rodata.__PRETTY_FUNCTION__.8
+                0x6006361c        0xc C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_gpio_9054eec4.o
+ .rodata.__PRETTY_FUNCTION__.11
+                0x60063628        0xd C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_gpio_9054eec4.o
+ *fill*         0x60063635        0x3 
+ .rodata.__PRETTY_FUNCTION__.12
+                0x60063638        0xa C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_gpio_9054eec4.o
+ *fill*         0x60063642        0x2 
+ .rodata.__PRETTY_FUNCTION__.13
+                0x60063644       0x12 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_gpio_9054eec4.o
+ .rodata.uart_init.str1.4
+                0x60063656        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_uart_2b9c0ebf.o
+                                 0xa6 (size before relaxing)
+ .rodata.uart_write.str1.4
+                0x60063656        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_uart_2b9c0ebf.o
+                                  0xf (size before relaxing)
+ *fill*         0x60063656        0x2 
+ .rodata.__PRETTY_FUNCTION__.4
+                0x60063658        0xa C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_uart_2b9c0ebf.o
+ *fill*         0x60063662        0x2 
+ .rodata.__PRETTY_FUNCTION__.5
+                0x60063664        0xb C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_uart_2b9c0ebf.o
+ *fill*         0x6006366f        0x1 
+ .rodata.__PRETTY_FUNCTION__.6
+                0x60063670        0xa C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_uart_2b9c0ebf.o
+ *fill*         0x6006367a        0x2 
+ .rodata.uart_cg
+                0x6006367c       0x10 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_uart_2b9c0ebf.o
+ .rodata.uart_base
+                0x6006368c       0x10 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_uart_2b9c0ebf.o
+ .rodata.irq_array_base
+                0x6006369c       0x50 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_irq_bff3f790.o
+ .rodata.mini_printf.str1.4
+                0x600636ec        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao_stdio_b6cd46e2.o
+                                 0x86 (size before relaxing)
+ .rodata.__PRETTY_FUNCTION__.0
+                0x600636ec        0xc C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao_stdio_b6cd46e2.o
+ .rodata.memcmp.str1.4
+                0x600636f8        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao_stdlib_51aafccb.o
+                                 0x90 (size before relaxing)
+ .rodata.pin_mode.str1.4
+                0x600636f8        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_gpio_6fb6af80.o
+                                 0x89 (size before relaxing)
+ .rodata.__PRETTY_FUNCTION__.0
+                0x600636f8        0xb C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_gpio_6fb6af80.o
+ *fill*         0x60063703        0x1 
+ .rodata.__PRETTY_FUNCTION__.3
+                0x60063704        0x9 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_gpio_6fb6af80.o
+ .rodata.sevs_assert_fail.str1.4
+                0x6006370d        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/sevs_assert_target_1358f0b7.o
+                                 0x17 (size before relaxing)
+ .rodata.str1.4
+                0x6006370d        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/sevs_assert_target_1358f0b7.o
+                                 0x28 (size before relaxing)
+ *fill*         0x6006370d        0x3 
+ .rodata.CSWTCH.27
+                0x60063710       0x10 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/sevs_assert_target_1358f0b7.o
+ .rodata.check_fs.str1.4
+                0x60063720        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/ff_a0f070b4.o
+                                  0x9 (size before relaxing)
+ .rodata.follow_path.str1.4
+                0x60063720        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/ff_a0f070b4.o
+                                  0xf (size before relaxing)
+ .rodata.ExCvt  0x60063720       0x80 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/ff_a0f070b4.o
+                0x600637a0                        . = ALIGN (0x4)
+
+.srodata.__PRETTY_FUNCTION__.0
+                0x600637a0        0x7
+ .srodata.__PRETTY_FUNCTION__.0
+                0x600637a0        0x7 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao_stdlib_51aafccb.o
+
+.rela.dyn       0x600637a8        0x0
+ .rela.text.start
+                0x600637a8        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/app_a92fdcbf.o
+ .rela.text.__libc_init_array
+                0x600637a8        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/app_a92fdcbf.o
+
+.preinit_array  0x600637a8        0x0
+                0x600637a8                        PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x600637a8                        PROVIDE (__preinit_array_end = .)
+
+.init_array     0x600637a8        0x0
+                0x600637a8                        PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array*)
+                0x600637a8                        PROVIDE (__init_array_end = .)
+
+.fini_array     0x600637a8        0x0
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+                [!provide]                        PROVIDE (__fini_array_end = .)
+
+.data           0x61000000        0x8 load address 0x600637a8
+                0x61000000                        _data_start = .
+ *(.data .data.*)
+ *(.sdata .sdata.*)
+ .sdata.Stat    0x61000000        0x1 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/diskio_51b23938.o
+ *fill*         0x61000001        0x3 
+ .sdata.sd_clkdiv
+                0x61000004        0x4 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/diskio_51b23938.o
+                0x61000008                        . = ALIGN (0x4)
+                0x61000008                        _data_end = .
+                0x600637a8                        _data_lma = LOADADDR (.data)
+
+.bss            0x61000008      0x32c load address 0x600637b0
+                0x61000008                        _bss_start = .
+ *(.bss .bss.*)
+ .bss._ZL3fno   0x61000008       0x18 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/app_a92fdcbf.o
+ .bss._ZL3dir   0x61000020       0x2c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/app_a92fdcbf.o
+ .bss._ZL3fil   0x6100004c       0x28 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/app_a92fdcbf.o
+ .bss._ZL2fs    0x61000074      0x230 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/app_a92fdcbf.o
+ .bss.irq_handlers
+                0x610002a4       0x7c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_irq_bff3f790.o
+ *(.sbss .sbss.*)
+ .sbss.s_perclk
+                0x61000320        0x4 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_uart_2b9c0ebf.o
+ .sbss.s_ticktimer_initialized
+                0x61000324        0x4 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao_delay_09c3a55a.o
+ .sbss.Fsid     0x61000328        0x2 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/ff_a0f070b4.o
+ *fill*         0x6100032a        0x2 
+ .sbss.FatFs    0x6100032c        0x4 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/ff_a0f070b4.o
+ .sbss.CardType
+                0x61000330        0x1 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/diskio_51b23938.o
+ *(COMMON)
+                0x61000334                        . = ALIGN (0x4)
+ *fill*         0x61000331        0x3 
+                0x61000334                        _bss_end = .
+
+.dma_buffers    0x50000000     0x1570
+                0x50000000                        _dma_start = .
+ *(.dma_buffers .dma_buffers.*)
+ .dma_buffers   0x50000000      0x100 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_uart_2b9c0ebf.o
+ .dma_buffers   0x50000100     0x1470 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/diskio_51b23938.o
+                0x50001570                        . = ALIGN (0x4)
+                0x50001570                        _dma_end = .
+                0x61000800                        __global_pointer$ = (_data_start + 0x800)
+
+.stack          0x61000334     0x2000
+                0x61002334                        . = (. + _stack_size)
+ *fill*         0x61000334     0x2000 
+
+/DISCARD/
+ *(.comment)
+ *(.note.*)
+ *(.eh_frame*)
+OUTPUT(system\build\app.elf elf32-littleriscv)
+
+.riscv.attributes
+                0x00000000       0x67
+ .riscv.attributes
+                0x00000000       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/app_a92fdcbf.o
+ .riscv.attributes
+                0x00000063       0x65 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/startup_0be78bf6.o
+ .riscv.attributes
+                0x000000c8       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_gpio_9054eec4.o
+ .riscv.attributes
+                0x0000012b       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_uart_2b9c0ebf.o
+ .riscv.attributes
+                0x0000018e       0x67 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_irq_bff3f790.o
+ .riscv.attributes
+                0x000001f5       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao_delay_09c3a55a.o
+ .riscv.attributes
+                0x00000258       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao_stdio_b6cd46e2.o
+ .riscv.attributes
+                0x000002bb       0x67 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao_stdlib_51aafccb.o
+ .riscv.attributes
+                0x00000322       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_gpio_6fb6af80.o
+ .riscv.attributes
+                0x00000385       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_main_620c9b9a.o
+ .riscv.attributes
+                0x000003e8       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/sevs_assert_target_1358f0b7.o
+ .riscv.attributes
+                0x0000044b       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/ff_a0f070b4.o
+ .riscv.attributes
+                0x000004ae       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/diskio_51b23938.o
+ .riscv.attributes
+                0x00000511       0x4e C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-init.o)
+
+.debug_info     0x00000000     0x85aa
+ .debug_info    0x00000000      0xa5b C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/app_a92fdcbf.o
+ .debug_info    0x00000a5b       0x25 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/startup_0be78bf6.o
+ .debug_info    0x00000a80      0xf5a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_gpio_9054eec4.o
+ .debug_info    0x000019da      0xea6 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_uart_2b9c0ebf.o
+ .debug_info    0x00002880      0x5c6 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_irq_bff3f790.o
+ .debug_info    0x00002e46      0x20c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao_delay_09c3a55a.o
+ .debug_info    0x00003052      0x330 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao_stdio_b6cd46e2.o
+ .debug_info    0x00003382      0x4b1 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao_stdlib_51aafccb.o
+ .debug_info    0x00003833      0x5e6 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_gpio_6fb6af80.o
+ .debug_info    0x00003e19       0xc8 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_main_620c9b9a.o
+ .debug_info    0x00003ee1      0x55d C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/sevs_assert_target_1358f0b7.o
+ .debug_info    0x0000443e     0x3437 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/ff_a0f070b4.o
+ .debug_info    0x00007875      0xd35 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/diskio_51b23938.o
+
+.debug_abbrev   0x00000000     0x1aca
+ .debug_abbrev  0x00000000      0x294 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/app_a92fdcbf.o
+ .debug_abbrev  0x00000294       0x14 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/startup_0be78bf6.o
+ .debug_abbrev  0x000002a8      0x1ff C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_gpio_9054eec4.o
+ .debug_abbrev  0x000004a7      0x3f7 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_uart_2b9c0ebf.o
+ .debug_abbrev  0x0000089e      0x273 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_irq_bff3f790.o
+ .debug_abbrev  0x00000b11      0x121 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao_delay_09c3a55a.o
+ .debug_abbrev  0x00000c32      0x180 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao_stdio_b6cd46e2.o
+ .debug_abbrev  0x00000db2      0x1b1 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao_stdlib_51aafccb.o
+ .debug_abbrev  0x00000f63      0x179 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_gpio_6fb6af80.o
+ .debug_abbrev  0x000010dc       0x61 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_main_620c9b9a.o
+ .debug_abbrev  0x0000113d      0x283 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/sevs_assert_target_1358f0b7.o
+ .debug_abbrev  0x000013c0      0x39a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/ff_a0f070b4.o
+ .debug_abbrev  0x0000175a      0x370 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/diskio_51b23938.o
+
+.debug_loclists
+                0x00000000     0x51fa
+ .debug_loclists
+                0x00000000       0x8a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/app_a92fdcbf.o
+ .debug_loclists
+                0x0000008a      0x87e C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_gpio_9054eec4.o
+ .debug_loclists
+                0x00000908      0x819 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_uart_2b9c0ebf.o
+ .debug_loclists
+                0x00001121      0x135 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_irq_bff3f790.o
+ .debug_loclists
+                0x00001256       0xb2 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao_delay_09c3a55a.o
+ .debug_loclists
+                0x00001308      0x1d0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao_stdio_b6cd46e2.o
+ .debug_loclists
+                0x000014d8      0x21c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao_stdlib_51aafccb.o
+ .debug_loclists
+                0x000016f4      0x27f C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_gpio_6fb6af80.o
+ .debug_loclists
+                0x00001973      0x56f C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/sevs_assert_target_1358f0b7.o
+ .debug_loclists
+                0x00001ee2     0x2b6b C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/ff_a0f070b4.o
+ .debug_loclists
+                0x00004a4d      0x7ad C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/diskio_51b23938.o
+
+.debug_aranges  0x00000000      0x490
+ .debug_aranges
+                0x00000000       0x28 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/app_a92fdcbf.o
+ .debug_aranges
+                0x00000028       0x20 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/startup_0be78bf6.o
+ .debug_aranges
+                0x00000048       0x88 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_gpio_9054eec4.o
+ .debug_aranges
+                0x000000d0       0x70 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_uart_2b9c0ebf.o
+ .debug_aranges
+                0x00000140       0x48 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_irq_bff3f790.o
+ .debug_aranges
+                0x00000188       0x38 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao_delay_09c3a55a.o
+ .debug_aranges
+                0x000001c0       0x28 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao_stdio_b6cd46e2.o
+ .debug_aranges
+                0x000001e8       0x50 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao_stdlib_51aafccb.o
+ .debug_aranges
+                0x00000238       0x38 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_gpio_6fb6af80.o
+ .debug_aranges
+                0x00000270       0x20 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_main_620c9b9a.o
+ .debug_aranges
+                0x00000290       0x48 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/sevs_assert_target_1358f0b7.o
+ .debug_aranges
+                0x000002d8      0x148 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/ff_a0f070b4.o
+ .debug_aranges
+                0x00000420       0x70 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/diskio_51b23938.o
+
+.debug_rnglists
+                0x00000000      0x643
+ .debug_rnglists
+                0x00000000       0x37 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/app_a92fdcbf.o
+ .debug_rnglists
+                0x00000037       0x6c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_gpio_9054eec4.o
+ .debug_rnglists
+                0x000000a3       0x99 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_uart_2b9c0ebf.o
+ .debug_rnglists
+                0x0000013c       0x7d C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_irq_bff3f790.o
+ .debug_rnglists
+                0x000001b9       0x25 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao_delay_09c3a55a.o
+ .debug_rnglists
+                0x000001de       0x2d C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao_stdio_b6cd46e2.o
+ .debug_rnglists
+                0x0000020b       0x38 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao_stdlib_51aafccb.o
+ .debug_rnglists
+                0x00000243       0x26 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_gpio_6fb6af80.o
+ .debug_rnglists
+                0x00000269       0x13 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_main_620c9b9a.o
+ .debug_rnglists
+                0x0000027c       0x7c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/sevs_assert_target_1358f0b7.o
+ .debug_rnglists
+                0x000002f8      0x219 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/ff_a0f070b4.o
+ .debug_rnglists
+                0x00000511      0x132 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/diskio_51b23938.o
+
+.debug_line     0x00000000     0xa32f
+ .debug_line    0x00000000      0x376 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/app_a92fdcbf.o
+ .debug_line    0x00000376      0x2a8 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/startup_0be78bf6.o
+ .debug_line    0x0000061e      0xaf4 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_gpio_9054eec4.o
+ .debug_line    0x00001112      0xebc C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_uart_2b9c0ebf.o
+ .debug_line    0x00001fce      0x52d C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_irq_bff3f790.o
+ .debug_line    0x000024fb      0x2db C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao_delay_09c3a55a.o
+ .debug_line    0x000027d6      0x42e C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao_stdio_b6cd46e2.o
+ .debug_line    0x00002c04      0x364 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao_stdlib_51aafccb.o
+ .debug_line    0x00002f68      0x316 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_gpio_6fb6af80.o
+ .debug_line    0x0000327e       0x91 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_main_620c9b9a.o
+ .debug_line    0x0000330f      0x7fa C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/sevs_assert_target_1358f0b7.o
+ .debug_line    0x00003b09     0x53e2 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/ff_a0f070b4.o
+ .debug_line    0x00008eeb     0x1444 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/diskio_51b23938.o
+
+.debug_str      0x00000000     0x1051
+ .debug_str     0x00000000     0x1051 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/app_a92fdcbf.o
+                                0x56f (size before relaxing)
+ .debug_str     0x00001051        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/startup_0be78bf6.o
+                                 0xb9 (size before relaxing)
+ .debug_str     0x00001051        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_gpio_9054eec4.o
+                                0x363 (size before relaxing)
+ .debug_str     0x00001051        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_uart_2b9c0ebf.o
+                                0x44d (size before relaxing)
+ .debug_str     0x00001051        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_irq_bff3f790.o
+                                0x31a (size before relaxing)
+ .debug_str     0x00001051        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao_delay_09c3a55a.o
+                                0x1f3 (size before relaxing)
+ .debug_str     0x00001051        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao_stdio_b6cd46e2.o
+                                0x240 (size before relaxing)
+ .debug_str     0x00001051        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao_stdlib_51aafccb.o
+                                0x2d8 (size before relaxing)
+ .debug_str     0x00001051        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_gpio_6fb6af80.o
+                                0x2dd (size before relaxing)
+ .debug_str     0x00001051        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_main_620c9b9a.o
+                                0x17d (size before relaxing)
+ .debug_str     0x00001051        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/sevs_assert_target_1358f0b7.o
+                                0x2b0 (size before relaxing)
+ .debug_str     0x00001051        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/ff_a0f070b4.o
+                                0x711 (size before relaxing)
+ .debug_str     0x00001051        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/diskio_51b23938.o
+                                0x354 (size before relaxing)
+
+.debug_line_str
+                0x00000000      0xb84
+ .debug_line_str
+                0x00000000      0xb84 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/app_a92fdcbf.o
+                                0x38a (size before relaxing)
+ .debug_line_str
+                0x00000b84        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/startup_0be78bf6.o
+                                 0xad (size before relaxing)
+ .debug_line_str
+                0x00000b84        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_gpio_9054eec4.o
+                                0x3ac (size before relaxing)
+ .debug_line_str
+                0x00000b84        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_uart_2b9c0ebf.o
+                                0x3ac (size before relaxing)
+ .debug_line_str
+                0x00000b84        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_irq_bff3f790.o
+                                0x33c (size before relaxing)
+ .debug_line_str
+                0x00000b84        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao_delay_09c3a55a.o
+                                0x2b9 (size before relaxing)
+ .debug_line_str
+                0x00000b84        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao_stdio_b6cd46e2.o
+                                0x3aa (size before relaxing)
+ .debug_line_str
+                0x00000b84        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao_stdlib_51aafccb.o
+                                0x445 (size before relaxing)
+ .debug_line_str
+                0x00000b84        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_gpio_6fb6af80.o
+                                0x353 (size before relaxing)
+ .debug_line_str
+                0x00000b84        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_main_620c9b9a.o
+                                0x1b2 (size before relaxing)
+ .debug_line_str
+                0x00000b84        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/sevs_assert_target_1358f0b7.o
+                                0x2f6 (size before relaxing)
+ .debug_line_str
+                0x00000b84        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/ff_a0f070b4.o
+                                0x2da (size before relaxing)
+ .debug_line_str
+                0x00000b84        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/diskio_51b23938.o
+                                0x268 (size before relaxing)
+
+.debug_frame    0x00000000     0x10c0
+ .debug_frame   0x00000000       0x74 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/app_a92fdcbf.o
+ .debug_frame   0x00000074      0x220 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_gpio_9054eec4.o
+ .debug_frame   0x00000294      0x18c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_uart_2b9c0ebf.o
+ .debug_frame   0x00000420       0xc8 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao1x_irq_bff3f790.o
+ .debug_frame   0x000004e8       0x80 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao_delay_09c3a55a.o
+ .debug_frame   0x00000568       0x7c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao_stdio_b6cd46e2.o
+ .debug_frame   0x000005e4       0xb0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/bao_stdlib_51aafccb.o
+ .debug_frame   0x00000694       0xb8 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_gpio_6fb6af80.o
+ .debug_frame   0x0000074c       0x28 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/rovari_main_620c9b9a.o
+ .debug_frame   0x00000774       0xa4 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/sevs_assert_target_1358f0b7.o
+ .debug_frame   0x00000818      0x708 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/ff_a0f070b4.o
+ .debug_frame   0x00000f20      0x1a0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/20_SD_Card/system/build/diskio_51b23938.o

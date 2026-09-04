@@ -1,0 +1,36 @@
+/*
+ * Copyright (c) 2026 Armstrong Subero
+ *
+ * Program:  11_I2C (C style)
+ * Platform: Baochip-1x / Rovari SDK
+ * Hardware: 24LC16B EEPROM
+ *           SCL=PB11, SDA=PB12 (4.7K pullups)
+ */
+
+#include "rovari.h"
+
+#define EEPROM_ADDR 0x50
+
+void app_init(void)
+{
+    i2c_init(I2C_1, 100000);
+    mini_printf("I2C EEPROM Test\r\n");
+}
+
+void app_run(void)
+{
+    static uint8_t val = 0;
+    static uint8_t addr = 0;
+
+    i2c_write_reg(I2C_1, EEPROM_ADDR, addr, val);
+    delay(6);
+
+    uint8_t rd = i2c_read_reg(I2C_1, EEPROM_ADDR, addr);
+
+    mini_printf("W[%d]=%d R=%d %s\r\n", addr, val, rd,
+                (rd == val) ? "OK" : "FAIL");
+
+    val += 7;
+    addr = (addr + 1) & 0x0F;
+    delay(1000);
+}

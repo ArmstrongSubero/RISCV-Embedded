@@ -1,0 +1,856 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-init.o)
+                              C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_main_620c9b9a.o (__libc_init_array)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/app_8a208551.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/app_8a208551.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/app_8a208551.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/app_8a208551.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/app_8a208551.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari.blocks_54b3c96b.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari.blocks_54b3c96b.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari.blocks_54b3c96b.o
+ .text._Z10block_initv
+                0x00000000        0x2 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari.blocks_54b3c96b.o
+ .text._Z9block_runv
+                0x00000000        0x2 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari.blocks_54b3c96b.o
+ .debug_info    0x00000000       0xb3 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari.blocks_54b3c96b.o
+ .debug_abbrev  0x00000000       0x65 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari.blocks_54b3c96b.o
+ .debug_aranges
+                0x00000000       0x28 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari.blocks_54b3c96b.o
+ .debug_rnglists
+                0x00000000       0x19 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari.blocks_54b3c96b.o
+ .debug_line    0x00000000       0x69 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari.blocks_54b3c96b.o
+ .debug_str     0x00000000      0x1dd C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari.blocks_54b3c96b.o
+ .debug_line_str
+                0x00000000      0x11c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari.blocks_54b3c96b.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari.blocks_54b3c96b.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari.blocks_54b3c96b.o
+ .debug_frame   0x00000000       0x30 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari.blocks_54b3c96b.o
+ .riscv.attributes
+                0x00000000       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari.blocks_54b3c96b.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/baochip1x_it_e487af88.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/baochip1x_it_e487af88.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/baochip1x_it_e487af88.o
+ .debug_info    0x00000000       0x65 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/baochip1x_it_e487af88.o
+ .debug_abbrev  0x00000000       0x26 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/baochip1x_it_e487af88.o
+ .debug_aranges
+                0x00000000       0x18 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/baochip1x_it_e487af88.o
+ .debug_line    0x00000000       0x44 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/baochip1x_it_e487af88.o
+ .debug_str     0x00000000      0x14c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/baochip1x_it_e487af88.o
+ .debug_line_str
+                0x00000000      0x104 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/baochip1x_it_e487af88.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/baochip1x_it_e487af88.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/baochip1x_it_e487af88.o
+ .riscv.attributes
+                0x00000000       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/baochip1x_it_e487af88.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/startup_6d31e108.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/startup_6d31e108.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/startup_6d31e108.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_gpio_9054eec4.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_gpio_9054eec4.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_gpio_9054eec4.o
+ .text.gpio_put
+                0x00000000       0x9a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_gpio_9054eec4.o
+ .text.gpio_get
+                0x00000000       0x82 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_gpio_9054eec4.o
+ .text.gpio_toggle
+                0x00000000       0x86 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_gpio_9054eec4.o
+ .text.gpio_disable_pulls
+                0x00000000       0x8a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_gpio_9054eec4.o
+ .text.gpio_init
+                0x00000000       0x94 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_gpio_9054eec4.o
+ .text.gpio_get_pull
+                0x00000000       0x82 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_gpio_9054eec4.o
+ .text.gpio_set_schmitt
+                0x00000000       0x9a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_gpio_9054eec4.o
+ .text.gpio_put_all
+                0x00000000       0x50 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_gpio_9054eec4.o
+ .text.gpio_get_all
+                0x00000000       0x4a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_gpio_9054eec4.o
+ .text.gpio_set_dir_masked
+                0x00000000       0x50 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_gpio_9054eec4.o
+ .text.gpio_get_dir
+                0x00000000       0x82 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_gpio_9054eec4.o
+ .rodata.__PRETTY_FUNCTION__.0
+                0x00000000        0xd C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_gpio_9054eec4.o
+ .rodata.__PRETTY_FUNCTION__.1
+                0x00000000       0x14 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_gpio_9054eec4.o
+ .rodata.__PRETTY_FUNCTION__.2
+                0x00000000        0xd C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_gpio_9054eec4.o
+ .rodata.__PRETTY_FUNCTION__.3
+                0x00000000        0xd C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_gpio_9054eec4.o
+ .rodata.__PRETTY_FUNCTION__.4
+                0x00000000       0x11 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_gpio_9054eec4.o
+ .rodata.__PRETTY_FUNCTION__.5
+                0x00000000        0xe C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_gpio_9054eec4.o
+ .rodata.__PRETTY_FUNCTION__.6
+                0x00000000       0x13 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_gpio_9054eec4.o
+ .rodata.__PRETTY_FUNCTION__.8
+                0x00000000        0xc C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_gpio_9054eec4.o
+ .rodata.__PRETTY_FUNCTION__.9
+                0x00000000        0x9 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_gpio_9054eec4.o
+ .rodata.__PRETTY_FUNCTION__.10
+                0x00000000        0x9 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_gpio_9054eec4.o
+ .rodata.__PRETTY_FUNCTION__.12
+                0x00000000        0xa C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_gpio_9054eec4.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_gpio_9054eec4.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_gpio_9054eec4.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_uart_2b9c0ebf.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_uart_2b9c0ebf.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_uart_2b9c0ebf.o
+ .text.uart_tx_complete_hook
+                0x00000000        0x2 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_uart_2b9c0ebf.o
+ .rodata.uart_write.str1.4
+                0x00000000        0xf C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_uart_2b9c0ebf.o
+ .text.uart_write
+                0x00000000      0x14c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_uart_2b9c0ebf.o
+ .text.uart_putc
+                0x00000000       0x4a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_uart_2b9c0ebf.o
+ .rodata.uart_puts.str1.4
+                0x00000000        0xc C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_uart_2b9c0ebf.o
+ .text.uart_puts
+                0x00000000       0x92 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_uart_2b9c0ebf.o
+ .text.uart_is_readable
+                0x00000000       0x4c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_uart_2b9c0ebf.o
+ .text.uart_getc
+                0x00000000       0x7c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_uart_2b9c0ebf.o
+ .text.uart_get_perclk
+                0x00000000       0x2e C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_uart_2b9c0ebf.o
+ .text.uart_write_async
+                0x00000000       0x9e C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_uart_2b9c0ebf.o
+ .text.uart_write_done
+                0x00000000       0x90 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_uart_2b9c0ebf.o
+ .text.uart_write_wait
+                0x00000000       0x3e C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_uart_2b9c0ebf.o
+ .rodata.__PRETTY_FUNCTION__.0
+                0x00000000       0x10 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_uart_2b9c0ebf.o
+ .rodata.__PRETTY_FUNCTION__.1
+                0x00000000        0xa C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_uart_2b9c0ebf.o
+ .rodata.__PRETTY_FUNCTION__.2
+                0x00000000       0x11 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_uart_2b9c0ebf.o
+ .rodata.__PRETTY_FUNCTION__.3
+                0x00000000        0xa C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_uart_2b9c0ebf.o
+ .rodata.__PRETTY_FUNCTION__.4
+                0x00000000        0xa C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_uart_2b9c0ebf.o
+ .rodata.__PRETTY_FUNCTION__.5
+                0x00000000        0xb C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_uart_2b9c0ebf.o
+ .sbss.s_uart_tx_notified
+                0x00000000        0x4 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_uart_2b9c0ebf.o
+ .sbss.s_uart_tx_busy
+                0x00000000        0x4 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_uart_2b9c0ebf.o
+ .dma_buffers   0x00000000      0x100 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_uart_2b9c0ebf.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_uart_2b9c0ebf.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_uart_2b9c0ebf.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_irq_bff3f790.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_irq_bff3f790.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_irq_bff3f790.o
+ .text.irq_init
+                0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_irq_bff3f790.o
+ .text.irq_set_handler
+                0x00000000       0x16 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_irq_bff3f790.o
+ .rodata.irq_enable.str1.4
+                0x00000000       0x85 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_irq_bff3f790.o
+ .text.irq_enable
+                0x00000000       0x6a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_irq_bff3f790.o
+ .text.irq_enable_events
+                0x00000000       0x2e C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_irq_bff3f790.o
+ .text.irq_disable
+                0x00000000       0x50 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_irq_bff3f790.o
+ .rodata.__PRETTY_FUNCTION__.0
+                0x00000000        0xc C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_irq_bff3f790.o
+ .rodata.__PRETTY_FUNCTION__.1
+                0x00000000        0xb C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_irq_bff3f790.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_irq_bff3f790.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_irq_bff3f790.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao_delay_09c3a55a.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao_delay_09c3a55a.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao_delay_09c3a55a.o
+ .text.delay_us
+                0x00000000       0x22 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao_delay_09c3a55a.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao_delay_09c3a55a.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao_delay_09c3a55a.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao_stdio_b6cd46e2.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao_stdio_b6cd46e2.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao_stdio_b6cd46e2.o
+ .text.print_unsigned
+                0x00000000       0x8c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao_stdio_b6cd46e2.o
+ .rodata.mini_printf.str1.4
+                0x00000000       0x86 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao_stdio_b6cd46e2.o
+ .text.mini_printf
+                0x00000000      0x170 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao_stdio_b6cd46e2.o
+ .rodata.__PRETTY_FUNCTION__.0
+                0x00000000        0xc C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao_stdio_b6cd46e2.o
+ .debug_info    0x00000000      0x330 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao_stdio_b6cd46e2.o
+ .debug_abbrev  0x00000000      0x180 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao_stdio_b6cd46e2.o
+ .debug_loclists
+                0x00000000      0x1d0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao_stdio_b6cd46e2.o
+ .debug_aranges
+                0x00000000       0x28 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao_stdio_b6cd46e2.o
+ .debug_rnglists
+                0x00000000       0x2d C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao_stdio_b6cd46e2.o
+ .debug_line    0x00000000      0x42e C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao_stdio_b6cd46e2.o
+ .debug_str     0x00000000      0x240 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao_stdio_b6cd46e2.o
+ .debug_line_str
+                0x00000000      0x3a6 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao_stdio_b6cd46e2.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao_stdio_b6cd46e2.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao_stdio_b6cd46e2.o
+ .debug_frame   0x00000000       0x7c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao_stdio_b6cd46e2.o
+ .riscv.attributes
+                0x00000000       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao_stdio_b6cd46e2.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao_stdlib_51aafccb.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao_stdlib_51aafccb.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao_stdlib_51aafccb.o
+ .text.memcpy   0x00000000       0x1c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao_stdlib_51aafccb.o
+ .text.memset   0x00000000       0x12 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao_stdlib_51aafccb.o
+ .rodata.memcmp.str1.4
+                0x00000000       0x90 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao_stdlib_51aafccb.o
+ .text.memcmp   0x00000000       0x8c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao_stdlib_51aafccb.o
+ .text.strchr   0x00000000       0x20 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao_stdlib_51aafccb.o
+ .text.trap_dispatch
+                0x00000000       0x38 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao_stdlib_51aafccb.o
+ .srodata.__PRETTY_FUNCTION__.0
+                0x00000000        0x7 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao_stdlib_51aafccb.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao_stdlib_51aafccb.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao_stdlib_51aafccb.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_gpio_6fb6af80.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_gpio_6fb6af80.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_gpio_6fb6af80.o
+ .rodata.pin_mode.str1.4
+                0x00000000       0x89 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_gpio_6fb6af80.o
+ .text.pin_mode
+                0x00000000       0xaa C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_gpio_6fb6af80.o
+ .text.digital_write
+                0x00000000       0x5a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_gpio_6fb6af80.o
+ .text.digital_read
+                0x00000000       0x50 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_gpio_6fb6af80.o
+ .text.pin_toggle
+                0x00000000       0x50 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_gpio_6fb6af80.o
+ .rodata.__PRETTY_FUNCTION__.0
+                0x00000000        0xb C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_gpio_6fb6af80.o
+ .rodata.__PRETTY_FUNCTION__.1
+                0x00000000        0xd C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_gpio_6fb6af80.o
+ .rodata.__PRETTY_FUNCTION__.2
+                0x00000000        0xe C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_gpio_6fb6af80.o
+ .rodata.__PRETTY_FUNCTION__.3
+                0x00000000        0x9 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_gpio_6fb6af80.o
+ .debug_info    0x00000000      0x5e6 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_gpio_6fb6af80.o
+ .debug_abbrev  0x00000000      0x179 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_gpio_6fb6af80.o
+ .debug_loclists
+                0x00000000      0x27f C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_gpio_6fb6af80.o
+ .debug_aranges
+                0x00000000       0x38 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_gpio_6fb6af80.o
+ .debug_rnglists
+                0x00000000       0x26 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_gpio_6fb6af80.o
+ .debug_line    0x00000000      0x316 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_gpio_6fb6af80.o
+ .debug_str     0x00000000      0x2dd C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_gpio_6fb6af80.o
+ .debug_line_str
+                0x00000000      0x34f C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_gpio_6fb6af80.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_gpio_6fb6af80.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_gpio_6fb6af80.o
+ .debug_frame   0x00000000       0xb8 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_gpio_6fb6af80.o
+ .riscv.attributes
+                0x00000000       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_gpio_6fb6af80.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_main_620c9b9a.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_main_620c9b9a.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_main_620c9b9a.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_main_620c9b9a.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_main_620c9b9a.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_tick_d798bda6.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_tick_d798bda6.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_tick_d798bda6.o
+ .text.rovari_tick_init
+                0x00000000        0x2 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_tick_d798bda6.o
+ .text.micros   0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_tick_d798bda6.o
+ .debug_info    0x00000000      0x128 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_tick_d798bda6.o
+ .debug_abbrev  0x00000000       0xb7 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_tick_d798bda6.o
+ .debug_loclists
+                0x00000000       0x52 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_tick_d798bda6.o
+ .debug_aranges
+                0x00000000       0x28 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_tick_d798bda6.o
+ .debug_rnglists
+                0x00000000       0x19 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_tick_d798bda6.o
+ .debug_line    0x00000000       0xda C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_tick_d798bda6.o
+ .debug_str     0x00000000      0x1b2 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_tick_d798bda6.o
+ .debug_line_str
+                0x00000000      0x2b7 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_tick_d798bda6.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_tick_d798bda6.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_tick_d798bda6.o
+ .debug_frame   0x00000000       0x3c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_tick_d798bda6.o
+ .riscv.attributes
+                0x00000000       0x67 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_tick_d798bda6.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_button_b4b82f26.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_button_b4b82f26.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_button_b4b82f26.o
+ .text.find     0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_button_b4b82f26.o
+ .text.update   0x00000000       0x7c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_button_b4b82f26.o
+ .text.button_begin
+                0x00000000       0x72 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_button_b4b82f26.o
+ .text.button_pressed
+                0x00000000       0x32 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_button_b4b82f26.o
+ .text.button_released
+                0x00000000       0x32 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_button_b4b82f26.o
+ .text.button_held
+                0x00000000       0x46 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_button_b4b82f26.o
+ .text.button_state
+                0x00000000       0x2a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_button_b4b82f26.o
+ .bss.s_buttons
+                0x00000000       0x50 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_button_b4b82f26.o
+ .debug_info    0x00000000      0x4f7 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_button_b4b82f26.o
+ .debug_abbrev  0x00000000      0x1f4 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_button_b4b82f26.o
+ .debug_loclists
+                0x00000000      0x242 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_button_b4b82f26.o
+ .debug_aranges
+                0x00000000       0x50 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_button_b4b82f26.o
+ .debug_rnglists
+                0x00000000       0x52 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_button_b4b82f26.o
+ .debug_line    0x00000000      0x583 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_button_b4b82f26.o
+ .debug_str     0x00000000      0x2bb C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_button_b4b82f26.o
+ .debug_line_str
+                0x00000000      0x261 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_button_b4b82f26.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_button_b4b82f26.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_button_b4b82f26.o
+ .debug_frame   0x00000000      0x108 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_button_b4b82f26.o
+ .riscv.attributes
+                0x00000000       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_button_b4b82f26.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_uart_dca14ff7.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_uart_dca14ff7.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_uart_dca14ff7.o
+ .text.rovari_uart_init
+                0x00000000        0x8 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_uart_dca14ff7.o
+ .text.rovari_uart_putc
+                0x00000000        0x8 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_uart_dca14ff7.o
+ .text.rovari_uart_puts
+                0x00000000        0x8 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_uart_dca14ff7.o
+ .text.rovari_uart_write
+                0x00000000        0x8 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_uart_dca14ff7.o
+ .text.rovari_uart_readable
+                0x00000000        0x8 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_uart_dca14ff7.o
+ .text.rovari_uart_getc
+                0x00000000        0x8 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_uart_dca14ff7.o
+ .text.rovari_printf
+                0x00000000       0x14 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_uart_dca14ff7.o
+ .debug_info    0x00000000      0x397 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_uart_dca14ff7.o
+ .debug_abbrev  0x00000000      0x12c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_uart_dca14ff7.o
+ .debug_loclists
+                0x00000000      0x14b C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_uart_dca14ff7.o
+ .debug_aranges
+                0x00000000       0x50 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_uart_dca14ff7.o
+ .debug_rnglists
+                0x00000000       0x37 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_uart_dca14ff7.o
+ .debug_line    0x00000000      0x163 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_uart_dca14ff7.o
+ .debug_str     0x00000000      0x256 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_uart_dca14ff7.o
+ .debug_line_str
+                0x00000000      0x332 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_uart_dca14ff7.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_uart_dca14ff7.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_uart_dca14ff7.o
+ .debug_frame   0x00000000       0x88 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_uart_dca14ff7.o
+ .riscv.attributes
+                0x00000000       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_uart_dca14ff7.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/sevs_assert_target_1358f0b7.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/sevs_assert_target_1358f0b7.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/sevs_assert_target_1358f0b7.o
+ .text.sevs_target_pop_crash_record
+                0x00000000       0x46 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/sevs_assert_target_1358f0b7.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/sevs_assert_target_1358f0b7.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/sevs_assert_target_1358f0b7.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_pwm_92462713.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_pwm_92462713.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_pwm_92462713.o
+ .text.pwm_set_percent
+                0x00000000       0xa8 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_pwm_92462713.o
+ .text.pwm_stop
+                0x00000000       0x4c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_pwm_92462713.o
+ .text.pwm_get_period
+                0x00000000       0x4c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_pwm_92462713.o
+ .rodata.__PRETTY_FUNCTION__.0
+                0x00000000        0xf C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_pwm_92462713.o
+ .rodata.__PRETTY_FUNCTION__.1
+                0x00000000        0x9 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_pwm_92462713.o
+ .rodata.__PRETTY_FUNCTION__.2
+                0x00000000       0x10 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_pwm_92462713.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_pwm_92462713.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_pwm_92462713.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_pwm_dab5ba1b.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_pwm_dab5ba1b.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_pwm_dab5ba1b.o
+ .text._rovari_pwm_write_pct
+                0x00000000       0x60 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_pwm_dab5ba1b.o
+ .text._rovari_pwm_write_raw
+                0x00000000       0x2c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_pwm_dab5ba1b.o
+ .text._rovari_pwm_stop
+                0x00000000       0x2a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_pwm_dab5ba1b.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_pwm_dab5ba1b.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_pwm_dab5ba1b.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-init.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-init.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-init.o)
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-init.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-init.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+SIGBLOCK         0x60060000         0x00000300         r
+RRAM             0x60060300         0x00399d00         xr
+SRAM             0x61000000         0x00200000         xrw
+IFRAM            0x50000000         0x00020000         rw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/app_8a208551.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari.blocks_54b3c96b.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/baochip1x_it_e487af88.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/startup_6d31e108.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_gpio_9054eec4.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_uart_2b9c0ebf.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_irq_bff3f790.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao_delay_09c3a55a.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao_stdio_b6cd46e2.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao_stdlib_51aafccb.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_gpio_6fb6af80.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_main_620c9b9a.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_tick_d798bda6.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_button_b4b82f26.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_uart_dca14ff7.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/sevs_assert_target_1358f0b7.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_pwm_92462713.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_pwm_dab5ba1b.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libstdc++_nano.a
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libm_nano.a
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0\libgcc.a
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0\libgcc.a
+START GROUP
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0\libgcc.a
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libnosys.a
+END GROUP
+START GROUP
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0\libgcc.a
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libnosys.a
+END GROUP
+                0x00002000                        _stack_size = 0x2000
+                0x61200000                        _stack_top = (ORIGIN (SRAM) + LENGTH (SRAM))
+
+.text           0x60060300      0xf24
+ *(.text.start)
+ .text.start    0x60060300      0x13a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/startup_6d31e108.o
+                0x60060300                _start
+                0x60060370                _trap_entry
+ *(.text .text.*)
+ .text.app_init
+                0x6006043a        0xa C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/app_8a208551.o
+                0x6006043a                app_init
+ .text.app_run  0x60060444       0x48 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/app_8a208551.o
+                0x60060444                app_run
+ .text.gpio_set_function
+                0x6006048c       0x9a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_gpio_9054eec4.o
+                0x6006048c                gpio_set_function
+ .text.gpio_set_dir
+                0x60060526       0x8e C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_gpio_9054eec4.o
+                0x60060526                gpio_set_dir
+ .text.gpio_pull_up
+                0x600605b4       0x7a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_gpio_9054eec4.o
+                0x600605b4                gpio_pull_up
+ .text.uart_init
+                0x6006062e      0x114 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_uart_2b9c0ebf.o
+                0x6006062e                uart_init
+ .text.trap_dispatch
+                0x60060742       0xbc C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_irq_bff3f790.o
+                0x60060742                trap_dispatch
+ .text.ticktimer_init
+                0x600607fe       0x20 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao_delay_09c3a55a.o
+ .text.millis   0x6006081e       0x40 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao_delay_09c3a55a.o
+                0x6006081e                millis
+ .text.delay_ms
+                0x6006085e       0x3c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao_delay_09c3a55a.o
+                0x6006085e                delay_ms
+ .text.setup_default_uart
+                0x6006089a        0xa C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao_stdlib_51aafccb.o
+                0x6006089a                setup_default_uart
+ .text.bao_init
+                0x600608a4        0xe C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao_stdlib_51aafccb.o
+                0x600608a4                bao_init
+ .text.startup.main
+                0x600608b2        0xe C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_main_620c9b9a.o
+                0x600608b2                main
+ .text.copy_clipped
+                0x600608c0       0x2c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/sevs_assert_target_1358f0b7.o
+ .text.sevs_target_disable_irq
+                0x600608ec        0x2 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/sevs_assert_target_1358f0b7.o
+                0x600608ec                sevs_target_disable_irq
+ .text.sevs_target_uart_write_str
+                0x600608ee        0x2 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/sevs_assert_target_1358f0b7.o
+                0x600608ee                sevs_target_uart_write_str
+ .text.sevs_target_halt
+                0x600608f0        0x2 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/sevs_assert_target_1358f0b7.o
+                0x600608f0                sevs_target_halt
+ .text.sevs_assert_fail
+                0x600608f2      0x2cc C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/sevs_assert_target_1358f0b7.o
+                0x600608f2                sevs_assert_fail
+ .text.pwm_init_pin
+                0x60060bbe       0x3e C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_pwm_92462713.o
+                0x60060bbe                pwm_init_pin
+ .text.pwm_init
+                0x60060bfc      0x13c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_pwm_92462713.o
+                0x60060bfc                pwm_init
+ .text.pwm_set_duty
+                0x60060d38       0x9e C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_pwm_92462713.o
+                0x60060d38                pwm_set_duty
+ .text.find_pin
+                0x60060dd6       0x2e C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_pwm_dab5ba1b.o
+ .text._rovari_pwm_init
+                0x60060e04       0x50 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_pwm_dab5ba1b.o
+                0x60060e04                _rovari_pwm_init
+ .text._rovari_pwm_write
+                0x60060e54       0x40 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_pwm_dab5ba1b.o
+                0x60060e54                _rovari_pwm_write
+ .text.__libc_init_array
+                0x60060e94       0x5e C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-init.o)
+                0x60060e94                __libc_init_array
+ *(.rodata .rodata.*)
+ *fill*         0x60060ef2        0x2 
+ .rodata.gpio_set_function.str1.4
+                0x60060ef4      0x229 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_gpio_9054eec4.o
+                                 0xa4 (size before relaxing)
+ *fill*         0x6006111d        0x3 
+ .rodata.__PRETTY_FUNCTION__.7
+                0x60061120        0xd C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_gpio_9054eec4.o
+ *fill*         0x6006112d        0x3 
+ .rodata.__PRETTY_FUNCTION__.11
+                0x60061130        0xd C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_gpio_9054eec4.o
+ *fill*         0x6006113d        0x3 
+ .rodata.__PRETTY_FUNCTION__.13
+                0x60061140       0x12 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_gpio_9054eec4.o
+ .rodata.uart_init.str1.4
+                0x60061152        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_uart_2b9c0ebf.o
+                                 0xa6 (size before relaxing)
+ *fill*         0x60061152        0x2 
+ .rodata.__PRETTY_FUNCTION__.6
+                0x60061154        0xa C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_uart_2b9c0ebf.o
+ *fill*         0x6006115e        0x2 
+ .rodata.uart_cg
+                0x60061160       0x10 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_uart_2b9c0ebf.o
+ .rodata.uart_base
+                0x60061170       0x10 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_uart_2b9c0ebf.o
+ .rodata.irq_array_base
+                0x60061180       0x50 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_irq_bff3f790.o
+ .rodata.sevs_assert_fail.str1.4
+                0x600611d0        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/sevs_assert_target_1358f0b7.o
+                                 0x17 (size before relaxing)
+ .rodata.str1.4
+                0x600611d0        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/sevs_assert_target_1358f0b7.o
+                                 0x28 (size before relaxing)
+ .rodata.CSWTCH.27
+                0x600611d0       0x10 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/sevs_assert_target_1358f0b7.o
+ .rodata.pwm_init.str1.4
+                0x600611e0        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_pwm_92462713.o
+                                 0x90 (size before relaxing)
+ .rodata.pwm_set_duty.str1.4
+                0x600611e0        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_pwm_92462713.o
+                                  0xd (size before relaxing)
+ .rodata.__PRETTY_FUNCTION__.3
+                0x600611e0        0xd C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_pwm_92462713.o
+ *fill*         0x600611ed        0x3 
+ .rodata.__PRETTY_FUNCTION__.4
+                0x600611f0        0x9 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_pwm_92462713.o
+ *fill*         0x600611f9        0x3 
+ .rodata.pwm_pins
+                0x600611fc       0x28 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_pwm_dab5ba1b.o
+                0x60061224                        . = ALIGN (0x4)
+
+.rela.dyn       0x60061224        0x0
+ .rela.text.start
+                0x60061224        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/app_8a208551.o
+ .rela.text.__libc_init_array
+                0x60061224        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/app_8a208551.o
+
+.preinit_array  0x60061224        0x0
+                0x60061224                        PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x60061224                        PROVIDE (__preinit_array_end = .)
+
+.init_array     0x60061224        0x0
+                0x60061224                        PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array*)
+                0x60061224                        PROVIDE (__init_array_end = .)
+
+.fini_array     0x60061224        0x0
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+                [!provide]                        PROVIDE (__fini_array_end = .)
+
+.data           0x61000000        0x0 load address 0x60061224
+                0x61000000                        _data_start = .
+ *(.data .data.*)
+ *(.sdata .sdata.*)
+                0x61000000                        . = ALIGN (0x4)
+                0x61000000                        _data_end = .
+                0x60061224                        _data_lma = LOADADDR (.data)
+
+.bss            0x61000000       0x94 load address 0x60061224
+                0x61000000                        _bss_start = .
+ *(.bss .bss.*)
+ .bss.irq_handlers
+                0x61000000       0x7c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_irq_bff3f790.o
+ *(.sbss .sbss.*)
+ .sbss.s_perclk
+                0x6100007c        0x4 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_uart_2b9c0ebf.o
+ .sbss.s_ticktimer_initialized
+                0x61000080        0x4 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao_delay_09c3a55a.o
+ .sbss.slice_period
+                0x61000084        0x8 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_pwm_92462713.o
+ .sbss.s_period
+                0x6100008c        0x8 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_pwm_dab5ba1b.o
+ *(COMMON)
+                0x61000094                        . = ALIGN (0x4)
+                0x61000094                        _bss_end = .
+
+.dma_buffers    0x50000000        0x0
+                0x50000000                        _dma_start = .
+ *(.dma_buffers .dma_buffers.*)
+                0x50000000                        . = ALIGN (0x4)
+                0x50000000                        _dma_end = .
+                0x61000800                        __global_pointer$ = (_data_start + 0x800)
+
+.stack          0x61000094     0x2000
+                0x61002094                        . = (. + _stack_size)
+ *fill*         0x61000094     0x2000 
+
+/DISCARD/
+ *(.comment)
+ *(.note.*)
+ *(.eh_frame*)
+OUTPUT(system\build\app.elf elf32-littleriscv)
+
+.riscv.attributes
+                0x00000000       0x67
+ .riscv.attributes
+                0x00000000       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/app_8a208551.o
+ .riscv.attributes
+                0x00000063       0x65 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/startup_6d31e108.o
+ .riscv.attributes
+                0x000000c8       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_gpio_9054eec4.o
+ .riscv.attributes
+                0x0000012b       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_uart_2b9c0ebf.o
+ .riscv.attributes
+                0x0000018e       0x67 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_irq_bff3f790.o
+ .riscv.attributes
+                0x000001f5       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao_delay_09c3a55a.o
+ .riscv.attributes
+                0x00000258       0x67 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao_stdlib_51aafccb.o
+ .riscv.attributes
+                0x000002bf       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_main_620c9b9a.o
+ .riscv.attributes
+                0x00000322       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/sevs_assert_target_1358f0b7.o
+ .riscv.attributes
+                0x00000385       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_pwm_92462713.o
+ .riscv.attributes
+                0x000003e8       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_pwm_dab5ba1b.o
+ .riscv.attributes
+                0x0000044b       0x4e C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-init.o)
+
+.debug_info     0x00000000     0x405f
+ .debug_info    0x00000000      0x21d C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/app_8a208551.o
+ .debug_info    0x0000021d       0x25 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/startup_6d31e108.o
+ .debug_info    0x00000242      0xf5a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_gpio_9054eec4.o
+ .debug_info    0x0000119c      0xea6 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_uart_2b9c0ebf.o
+ .debug_info    0x00002042      0x5c6 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_irq_bff3f790.o
+ .debug_info    0x00002608      0x20c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao_delay_09c3a55a.o
+ .debug_info    0x00002814      0x4b1 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao_stdlib_51aafccb.o
+ .debug_info    0x00002cc5       0xc8 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_main_620c9b9a.o
+ .debug_info    0x00002d8d      0x55d C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/sevs_assert_target_1358f0b7.o
+ .debug_info    0x000032ea      0x8c7 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_pwm_92462713.o
+ .debug_info    0x00003bb1      0x4ae C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_pwm_dab5ba1b.o
+
+.debug_abbrev   0x00000000     0x1304
+ .debug_abbrev  0x00000000      0x112 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/app_8a208551.o
+ .debug_abbrev  0x00000112       0x14 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/startup_6d31e108.o
+ .debug_abbrev  0x00000126      0x1ff C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_gpio_9054eec4.o
+ .debug_abbrev  0x00000325      0x3f7 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_uart_2b9c0ebf.o
+ .debug_abbrev  0x0000071c      0x273 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_irq_bff3f790.o
+ .debug_abbrev  0x0000098f      0x121 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao_delay_09c3a55a.o
+ .debug_abbrev  0x00000ab0      0x1b1 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao_stdlib_51aafccb.o
+ .debug_abbrev  0x00000c61       0x61 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_main_620c9b9a.o
+ .debug_abbrev  0x00000cc2      0x283 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/sevs_assert_target_1358f0b7.o
+ .debug_abbrev  0x00000f45      0x21f C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_pwm_92462713.o
+ .debug_abbrev  0x00001164      0x1a0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_pwm_dab5ba1b.o
+
+.debug_loclists
+                0x00000000     0x23f3
+ .debug_loclists
+                0x00000000       0x56 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/app_8a208551.o
+ .debug_loclists
+                0x00000056      0x87e C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_gpio_9054eec4.o
+ .debug_loclists
+                0x000008d4      0x819 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_uart_2b9c0ebf.o
+ .debug_loclists
+                0x000010ed      0x135 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_irq_bff3f790.o
+ .debug_loclists
+                0x00001222       0xb2 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao_delay_09c3a55a.o
+ .debug_loclists
+                0x000012d4      0x21c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao_stdlib_51aafccb.o
+ .debug_loclists
+                0x000014f0      0x56f C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/sevs_assert_target_1358f0b7.o
+ .debug_loclists
+                0x00001a5f      0x618 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_pwm_92462713.o
+ .debug_loclists
+                0x00002077      0x37c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_pwm_dab5ba1b.o
+
+.debug_aranges  0x00000000      0x308
+ .debug_aranges
+                0x00000000       0x28 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/app_8a208551.o
+ .debug_aranges
+                0x00000028       0x20 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/startup_6d31e108.o
+ .debug_aranges
+                0x00000048       0x88 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_gpio_9054eec4.o
+ .debug_aranges
+                0x000000d0       0x70 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_uart_2b9c0ebf.o
+ .debug_aranges
+                0x00000140       0x48 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_irq_bff3f790.o
+ .debug_aranges
+                0x00000188       0x38 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao_delay_09c3a55a.o
+ .debug_aranges
+                0x000001c0       0x50 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao_stdlib_51aafccb.o
+ .debug_aranges
+                0x00000210       0x20 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_main_620c9b9a.o
+ .debug_aranges
+                0x00000230       0x48 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/sevs_assert_target_1358f0b7.o
+ .debug_aranges
+                0x00000278       0x48 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_pwm_92462713.o
+ .debug_aranges
+                0x000002c0       0x48 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_pwm_dab5ba1b.o
+
+.debug_rnglists
+                0x00000000      0x334
+ .debug_rnglists
+                0x00000000       0x31 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/app_8a208551.o
+ .debug_rnglists
+                0x00000031       0x6c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_gpio_9054eec4.o
+ .debug_rnglists
+                0x0000009d       0x99 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_uart_2b9c0ebf.o
+ .debug_rnglists
+                0x00000136       0x7d C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_irq_bff3f790.o
+ .debug_rnglists
+                0x000001b3       0x25 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao_delay_09c3a55a.o
+ .debug_rnglists
+                0x000001d8       0x38 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao_stdlib_51aafccb.o
+ .debug_rnglists
+                0x00000210       0x13 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_main_620c9b9a.o
+ .debug_rnglists
+                0x00000223       0x7c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/sevs_assert_target_1358f0b7.o
+ .debug_rnglists
+                0x0000029f       0x64 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_pwm_92462713.o
+ .debug_rnglists
+                0x00000303       0x31 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_pwm_dab5ba1b.o
+
+.debug_line     0x00000000     0x3d5e
+ .debug_line    0x00000000      0x18b C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/app_8a208551.o
+ .debug_line    0x0000018b      0x2a8 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/startup_6d31e108.o
+ .debug_line    0x00000433      0xaf4 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_gpio_9054eec4.o
+ .debug_line    0x00000f27      0xebc C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_uart_2b9c0ebf.o
+ .debug_line    0x00001de3      0x52d C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_irq_bff3f790.o
+ .debug_line    0x00002310      0x2db C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao_delay_09c3a55a.o
+ .debug_line    0x000025eb      0x364 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao_stdlib_51aafccb.o
+ .debug_line    0x0000294f       0x91 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_main_620c9b9a.o
+ .debug_line    0x000029e0      0x7fa C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/sevs_assert_target_1358f0b7.o
+ .debug_line    0x000031da      0x7bb C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_pwm_92462713.o
+ .debug_line    0x00003995      0x3c9 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_pwm_dab5ba1b.o
+
+.debug_str      0x00000000      0xa76
+ .debug_str     0x00000000      0xa76 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/app_8a208551.o
+                                0x219 (size before relaxing)
+ .debug_str     0x00000a76        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/startup_6d31e108.o
+                                 0xb1 (size before relaxing)
+ .debug_str     0x00000a76        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_gpio_9054eec4.o
+                                0x363 (size before relaxing)
+ .debug_str     0x00000a76        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_uart_2b9c0ebf.o
+                                0x44d (size before relaxing)
+ .debug_str     0x00000a76        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_irq_bff3f790.o
+                                0x31a (size before relaxing)
+ .debug_str     0x00000a76        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao_delay_09c3a55a.o
+                                0x1f3 (size before relaxing)
+ .debug_str     0x00000a76        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao_stdlib_51aafccb.o
+                                0x2d8 (size before relaxing)
+ .debug_str     0x00000a76        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_main_620c9b9a.o
+                                0x17d (size before relaxing)
+ .debug_str     0x00000a76        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/sevs_assert_target_1358f0b7.o
+                                0x2b0 (size before relaxing)
+ .debug_str     0x00000a76        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_pwm_92462713.o
+                                0x392 (size before relaxing)
+ .debug_str     0x00000a76        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_pwm_dab5ba1b.o
+                                0x274 (size before relaxing)
+
+.debug_line_str
+                0x00000000      0x917
+ .debug_line_str
+                0x00000000      0x917 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/app_8a208551.o
+                                0x2fc (size before relaxing)
+ .debug_line_str
+                0x00000917        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/startup_6d31e108.o
+                                 0xa5 (size before relaxing)
+ .debug_line_str
+                0x00000917        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_gpio_9054eec4.o
+                                0x3a8 (size before relaxing)
+ .debug_line_str
+                0x00000917        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_uart_2b9c0ebf.o
+                                0x3a8 (size before relaxing)
+ .debug_line_str
+                0x00000917        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_irq_bff3f790.o
+                                0x338 (size before relaxing)
+ .debug_line_str
+                0x00000917        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao_delay_09c3a55a.o
+                                0x2b5 (size before relaxing)
+ .debug_line_str
+                0x00000917        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao_stdlib_51aafccb.o
+                                0x441 (size before relaxing)
+ .debug_line_str
+                0x00000917        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_main_620c9b9a.o
+                                0x1ae (size before relaxing)
+ .debug_line_str
+                0x00000917        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/sevs_assert_target_1358f0b7.o
+                                0x2f2 (size before relaxing)
+ .debug_line_str
+                0x00000917        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_pwm_92462713.o
+                                0x3a6 (size before relaxing)
+ .debug_line_str
+                0x00000917        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_pwm_dab5ba1b.o
+                                0x33d (size before relaxing)
+
+.debug_frame    0x00000000      0x884
+ .debug_frame   0x00000000       0x44 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/app_8a208551.o
+ .debug_frame   0x00000044      0x220 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_gpio_9054eec4.o
+ .debug_frame   0x00000264      0x18c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_uart_2b9c0ebf.o
+ .debug_frame   0x000003f0       0xc8 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_irq_bff3f790.o
+ .debug_frame   0x000004b8       0x80 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao_delay_09c3a55a.o
+ .debug_frame   0x00000538       0xb0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao_stdlib_51aafccb.o
+ .debug_frame   0x000005e8       0x28 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_main_620c9b9a.o
+ .debug_frame   0x00000610       0xa4 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/sevs_assert_target_1358f0b7.o
+ .debug_frame   0x000006b4       0xf0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/bao1x_pwm_92462713.o
+ .debug_frame   0x000007a4       0xe0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/03_PWM/system/build/rovari_pwm_dab5ba1b.o

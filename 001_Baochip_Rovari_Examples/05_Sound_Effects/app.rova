@@ -1,0 +1,86 @@
+/*
+ * Copyright (c) 2026 Armstrong Subero
+ *
+ * Program:  05_SoundEffects (C style)
+ * Platform: Baochip-1x / Rovari SDK
+ * Hardware: piezo buzzer on PB3 (PWM slice 1, ch 3)
+ */
+
+#include "rovari.h"
+
+void app_init(void)
+{
+}
+
+void app_run(void)
+{
+    tone_click(PB3);
+    delay(500);
+
+    tone_beep(PB3, 3);
+    delay(500);
+
+    tone_success(PB3);
+    delay(500);
+
+    tone_error(PB3);
+    delay(500);
+
+    tone_warning(PB3);
+    delay(500);
+
+    tone_startup(PB3);
+    delay(500);
+
+    tone_shutdown(PB3);
+    delay(500);
+
+    tone_doorbell(PB3);
+    delay(500);
+
+    tone_notification(PB3);
+    delay(500);
+
+    tone_alarm(PB3, 5);
+    delay(500);
+
+    tone_ring(PB3, 2);
+    delay(500);
+
+    tone_countdown(PB3, NOTE_A4, 4);
+    delay(500);
+
+    tone_chirp(PB3);
+    delay(500);
+
+    tone_siren(PB3, 400, 1200, 2000);
+    delay(500);
+
+    tone_sweep(PB3, 200, 2000, 1000);
+    delay(500);
+
+    tone_sweep(PB3, 2000, 200, 1000);
+    delay(500);
+
+    tone_alert(PB3, NOTE_C5, NOTE_E5, 4);
+    delay(500);
+
+    tone_trill(PB3, NOTE_E5, NOTE_F5, 1000);
+    delay(500);
+
+    static const uint16_t notes[] = {
+        NOTE_E5, NOTE_D5, NOTE_C5, NOTE_D5,
+        NOTE_E5, NOTE_E5, NOTE_E5, REST,
+        NOTE_D5, NOTE_D5, NOTE_D5, REST,
+        NOTE_E5, NOTE_G5, NOTE_G5, REST
+    };
+    static const uint16_t times[] = {
+        200, 200, 200, 200,
+        200, 200, 400, 200,
+        200, 200, 400, 200,
+        200, 200, 400, 200
+    };
+    tone_melody(PB3, notes, times, 16);
+
+    delay(3000);
+}

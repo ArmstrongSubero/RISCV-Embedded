@@ -1,0 +1,7 @@
+{
+  "peripherals": [
+    "GPIO",
+    "WDT"
+  ],
+  "libraries": []
+}

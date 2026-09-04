@@ -1,0 +1,34 @@
+/*
+ * Copyright (c) 2026 Armstrong Subero
+ *
+ * Program:  03_PWM (C++ style)
+ * Platform: Baochip-1x / Rovari SDK
+ * Hardware: LED on PB1 (PWM slice 1, ch 1) via 330R resistor
+ */
+
+#include "rovari.h"
+
+Pwm led(PB1, 1000);
+
+void app_init(void)
+{
+}
+
+void app_run(void)
+{
+    for (uint8_t pct = 0; pct <= 99; pct++)
+    {
+        led.writePct(pct);
+        delay(10);
+    }
+    
+    delay(500);
+
+    for (int pct = 99; pct >= 0; pct--)
+    {
+        led.writePct((uint8_t)pct);
+        delay(10);
+    }
+    
+    delay(500);
+}

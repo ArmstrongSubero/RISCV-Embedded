@@ -1,0 +1,9 @@
+{
+  "peripherals": [
+    "GPIO",
+    "SPI"
+  ],
+  "libraries": [
+    "SD Card"
+  ]
+}

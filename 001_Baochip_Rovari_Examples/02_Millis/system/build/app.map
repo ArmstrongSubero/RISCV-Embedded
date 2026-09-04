@@ -1,0 +1,768 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-init.o)
+                              C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_main_620c9b9a.o (__libc_init_array)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/app_5426cfbc.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/app_5426cfbc.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/app_5426cfbc.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/app_5426cfbc.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/app_5426cfbc.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari.blocks_e0548218.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari.blocks_e0548218.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari.blocks_e0548218.o
+ .text._Z10block_initv
+                0x00000000        0x2 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari.blocks_e0548218.o
+ .text._Z9block_runv
+                0x00000000        0x2 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari.blocks_e0548218.o
+ .debug_info    0x00000000       0xb3 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari.blocks_e0548218.o
+ .debug_abbrev  0x00000000       0x65 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari.blocks_e0548218.o
+ .debug_aranges
+                0x00000000       0x28 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari.blocks_e0548218.o
+ .debug_rnglists
+                0x00000000       0x19 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari.blocks_e0548218.o
+ .debug_line    0x00000000       0x69 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari.blocks_e0548218.o
+ .debug_str     0x00000000      0x1dd C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari.blocks_e0548218.o
+ .debug_line_str
+                0x00000000      0x125 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari.blocks_e0548218.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari.blocks_e0548218.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari.blocks_e0548218.o
+ .debug_frame   0x00000000       0x30 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari.blocks_e0548218.o
+ .riscv.attributes
+                0x00000000       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari.blocks_e0548218.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/baochip1x_it_9b5f0530.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/baochip1x_it_9b5f0530.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/baochip1x_it_9b5f0530.o
+ .debug_info    0x00000000       0x65 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/baochip1x_it_9b5f0530.o
+ .debug_abbrev  0x00000000       0x26 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/baochip1x_it_9b5f0530.o
+ .debug_aranges
+                0x00000000       0x18 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/baochip1x_it_9b5f0530.o
+ .debug_line    0x00000000       0x44 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/baochip1x_it_9b5f0530.o
+ .debug_str     0x00000000      0x14c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/baochip1x_it_9b5f0530.o
+ .debug_line_str
+                0x00000000      0x10d C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/baochip1x_it_9b5f0530.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/baochip1x_it_9b5f0530.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/baochip1x_it_9b5f0530.o
+ .riscv.attributes
+                0x00000000       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/baochip1x_it_9b5f0530.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/startup_5da4bd9d.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/startup_5da4bd9d.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/startup_5da4bd9d.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_gpio_9054eec4.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_gpio_9054eec4.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_gpio_9054eec4.o
+ .text.gpio_put
+                0x00000000       0x9a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_gpio_9054eec4.o
+ .text.gpio_get
+                0x00000000       0x82 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_gpio_9054eec4.o
+ .text.gpio_get_pull
+                0x00000000       0x82 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_gpio_9054eec4.o
+ .text.gpio_set_schmitt
+                0x00000000       0x9a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_gpio_9054eec4.o
+ .text.gpio_put_all
+                0x00000000       0x50 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_gpio_9054eec4.o
+ .text.gpio_get_all
+                0x00000000       0x4a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_gpio_9054eec4.o
+ .text.gpio_set_dir_masked
+                0x00000000       0x50 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_gpio_9054eec4.o
+ .text.gpio_get_dir
+                0x00000000       0x82 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_gpio_9054eec4.o
+ .rodata.__PRETTY_FUNCTION__.0
+                0x00000000        0xd C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_gpio_9054eec4.o
+ .rodata.__PRETTY_FUNCTION__.1
+                0x00000000       0x14 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_gpio_9054eec4.o
+ .rodata.__PRETTY_FUNCTION__.2
+                0x00000000        0xd C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_gpio_9054eec4.o
+ .rodata.__PRETTY_FUNCTION__.3
+                0x00000000        0xd C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_gpio_9054eec4.o
+ .rodata.__PRETTY_FUNCTION__.4
+                0x00000000       0x11 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_gpio_9054eec4.o
+ .rodata.__PRETTY_FUNCTION__.5
+                0x00000000        0xe C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_gpio_9054eec4.o
+ .rodata.__PRETTY_FUNCTION__.9
+                0x00000000        0x9 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_gpio_9054eec4.o
+ .rodata.__PRETTY_FUNCTION__.10
+                0x00000000        0x9 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_gpio_9054eec4.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_gpio_9054eec4.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_gpio_9054eec4.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_uart_2b9c0ebf.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_uart_2b9c0ebf.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_uart_2b9c0ebf.o
+ .text.uart_tx_complete_hook
+                0x00000000        0x2 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_uart_2b9c0ebf.o
+ .rodata.uart_write.str1.4
+                0x00000000        0xf C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_uart_2b9c0ebf.o
+ .text.uart_write
+                0x00000000      0x14c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_uart_2b9c0ebf.o
+ .text.uart_putc
+                0x00000000       0x4a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_uart_2b9c0ebf.o
+ .rodata.uart_puts.str1.4
+                0x00000000        0xc C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_uart_2b9c0ebf.o
+ .text.uart_puts
+                0x00000000       0x92 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_uart_2b9c0ebf.o
+ .text.uart_is_readable
+                0x00000000       0x4c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_uart_2b9c0ebf.o
+ .text.uart_getc
+                0x00000000       0x7c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_uart_2b9c0ebf.o
+ .text.uart_get_perclk
+                0x00000000       0x2e C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_uart_2b9c0ebf.o
+ .text.uart_write_async
+                0x00000000       0x9e C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_uart_2b9c0ebf.o
+ .text.uart_write_done
+                0x00000000       0x90 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_uart_2b9c0ebf.o
+ .text.uart_write_wait
+                0x00000000       0x3e C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_uart_2b9c0ebf.o
+ .rodata.__PRETTY_FUNCTION__.0
+                0x00000000       0x10 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_uart_2b9c0ebf.o
+ .rodata.__PRETTY_FUNCTION__.1
+                0x00000000        0xa C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_uart_2b9c0ebf.o
+ .rodata.__PRETTY_FUNCTION__.2
+                0x00000000       0x11 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_uart_2b9c0ebf.o
+ .rodata.__PRETTY_FUNCTION__.3
+                0x00000000        0xa C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_uart_2b9c0ebf.o
+ .rodata.__PRETTY_FUNCTION__.4
+                0x00000000        0xa C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_uart_2b9c0ebf.o
+ .rodata.__PRETTY_FUNCTION__.5
+                0x00000000        0xb C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_uart_2b9c0ebf.o
+ .sbss.s_uart_tx_notified
+                0x00000000        0x4 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_uart_2b9c0ebf.o
+ .sbss.s_uart_tx_busy
+                0x00000000        0x4 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_uart_2b9c0ebf.o
+ .dma_buffers   0x00000000      0x100 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_uart_2b9c0ebf.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_uart_2b9c0ebf.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_uart_2b9c0ebf.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_irq_bff3f790.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_irq_bff3f790.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_irq_bff3f790.o
+ .text.irq_init
+                0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_irq_bff3f790.o
+ .text.irq_set_handler
+                0x00000000       0x16 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_irq_bff3f790.o
+ .rodata.irq_enable.str1.4
+                0x00000000       0x85 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_irq_bff3f790.o
+ .text.irq_enable
+                0x00000000       0x6a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_irq_bff3f790.o
+ .text.irq_enable_events
+                0x00000000       0x2e C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_irq_bff3f790.o
+ .text.irq_disable
+                0x00000000       0x50 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_irq_bff3f790.o
+ .rodata.__PRETTY_FUNCTION__.0
+                0x00000000        0xc C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_irq_bff3f790.o
+ .rodata.__PRETTY_FUNCTION__.1
+                0x00000000        0xb C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_irq_bff3f790.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_irq_bff3f790.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_irq_bff3f790.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao_delay_09c3a55a.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao_delay_09c3a55a.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao_delay_09c3a55a.o
+ .text.delay_us
+                0x00000000       0x22 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao_delay_09c3a55a.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao_delay_09c3a55a.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao_delay_09c3a55a.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao_stdio_b6cd46e2.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao_stdio_b6cd46e2.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao_stdio_b6cd46e2.o
+ .text.print_unsigned
+                0x00000000       0x8c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao_stdio_b6cd46e2.o
+ .rodata.mini_printf.str1.4
+                0x00000000       0x86 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao_stdio_b6cd46e2.o
+ .text.mini_printf
+                0x00000000      0x170 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao_stdio_b6cd46e2.o
+ .rodata.__PRETTY_FUNCTION__.0
+                0x00000000        0xc C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao_stdio_b6cd46e2.o
+ .debug_info    0x00000000      0x330 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao_stdio_b6cd46e2.o
+ .debug_abbrev  0x00000000      0x180 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao_stdio_b6cd46e2.o
+ .debug_loclists
+                0x00000000      0x1d0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao_stdio_b6cd46e2.o
+ .debug_aranges
+                0x00000000       0x28 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao_stdio_b6cd46e2.o
+ .debug_rnglists
+                0x00000000       0x2d C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao_stdio_b6cd46e2.o
+ .debug_line    0x00000000      0x42e C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao_stdio_b6cd46e2.o
+ .debug_str     0x00000000      0x240 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao_stdio_b6cd46e2.o
+ .debug_line_str
+                0x00000000      0x3a9 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao_stdio_b6cd46e2.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao_stdio_b6cd46e2.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao_stdio_b6cd46e2.o
+ .debug_frame   0x00000000       0x7c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao_stdio_b6cd46e2.o
+ .riscv.attributes
+                0x00000000       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao_stdio_b6cd46e2.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao_stdlib_51aafccb.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao_stdlib_51aafccb.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao_stdlib_51aafccb.o
+ .text.memcpy   0x00000000       0x1c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao_stdlib_51aafccb.o
+ .text.memset   0x00000000       0x12 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao_stdlib_51aafccb.o
+ .rodata.memcmp.str1.4
+                0x00000000       0x90 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao_stdlib_51aafccb.o
+ .text.memcmp   0x00000000       0x8c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao_stdlib_51aafccb.o
+ .text.strchr   0x00000000       0x20 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao_stdlib_51aafccb.o
+ .text.trap_dispatch
+                0x00000000       0x38 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao_stdlib_51aafccb.o
+ .srodata.__PRETTY_FUNCTION__.0
+                0x00000000        0x7 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao_stdlib_51aafccb.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao_stdlib_51aafccb.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao_stdlib_51aafccb.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_gpio_6fb6af80.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_gpio_6fb6af80.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_gpio_6fb6af80.o
+ .text.digital_write
+                0x00000000       0x5a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_gpio_6fb6af80.o
+ .text.digital_read
+                0x00000000       0x50 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_gpio_6fb6af80.o
+ .rodata.__PRETTY_FUNCTION__.1
+                0x00000000        0xd C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_gpio_6fb6af80.o
+ .rodata.__PRETTY_FUNCTION__.2
+                0x00000000        0xe C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_gpio_6fb6af80.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_gpio_6fb6af80.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_gpio_6fb6af80.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_main_620c9b9a.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_main_620c9b9a.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_main_620c9b9a.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_main_620c9b9a.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_main_620c9b9a.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_tick_d798bda6.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_tick_d798bda6.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_tick_d798bda6.o
+ .text.rovari_tick_init
+                0x00000000        0x2 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_tick_d798bda6.o
+ .text.micros   0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_tick_d798bda6.o
+ .debug_info    0x00000000      0x128 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_tick_d798bda6.o
+ .debug_abbrev  0x00000000       0xb7 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_tick_d798bda6.o
+ .debug_loclists
+                0x00000000       0x52 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_tick_d798bda6.o
+ .debug_aranges
+                0x00000000       0x28 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_tick_d798bda6.o
+ .debug_rnglists
+                0x00000000       0x19 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_tick_d798bda6.o
+ .debug_line    0x00000000       0xda C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_tick_d798bda6.o
+ .debug_str     0x00000000      0x1b2 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_tick_d798bda6.o
+ .debug_line_str
+                0x00000000      0x2ba C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_tick_d798bda6.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_tick_d798bda6.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_tick_d798bda6.o
+ .debug_frame   0x00000000       0x3c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_tick_d798bda6.o
+ .riscv.attributes
+                0x00000000       0x67 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_tick_d798bda6.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_button_b4b82f26.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_button_b4b82f26.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_button_b4b82f26.o
+ .text.find     0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_button_b4b82f26.o
+ .text.update   0x00000000       0x7c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_button_b4b82f26.o
+ .text.button_begin
+                0x00000000       0x72 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_button_b4b82f26.o
+ .text.button_pressed
+                0x00000000       0x32 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_button_b4b82f26.o
+ .text.button_released
+                0x00000000       0x32 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_button_b4b82f26.o
+ .text.button_held
+                0x00000000       0x46 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_button_b4b82f26.o
+ .text.button_state
+                0x00000000       0x2a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_button_b4b82f26.o
+ .bss.s_buttons
+                0x00000000       0x50 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_button_b4b82f26.o
+ .debug_info    0x00000000      0x4f7 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_button_b4b82f26.o
+ .debug_abbrev  0x00000000      0x1f4 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_button_b4b82f26.o
+ .debug_loclists
+                0x00000000      0x242 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_button_b4b82f26.o
+ .debug_aranges
+                0x00000000       0x50 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_button_b4b82f26.o
+ .debug_rnglists
+                0x00000000       0x52 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_button_b4b82f26.o
+ .debug_line    0x00000000      0x583 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_button_b4b82f26.o
+ .debug_str     0x00000000      0x2bb C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_button_b4b82f26.o
+ .debug_line_str
+                0x00000000      0x264 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_button_b4b82f26.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_button_b4b82f26.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_button_b4b82f26.o
+ .debug_frame   0x00000000      0x108 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_button_b4b82f26.o
+ .riscv.attributes
+                0x00000000       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_button_b4b82f26.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_uart_dca14ff7.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_uart_dca14ff7.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_uart_dca14ff7.o
+ .text.rovari_uart_init
+                0x00000000        0x8 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_uart_dca14ff7.o
+ .text.rovari_uart_putc
+                0x00000000        0x8 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_uart_dca14ff7.o
+ .text.rovari_uart_puts
+                0x00000000        0x8 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_uart_dca14ff7.o
+ .text.rovari_uart_write
+                0x00000000        0x8 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_uart_dca14ff7.o
+ .text.rovari_uart_readable
+                0x00000000        0x8 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_uart_dca14ff7.o
+ .text.rovari_uart_getc
+                0x00000000        0x8 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_uart_dca14ff7.o
+ .text.rovari_printf
+                0x00000000       0x14 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_uart_dca14ff7.o
+ .debug_info    0x00000000      0x397 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_uart_dca14ff7.o
+ .debug_abbrev  0x00000000      0x12c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_uart_dca14ff7.o
+ .debug_loclists
+                0x00000000      0x14b C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_uart_dca14ff7.o
+ .debug_aranges
+                0x00000000       0x50 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_uart_dca14ff7.o
+ .debug_rnglists
+                0x00000000       0x37 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_uart_dca14ff7.o
+ .debug_line    0x00000000      0x163 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_uart_dca14ff7.o
+ .debug_str     0x00000000      0x256 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_uart_dca14ff7.o
+ .debug_line_str
+                0x00000000      0x335 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_uart_dca14ff7.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_uart_dca14ff7.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_uart_dca14ff7.o
+ .debug_frame   0x00000000       0x88 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_uart_dca14ff7.o
+ .riscv.attributes
+                0x00000000       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_uart_dca14ff7.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/sevs_assert_target_1358f0b7.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/sevs_assert_target_1358f0b7.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/sevs_assert_target_1358f0b7.o
+ .text.sevs_target_pop_crash_record
+                0x00000000       0x46 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/sevs_assert_target_1358f0b7.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/sevs_assert_target_1358f0b7.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/sevs_assert_target_1358f0b7.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-init.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-init.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-init.o)
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-init.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-init.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+SIGBLOCK         0x60060000         0x00000300         r
+RRAM             0x60060300         0x00399d00         xr
+SRAM             0x61000000         0x00200000         xrw
+IFRAM            0x50000000         0x00020000         rw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/app_5426cfbc.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari.blocks_e0548218.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/baochip1x_it_9b5f0530.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/startup_5da4bd9d.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_gpio_9054eec4.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_uart_2b9c0ebf.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_irq_bff3f790.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao_delay_09c3a55a.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao_stdio_b6cd46e2.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao_stdlib_51aafccb.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_gpio_6fb6af80.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_main_620c9b9a.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_tick_d798bda6.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_button_b4b82f26.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_uart_dca14ff7.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/sevs_assert_target_1358f0b7.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libstdc++_nano.a
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libm_nano.a
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0\libgcc.a
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0\libgcc.a
+START GROUP
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0\libgcc.a
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libnosys.a
+END GROUP
+START GROUP
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0\libgcc.a
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libnosys.a
+END GROUP
+                0x00002000                        _stack_size = 0x2000
+                0x61200000                        _stack_top = (ORIGIN (SRAM) + LENGTH (SRAM))
+
+.text           0x60060300      0xe68
+ *(.text.start)
+ .text.start    0x60060300      0x13a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/startup_5da4bd9d.o
+                0x60060300                _start
+                0x60060370                _trap_entry
+ *(.text .text.*)
+ .text.app_init
+                0x6006043a        0x6 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/app_5426cfbc.o
+                0x6006043a                app_init
+ .text.app_run  0x60060440       0x42 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/app_5426cfbc.o
+                0x60060440                app_run
+ .text.gpio_set_function
+                0x60060482       0x9a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_gpio_9054eec4.o
+                0x60060482                gpio_set_function
+ .text.gpio_set_dir
+                0x6006051c       0x8e C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_gpio_9054eec4.o
+                0x6006051c                gpio_set_dir
+ .text.gpio_toggle
+                0x600605aa       0x7a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_gpio_9054eec4.o
+                0x600605aa                gpio_toggle
+ .text.gpio_pull_up
+                0x60060624       0x7a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_gpio_9054eec4.o
+                0x60060624                gpio_pull_up
+ .text.gpio_disable_pulls
+                0x6006069e       0x7e C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_gpio_9054eec4.o
+                0x6006069e                gpio_disable_pulls
+ .text.gpio_init
+                0x6006071c       0x76 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_gpio_9054eec4.o
+                0x6006071c                gpio_init
+ .text.uart_init
+                0x60060792      0x114 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_uart_2b9c0ebf.o
+                0x60060792                uart_init
+ .text.trap_dispatch
+                0x600608a6       0xbc C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_irq_bff3f790.o
+                0x600608a6                trap_dispatch
+ .text.ticktimer_init
+                0x60060962       0x20 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao_delay_09c3a55a.o
+ .text.millis   0x60060982       0x40 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao_delay_09c3a55a.o
+                0x60060982                millis
+ .text.delay_ms
+                0x600609c2       0x3c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao_delay_09c3a55a.o
+                0x600609c2                delay_ms
+ .text.setup_default_uart
+                0x600609fe        0xa C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao_stdlib_51aafccb.o
+                0x600609fe                setup_default_uart
+ .text.bao_init
+                0x60060a08        0xe C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao_stdlib_51aafccb.o
+                0x60060a08                bao_init
+ .text.pin_mode
+                0x60060a16       0x86 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_gpio_6fb6af80.o
+                0x60060a16                pin_mode
+ .text.pin_toggle
+                0x60060a9c       0x44 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_gpio_6fb6af80.o
+                0x60060a9c                pin_toggle
+ .text.startup.main
+                0x60060ae0        0xe C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_main_620c9b9a.o
+                0x60060ae0                main
+ .text.copy_clipped
+                0x60060aee       0x2c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/sevs_assert_target_1358f0b7.o
+ .text.sevs_target_disable_irq
+                0x60060b1a        0x2 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/sevs_assert_target_1358f0b7.o
+                0x60060b1a                sevs_target_disable_irq
+ .text.sevs_target_uart_write_str
+                0x60060b1c        0x2 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/sevs_assert_target_1358f0b7.o
+                0x60060b1c                sevs_target_uart_write_str
+ .text.sevs_target_halt
+                0x60060b1e        0x2 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/sevs_assert_target_1358f0b7.o
+                0x60060b1e                sevs_target_halt
+ .text.sevs_assert_fail
+                0x60060b20      0x2cc C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/sevs_assert_target_1358f0b7.o
+                0x60060b20                sevs_assert_fail
+ .text.__libc_init_array
+                0x60060dec       0x5e C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-init.o)
+                0x60060dec                __libc_init_array
+ *(.rodata .rodata.*)
+ *fill*         0x60060e4a        0x2 
+ .rodata.gpio_set_function.str1.4
+                0x60060e4c      0x218 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_gpio_9054eec4.o
+                                 0xa4 (size before relaxing)
+ .rodata.__PRETTY_FUNCTION__.6
+                0x60061064       0x13 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_gpio_9054eec4.o
+ *fill*         0x60061077        0x1 
+ .rodata.__PRETTY_FUNCTION__.7
+                0x60061078        0xd C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_gpio_9054eec4.o
+ *fill*         0x60061085        0x3 
+ .rodata.__PRETTY_FUNCTION__.8
+                0x60061088        0xc C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_gpio_9054eec4.o
+ .rodata.__PRETTY_FUNCTION__.11
+                0x60061094        0xd C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_gpio_9054eec4.o
+ *fill*         0x600610a1        0x3 
+ .rodata.__PRETTY_FUNCTION__.12
+                0x600610a4        0xa C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_gpio_9054eec4.o
+ *fill*         0x600610ae        0x2 
+ .rodata.__PRETTY_FUNCTION__.13
+                0x600610b0       0x12 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_gpio_9054eec4.o
+ .rodata.uart_init.str1.4
+                0x600610c2        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_uart_2b9c0ebf.o
+                                 0xa6 (size before relaxing)
+ *fill*         0x600610c2        0x2 
+ .rodata.__PRETTY_FUNCTION__.6
+                0x600610c4        0xa C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_uart_2b9c0ebf.o
+ *fill*         0x600610ce        0x2 
+ .rodata.uart_cg
+                0x600610d0       0x10 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_uart_2b9c0ebf.o
+ .rodata.uart_base
+                0x600610e0       0x10 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_uart_2b9c0ebf.o
+ .rodata.irq_array_base
+                0x600610f0       0x50 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_irq_bff3f790.o
+ .rodata.pin_mode.str1.4
+                0x60061140        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_gpio_6fb6af80.o
+                                 0x89 (size before relaxing)
+ .rodata.__PRETTY_FUNCTION__.0
+                0x60061140        0xb C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_gpio_6fb6af80.o
+ *fill*         0x6006114b        0x1 
+ .rodata.__PRETTY_FUNCTION__.3
+                0x6006114c        0x9 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_gpio_6fb6af80.o
+ .rodata.sevs_assert_fail.str1.4
+                0x60061155        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/sevs_assert_target_1358f0b7.o
+                                 0x17 (size before relaxing)
+ .rodata.str1.4
+                0x60061155        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/sevs_assert_target_1358f0b7.o
+                                 0x28 (size before relaxing)
+ *fill*         0x60061155        0x3 
+ .rodata.CSWTCH.27
+                0x60061158       0x10 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/sevs_assert_target_1358f0b7.o
+                0x60061168                        . = ALIGN (0x4)
+
+.rela.dyn       0x60061168        0x0
+ .rela.text.start
+                0x60061168        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/app_5426cfbc.o
+ .rela.text.__libc_init_array
+                0x60061168        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/app_5426cfbc.o
+
+.preinit_array  0x60061168        0x0
+                0x60061168                        PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x60061168                        PROVIDE (__preinit_array_end = .)
+
+.init_array     0x60061168        0x0
+                0x60061168                        PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array*)
+                0x60061168                        PROVIDE (__init_array_end = .)
+
+.fini_array     0x60061168        0x0
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+                [!provide]                        PROVIDE (__fini_array_end = .)
+
+.data           0x61000000        0x0 load address 0x60061168
+                0x61000000                        _data_start = .
+ *(.data .data.*)
+ *(.sdata .sdata.*)
+                0x61000000                        . = ALIGN (0x4)
+                0x61000000                        _data_end = .
+                0x60061168                        _data_lma = LOADADDR (.data)
+
+.bss            0x61000000       0x90 load address 0x60061168
+                0x61000000                        _bss_start = .
+ *(.bss .bss.*)
+ .bss.irq_handlers
+                0x61000000       0x7c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_irq_bff3f790.o
+ *(.sbss .sbss.*)
+ *fill*         0x6100007c        0x4 
+ .sbss.last_toggle
+                0x61000080        0x8 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/app_5426cfbc.o
+                0x61000080                last_toggle
+ .sbss.s_perclk
+                0x61000088        0x4 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_uart_2b9c0ebf.o
+ .sbss.s_ticktimer_initialized
+                0x6100008c        0x4 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao_delay_09c3a55a.o
+ *(COMMON)
+                0x61000090                        . = ALIGN (0x4)
+                0x61000090                        _bss_end = .
+
+.dma_buffers    0x50000000        0x0
+                0x50000000                        _dma_start = .
+ *(.dma_buffers .dma_buffers.*)
+                0x50000000                        . = ALIGN (0x4)
+                0x50000000                        _dma_end = .
+                0x61000800                        __global_pointer$ = (_data_start + 0x800)
+
+.stack          0x61000090     0x2000
+                0x61002090                        . = (. + _stack_size)
+ *fill*         0x61000090     0x2000 
+
+/DISCARD/
+ *(.comment)
+ *(.note.*)
+ *(.eh_frame*)
+OUTPUT(system\build\app.elf elf32-littleriscv)
+
+.riscv.attributes
+                0x00000000       0x67
+ .riscv.attributes
+                0x00000000       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/app_5426cfbc.o
+ .riscv.attributes
+                0x00000063       0x65 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/startup_5da4bd9d.o
+ .riscv.attributes
+                0x000000c8       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_gpio_9054eec4.o
+ .riscv.attributes
+                0x0000012b       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_uart_2b9c0ebf.o
+ .riscv.attributes
+                0x0000018e       0x67 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_irq_bff3f790.o
+ .riscv.attributes
+                0x000001f5       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao_delay_09c3a55a.o
+ .riscv.attributes
+                0x00000258       0x67 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao_stdlib_51aafccb.o
+ .riscv.attributes
+                0x000002bf       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_gpio_6fb6af80.o
+ .riscv.attributes
+                0x00000322       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_main_620c9b9a.o
+ .riscv.attributes
+                0x00000385       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/sevs_assert_target_1358f0b7.o
+ .riscv.attributes
+                0x000003e8       0x4e C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-init.o)
+
+.debug_info     0x00000000     0x3867
+ .debug_info    0x00000000      0x1b4 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/app_5426cfbc.o
+ .debug_info    0x000001b4       0x25 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/startup_5da4bd9d.o
+ .debug_info    0x000001d9      0xf5a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_gpio_9054eec4.o
+ .debug_info    0x00001133      0xea6 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_uart_2b9c0ebf.o
+ .debug_info    0x00001fd9      0x5c6 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_irq_bff3f790.o
+ .debug_info    0x0000259f      0x20c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao_delay_09c3a55a.o
+ .debug_info    0x000027ab      0x4b1 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao_stdlib_51aafccb.o
+ .debug_info    0x00002c5c      0x5e6 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_gpio_6fb6af80.o
+ .debug_info    0x00003242       0xc8 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_main_620c9b9a.o
+ .debug_info    0x0000330a      0x55d C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/sevs_assert_target_1358f0b7.o
+
+.debug_abbrev   0x00000000     0x1099
+ .debug_abbrev  0x00000000       0xed C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/app_5426cfbc.o
+ .debug_abbrev  0x000000ed       0x14 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/startup_5da4bd9d.o
+ .debug_abbrev  0x00000101      0x1ff C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_gpio_9054eec4.o
+ .debug_abbrev  0x00000300      0x3f7 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_uart_2b9c0ebf.o
+ .debug_abbrev  0x000006f7      0x273 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_irq_bff3f790.o
+ .debug_abbrev  0x0000096a      0x121 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao_delay_09c3a55a.o
+ .debug_abbrev  0x00000a8b      0x1b1 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao_stdlib_51aafccb.o
+ .debug_abbrev  0x00000c3c      0x179 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_gpio_6fb6af80.o
+ .debug_abbrev  0x00000db5       0x61 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_main_620c9b9a.o
+ .debug_abbrev  0x00000e16      0x283 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/sevs_assert_target_1358f0b7.o
+
+.debug_aranges  0x00000000      0x2b0
+ .debug_aranges
+                0x00000000       0x28 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/app_5426cfbc.o
+ .debug_aranges
+                0x00000028       0x20 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/startup_5da4bd9d.o
+ .debug_aranges
+                0x00000048       0x88 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_gpio_9054eec4.o
+ .debug_aranges
+                0x000000d0       0x70 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_uart_2b9c0ebf.o
+ .debug_aranges
+                0x00000140       0x48 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_irq_bff3f790.o
+ .debug_aranges
+                0x00000188       0x38 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao_delay_09c3a55a.o
+ .debug_aranges
+                0x000001c0       0x50 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao_stdlib_51aafccb.o
+ .debug_aranges
+                0x00000210       0x38 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_gpio_6fb6af80.o
+ .debug_aranges
+                0x00000248       0x20 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_main_620c9b9a.o
+ .debug_aranges
+                0x00000268       0x48 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/sevs_assert_target_1358f0b7.o
+
+.debug_rnglists
+                0x00000000      0x2ad
+ .debug_rnglists
+                0x00000000       0x19 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/app_5426cfbc.o
+ .debug_rnglists
+                0x00000019       0x6c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_gpio_9054eec4.o
+ .debug_rnglists
+                0x00000085       0x99 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_uart_2b9c0ebf.o
+ .debug_rnglists
+                0x0000011e       0x7d C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_irq_bff3f790.o
+ .debug_rnglists
+                0x0000019b       0x25 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao_delay_09c3a55a.o
+ .debug_rnglists
+                0x000001c0       0x38 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao_stdlib_51aafccb.o
+ .debug_rnglists
+                0x000001f8       0x26 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_gpio_6fb6af80.o
+ .debug_rnglists
+                0x0000021e       0x13 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_main_620c9b9a.o
+ .debug_rnglists
+                0x00000231       0x7c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/sevs_assert_target_1358f0b7.o
+
+.debug_line     0x00000000     0x3474
+ .debug_line    0x00000000      0x10f C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/app_5426cfbc.o
+ .debug_line    0x0000010f      0x2a8 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/startup_5da4bd9d.o
+ .debug_line    0x000003b7      0xaf4 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_gpio_9054eec4.o
+ .debug_line    0x00000eab      0xebc C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_uart_2b9c0ebf.o
+ .debug_line    0x00001d67      0x52d C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_irq_bff3f790.o
+ .debug_line    0x00002294      0x2db C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao_delay_09c3a55a.o
+ .debug_line    0x0000256f      0x364 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao_stdlib_51aafccb.o
+ .debug_line    0x000028d3      0x316 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_gpio_6fb6af80.o
+ .debug_line    0x00002be9       0x91 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_main_620c9b9a.o
+ .debug_line    0x00002c7a      0x7fa C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/sevs_assert_target_1358f0b7.o
+
+.debug_str      0x00000000      0x9ea
+ .debug_str     0x00000000      0x9ea C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/app_5426cfbc.o
+                                0x26f (size before relaxing)
+ .debug_str     0x000009ea        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/startup_5da4bd9d.o
+                                 0xb7 (size before relaxing)
+ .debug_str     0x000009ea        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_gpio_9054eec4.o
+                                0x363 (size before relaxing)
+ .debug_str     0x000009ea        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_uart_2b9c0ebf.o
+                                0x44d (size before relaxing)
+ .debug_str     0x000009ea        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_irq_bff3f790.o
+                                0x31a (size before relaxing)
+ .debug_str     0x000009ea        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao_delay_09c3a55a.o
+                                0x1f3 (size before relaxing)
+ .debug_str     0x000009ea        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao_stdlib_51aafccb.o
+                                0x2d8 (size before relaxing)
+ .debug_str     0x000009ea        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_gpio_6fb6af80.o
+                                0x2dd (size before relaxing)
+ .debug_str     0x000009ea        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_main_620c9b9a.o
+                                0x17d (size before relaxing)
+ .debug_str     0x000009ea        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/sevs_assert_target_1358f0b7.o
+                                0x2b0 (size before relaxing)
+
+.debug_line_str
+                0x00000000      0x8a0
+ .debug_line_str
+                0x00000000      0x8a0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/app_5426cfbc.o
+                                0x2fd (size before relaxing)
+ .debug_line_str
+                0x000008a0        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/startup_5da4bd9d.o
+                                 0xab (size before relaxing)
+ .debug_line_str
+                0x000008a0        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_gpio_9054eec4.o
+                                0x3ab (size before relaxing)
+ .debug_line_str
+                0x000008a0        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_uart_2b9c0ebf.o
+                                0x3ab (size before relaxing)
+ .debug_line_str
+                0x000008a0        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_irq_bff3f790.o
+                                0x33b (size before relaxing)
+ .debug_line_str
+                0x000008a0        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao_delay_09c3a55a.o
+                                0x2b8 (size before relaxing)
+ .debug_line_str
+                0x000008a0        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao_stdlib_51aafccb.o
+                                0x444 (size before relaxing)
+ .debug_line_str
+                0x000008a0        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_gpio_6fb6af80.o
+                                0x352 (size before relaxing)
+ .debug_line_str
+                0x000008a0        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_main_620c9b9a.o
+                                0x1b1 (size before relaxing)
+ .debug_line_str
+                0x000008a0        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/sevs_assert_target_1358f0b7.o
+                                0x2f5 (size before relaxing)
+
+.debug_frame    0x00000000      0x774
+ .debug_frame   0x00000000       0x4c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/app_5426cfbc.o
+ .debug_frame   0x0000004c      0x220 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_gpio_9054eec4.o
+ .debug_frame   0x0000026c      0x18c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_uart_2b9c0ebf.o
+ .debug_frame   0x000003f8       0xc8 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_irq_bff3f790.o
+ .debug_frame   0x000004c0       0x80 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao_delay_09c3a55a.o
+ .debug_frame   0x00000540       0xb0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao_stdlib_51aafccb.o
+ .debug_frame   0x000005f0       0xb8 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_gpio_6fb6af80.o
+ .debug_frame   0x000006a8       0x28 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_main_620c9b9a.o
+ .debug_frame   0x000006d0       0xa4 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/sevs_assert_target_1358f0b7.o
+
+.debug_loclists
+                0x00000000     0x1c88
+ .debug_loclists
+                0x00000000      0x87e C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_gpio_9054eec4.o
+ .debug_loclists
+                0x0000087e      0x819 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_uart_2b9c0ebf.o
+ .debug_loclists
+                0x00001097      0x135 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao1x_irq_bff3f790.o
+ .debug_loclists
+                0x000011cc       0xb2 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao_delay_09c3a55a.o
+ .debug_loclists
+                0x0000127e      0x21c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/bao_stdlib_51aafccb.o
+ .debug_loclists
+                0x0000149a      0x27f C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/rovari_gpio_6fb6af80.o
+ .debug_loclists
+                0x00001719      0x56f C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/02_Millis/system/build/sevs_assert_target_1358f0b7.o

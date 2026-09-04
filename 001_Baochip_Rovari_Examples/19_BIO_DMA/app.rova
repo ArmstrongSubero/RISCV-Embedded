@@ -1,0 +1,70 @@
+/*
+ * Copyright (c) 2026 Armstrong Subero
+ *
+ * Program:  19_BIO_DMA (C style)
+ * Platform: Baochip-1x / Rovari SDK
+ * Hardware: none (uses BIO core 3 as DMA engine)
+ *
+ * Hardware memory copy at 700 MHz using the BIO coprocessor.
+ * Core 3 is reserved for DMA while active.
+ */
+
+#include "rovari.h"
+#include <string.h>
+
+extern "C" {
+#include "hardware/bio_dma.h"
+}
+
+#define TEST_SIZE  65536
+
+static uint8_t src_buf[TEST_SIZE] __attribute__((aligned(4)));
+static uint8_t dst_buf[TEST_SIZE] __attribute__((aligned(4)));
+
+void app_init(void)
+{
+    bio_dma_init();
+    mini_printf("BIO DMA Memory Copy Demo (64K)\r\n\r\n");
+}
+
+void app_run(void)
+{
+    int errors;
+
+    for (int i = 0; i < TEST_SIZE; i++)
+    {
+        ((volatile uint8_t *)src_buf)[i] = (uint8_t)(i & 0xFF);
+        ((volatile uint8_t *)dst_buf)[i] = 0;
+    }
+
+    uint64_t t0 = millis();
+    bio_dma_memcpy(dst_buf, src_buf, TEST_SIZE);
+    uint64_t t1 = millis();
+
+    errors = 0;
+    for (int i = 0; i < TEST_SIZE; i++)
+    {
+        if (((volatile uint8_t *)dst_buf)[i] !=
+            ((volatile uint8_t *)src_buf)[i]) errors++;
+    }
+    
+    mini_printf("BIO DMA: %u ms, errors: %d\r\n",
+                (uint32_t)(t1 - t0), errors);
+
+    for (int i = 0; i < TEST_SIZE; i++) dst_buf[i] = 0;
+
+    t0 = millis();
+    memcpy(dst_buf, src_buf, TEST_SIZE);
+    t1 = millis();
+
+    errors = 0;
+    for (int i = 0; i < TEST_SIZE; i++)
+    {
+        if (dst_buf[i] != src_buf[i]) errors++;
+    }
+    
+    mini_printf("CPU:     %u ms, errors: %d\r\n\r\n",
+                (uint32_t)(t1 - t0), errors);
+
+    delay(5000);
+}

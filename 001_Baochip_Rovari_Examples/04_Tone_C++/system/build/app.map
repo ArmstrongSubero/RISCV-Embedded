@@ -1,0 +1,951 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-init.o)
+                              C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_main_620c9b9a.o (__libc_init_array)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/app_0d1161bb.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/app_0d1161bb.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/app_0d1161bb.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/app_0d1161bb.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/app_0d1161bb.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari.blocks_cf4539e5.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari.blocks_cf4539e5.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari.blocks_cf4539e5.o
+ .text._Z10block_initv
+                0x00000000        0x2 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari.blocks_cf4539e5.o
+ .text._Z9block_runv
+                0x00000000        0x2 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari.blocks_cf4539e5.o
+ .debug_info    0x00000000       0xb3 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari.blocks_cf4539e5.o
+ .debug_abbrev  0x00000000       0x65 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari.blocks_cf4539e5.o
+ .debug_aranges
+                0x00000000       0x28 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari.blocks_cf4539e5.o
+ .debug_rnglists
+                0x00000000       0x19 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari.blocks_cf4539e5.o
+ .debug_line    0x00000000       0x69 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari.blocks_cf4539e5.o
+ .debug_str     0x00000000      0x1dd C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari.blocks_cf4539e5.o
+ .debug_line_str
+                0x00000000      0x12b C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari.blocks_cf4539e5.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari.blocks_cf4539e5.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari.blocks_cf4539e5.o
+ .debug_frame   0x00000000       0x30 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari.blocks_cf4539e5.o
+ .riscv.attributes
+                0x00000000       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari.blocks_cf4539e5.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/baochip1x_it_43f2d888.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/baochip1x_it_43f2d888.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/baochip1x_it_43f2d888.o
+ .debug_info    0x00000000       0x65 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/baochip1x_it_43f2d888.o
+ .debug_abbrev  0x00000000       0x26 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/baochip1x_it_43f2d888.o
+ .debug_aranges
+                0x00000000       0x18 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/baochip1x_it_43f2d888.o
+ .debug_line    0x00000000       0x44 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/baochip1x_it_43f2d888.o
+ .debug_str     0x00000000      0x14c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/baochip1x_it_43f2d888.o
+ .debug_line_str
+                0x00000000      0x113 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/baochip1x_it_43f2d888.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/baochip1x_it_43f2d888.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/baochip1x_it_43f2d888.o
+ .riscv.attributes
+                0x00000000       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/baochip1x_it_43f2d888.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/startup_a3fab3e8.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/startup_a3fab3e8.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/startup_a3fab3e8.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_gpio_9054eec4.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_gpio_9054eec4.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_gpio_9054eec4.o
+ .text.gpio_put
+                0x00000000       0x9a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_gpio_9054eec4.o
+ .text.gpio_get
+                0x00000000       0x82 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_gpio_9054eec4.o
+ .text.gpio_toggle
+                0x00000000       0x86 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_gpio_9054eec4.o
+ .text.gpio_disable_pulls
+                0x00000000       0x8a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_gpio_9054eec4.o
+ .text.gpio_init
+                0x00000000       0x94 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_gpio_9054eec4.o
+ .text.gpio_get_pull
+                0x00000000       0x82 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_gpio_9054eec4.o
+ .text.gpio_set_schmitt
+                0x00000000       0x9a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_gpio_9054eec4.o
+ .text.gpio_put_all
+                0x00000000       0x50 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_gpio_9054eec4.o
+ .text.gpio_get_all
+                0x00000000       0x4a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_gpio_9054eec4.o
+ .text.gpio_set_dir_masked
+                0x00000000       0x50 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_gpio_9054eec4.o
+ .text.gpio_get_dir
+                0x00000000       0x82 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_gpio_9054eec4.o
+ .rodata.__PRETTY_FUNCTION__.0
+                0x00000000        0xd C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_gpio_9054eec4.o
+ .rodata.__PRETTY_FUNCTION__.1
+                0x00000000       0x14 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_gpio_9054eec4.o
+ .rodata.__PRETTY_FUNCTION__.2
+                0x00000000        0xd C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_gpio_9054eec4.o
+ .rodata.__PRETTY_FUNCTION__.3
+                0x00000000        0xd C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_gpio_9054eec4.o
+ .rodata.__PRETTY_FUNCTION__.4
+                0x00000000       0x11 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_gpio_9054eec4.o
+ .rodata.__PRETTY_FUNCTION__.5
+                0x00000000        0xe C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_gpio_9054eec4.o
+ .rodata.__PRETTY_FUNCTION__.6
+                0x00000000       0x13 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_gpio_9054eec4.o
+ .rodata.__PRETTY_FUNCTION__.8
+                0x00000000        0xc C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_gpio_9054eec4.o
+ .rodata.__PRETTY_FUNCTION__.9
+                0x00000000        0x9 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_gpio_9054eec4.o
+ .rodata.__PRETTY_FUNCTION__.10
+                0x00000000        0x9 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_gpio_9054eec4.o
+ .rodata.__PRETTY_FUNCTION__.12
+                0x00000000        0xa C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_gpio_9054eec4.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_gpio_9054eec4.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_gpio_9054eec4.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .text.uart_tx_complete_hook
+                0x00000000        0x2 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .rodata.uart_write.str1.4
+                0x00000000        0xf C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .text.uart_write
+                0x00000000      0x14c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .text.uart_putc
+                0x00000000       0x4a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .rodata.uart_puts.str1.4
+                0x00000000        0xc C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .text.uart_puts
+                0x00000000       0x92 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .text.uart_is_readable
+                0x00000000       0x4c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .text.uart_getc
+                0x00000000       0x7c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .text.uart_get_perclk
+                0x00000000       0x2e C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .text.uart_write_async
+                0x00000000       0x9e C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .text.uart_write_done
+                0x00000000       0x90 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .text.uart_write_wait
+                0x00000000       0x3e C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .rodata.__PRETTY_FUNCTION__.0
+                0x00000000       0x10 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .rodata.__PRETTY_FUNCTION__.1
+                0x00000000        0xa C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .rodata.__PRETTY_FUNCTION__.2
+                0x00000000       0x11 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .rodata.__PRETTY_FUNCTION__.3
+                0x00000000        0xa C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .rodata.__PRETTY_FUNCTION__.4
+                0x00000000        0xa C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .rodata.__PRETTY_FUNCTION__.5
+                0x00000000        0xb C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .sbss.s_uart_tx_notified
+                0x00000000        0x4 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .sbss.s_uart_tx_busy
+                0x00000000        0x4 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .dma_buffers   0x00000000      0x100 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_irq_bff3f790.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_irq_bff3f790.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_irq_bff3f790.o
+ .text.irq_init
+                0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_irq_bff3f790.o
+ .text.irq_set_handler
+                0x00000000       0x16 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_irq_bff3f790.o
+ .rodata.irq_enable.str1.4
+                0x00000000       0x85 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_irq_bff3f790.o
+ .text.irq_enable
+                0x00000000       0x6a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_irq_bff3f790.o
+ .text.irq_enable_events
+                0x00000000       0x2e C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_irq_bff3f790.o
+ .text.irq_disable
+                0x00000000       0x50 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_irq_bff3f790.o
+ .rodata.__PRETTY_FUNCTION__.0
+                0x00000000        0xc C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_irq_bff3f790.o
+ .rodata.__PRETTY_FUNCTION__.1
+                0x00000000        0xb C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_irq_bff3f790.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_irq_bff3f790.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_irq_bff3f790.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao_delay_09c3a55a.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao_delay_09c3a55a.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao_delay_09c3a55a.o
+ .text.delay_us
+                0x00000000       0x22 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao_delay_09c3a55a.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao_delay_09c3a55a.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao_delay_09c3a55a.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao_stdio_b6cd46e2.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao_stdio_b6cd46e2.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao_stdio_b6cd46e2.o
+ .text.print_unsigned
+                0x00000000       0x8c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao_stdio_b6cd46e2.o
+ .rodata.mini_printf.str1.4
+                0x00000000       0x86 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao_stdio_b6cd46e2.o
+ .text.mini_printf
+                0x00000000      0x170 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao_stdio_b6cd46e2.o
+ .rodata.__PRETTY_FUNCTION__.0
+                0x00000000        0xc C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao_stdio_b6cd46e2.o
+ .debug_info    0x00000000      0x330 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao_stdio_b6cd46e2.o
+ .debug_abbrev  0x00000000      0x180 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao_stdio_b6cd46e2.o
+ .debug_loclists
+                0x00000000      0x1d0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao_stdio_b6cd46e2.o
+ .debug_aranges
+                0x00000000       0x28 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao_stdio_b6cd46e2.o
+ .debug_rnglists
+                0x00000000       0x2d C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao_stdio_b6cd46e2.o
+ .debug_line    0x00000000      0x42e C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao_stdio_b6cd46e2.o
+ .debug_str     0x00000000      0x240 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao_stdio_b6cd46e2.o
+ .debug_line_str
+                0x00000000      0x3ab C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao_stdio_b6cd46e2.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao_stdio_b6cd46e2.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao_stdio_b6cd46e2.o
+ .debug_frame   0x00000000       0x7c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao_stdio_b6cd46e2.o
+ .riscv.attributes
+                0x00000000       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao_stdio_b6cd46e2.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao_stdlib_51aafccb.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao_stdlib_51aafccb.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao_stdlib_51aafccb.o
+ .text.memcpy   0x00000000       0x1c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao_stdlib_51aafccb.o
+ .text.memset   0x00000000       0x12 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao_stdlib_51aafccb.o
+ .rodata.memcmp.str1.4
+                0x00000000       0x90 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao_stdlib_51aafccb.o
+ .text.memcmp   0x00000000       0x8c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao_stdlib_51aafccb.o
+ .text.strchr   0x00000000       0x20 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao_stdlib_51aafccb.o
+ .text.trap_dispatch
+                0x00000000       0x38 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao_stdlib_51aafccb.o
+ .srodata.__PRETTY_FUNCTION__.0
+                0x00000000        0x7 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao_stdlib_51aafccb.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao_stdlib_51aafccb.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao_stdlib_51aafccb.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_gpio_6fb6af80.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_gpio_6fb6af80.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_gpio_6fb6af80.o
+ .rodata.pin_mode.str1.4
+                0x00000000       0x89 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_gpio_6fb6af80.o
+ .text.pin_mode
+                0x00000000       0xaa C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_gpio_6fb6af80.o
+ .text.digital_write
+                0x00000000       0x5a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_gpio_6fb6af80.o
+ .text.digital_read
+                0x00000000       0x50 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_gpio_6fb6af80.o
+ .text.pin_toggle
+                0x00000000       0x50 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_gpio_6fb6af80.o
+ .rodata.__PRETTY_FUNCTION__.0
+                0x00000000        0xb C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_gpio_6fb6af80.o
+ .rodata.__PRETTY_FUNCTION__.1
+                0x00000000        0xd C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_gpio_6fb6af80.o
+ .rodata.__PRETTY_FUNCTION__.2
+                0x00000000        0xe C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_gpio_6fb6af80.o
+ .rodata.__PRETTY_FUNCTION__.3
+                0x00000000        0x9 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_gpio_6fb6af80.o
+ .debug_info    0x00000000      0x5e6 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_gpio_6fb6af80.o
+ .debug_abbrev  0x00000000      0x179 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_gpio_6fb6af80.o
+ .debug_loclists
+                0x00000000      0x27f C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_gpio_6fb6af80.o
+ .debug_aranges
+                0x00000000       0x38 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_gpio_6fb6af80.o
+ .debug_rnglists
+                0x00000000       0x26 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_gpio_6fb6af80.o
+ .debug_line    0x00000000      0x316 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_gpio_6fb6af80.o
+ .debug_str     0x00000000      0x2dd C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_gpio_6fb6af80.o
+ .debug_line_str
+                0x00000000      0x354 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_gpio_6fb6af80.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_gpio_6fb6af80.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_gpio_6fb6af80.o
+ .debug_frame   0x00000000       0xb8 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_gpio_6fb6af80.o
+ .riscv.attributes
+                0x00000000       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_gpio_6fb6af80.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_main_620c9b9a.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_main_620c9b9a.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_main_620c9b9a.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_main_620c9b9a.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_main_620c9b9a.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_tick_d798bda6.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_tick_d798bda6.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_tick_d798bda6.o
+ .text.rovari_tick_init
+                0x00000000        0x2 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_tick_d798bda6.o
+ .text.micros   0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_tick_d798bda6.o
+ .debug_info    0x00000000      0x128 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_tick_d798bda6.o
+ .debug_abbrev  0x00000000       0xb7 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_tick_d798bda6.o
+ .debug_loclists
+                0x00000000       0x52 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_tick_d798bda6.o
+ .debug_aranges
+                0x00000000       0x28 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_tick_d798bda6.o
+ .debug_rnglists
+                0x00000000       0x19 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_tick_d798bda6.o
+ .debug_line    0x00000000       0xda C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_tick_d798bda6.o
+ .debug_str     0x00000000      0x1b2 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_tick_d798bda6.o
+ .debug_line_str
+                0x00000000      0x2bc C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_tick_d798bda6.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_tick_d798bda6.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_tick_d798bda6.o
+ .debug_frame   0x00000000       0x3c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_tick_d798bda6.o
+ .riscv.attributes
+                0x00000000       0x67 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_tick_d798bda6.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_button_b4b82f26.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_button_b4b82f26.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_button_b4b82f26.o
+ .text.find     0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_button_b4b82f26.o
+ .text.update   0x00000000       0x7c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_button_b4b82f26.o
+ .text.button_begin
+                0x00000000       0x72 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_button_b4b82f26.o
+ .text.button_pressed
+                0x00000000       0x32 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_button_b4b82f26.o
+ .text.button_released
+                0x00000000       0x32 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_button_b4b82f26.o
+ .text.button_held
+                0x00000000       0x46 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_button_b4b82f26.o
+ .text.button_state
+                0x00000000       0x2a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_button_b4b82f26.o
+ .bss.s_buttons
+                0x00000000       0x50 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_button_b4b82f26.o
+ .debug_info    0x00000000      0x4f7 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_button_b4b82f26.o
+ .debug_abbrev  0x00000000      0x1f4 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_button_b4b82f26.o
+ .debug_loclists
+                0x00000000      0x242 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_button_b4b82f26.o
+ .debug_aranges
+                0x00000000       0x50 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_button_b4b82f26.o
+ .debug_rnglists
+                0x00000000       0x52 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_button_b4b82f26.o
+ .debug_line    0x00000000      0x583 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_button_b4b82f26.o
+ .debug_str     0x00000000      0x2bb C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_button_b4b82f26.o
+ .debug_line_str
+                0x00000000      0x266 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_button_b4b82f26.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_button_b4b82f26.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_button_b4b82f26.o
+ .debug_frame   0x00000000      0x108 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_button_b4b82f26.o
+ .riscv.attributes
+                0x00000000       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_button_b4b82f26.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_uart_dca14ff7.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_uart_dca14ff7.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_uart_dca14ff7.o
+ .text.rovari_uart_init
+                0x00000000        0x8 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_uart_dca14ff7.o
+ .text.rovari_uart_putc
+                0x00000000        0x8 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_uart_dca14ff7.o
+ .text.rovari_uart_puts
+                0x00000000        0x8 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_uart_dca14ff7.o
+ .text.rovari_uart_write
+                0x00000000        0x8 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_uart_dca14ff7.o
+ .text.rovari_uart_readable
+                0x00000000        0x8 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_uart_dca14ff7.o
+ .text.rovari_uart_getc
+                0x00000000        0x8 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_uart_dca14ff7.o
+ .text.rovari_printf
+                0x00000000       0x14 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_uart_dca14ff7.o
+ .debug_info    0x00000000      0x397 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_uart_dca14ff7.o
+ .debug_abbrev  0x00000000      0x12c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_uart_dca14ff7.o
+ .debug_loclists
+                0x00000000      0x14b C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_uart_dca14ff7.o
+ .debug_aranges
+                0x00000000       0x50 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_uart_dca14ff7.o
+ .debug_rnglists
+                0x00000000       0x37 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_uart_dca14ff7.o
+ .debug_line    0x00000000      0x163 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_uart_dca14ff7.o
+ .debug_str     0x00000000      0x256 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_uart_dca14ff7.o
+ .debug_line_str
+                0x00000000      0x337 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_uart_dca14ff7.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_uart_dca14ff7.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_uart_dca14ff7.o
+ .debug_frame   0x00000000       0x88 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_uart_dca14ff7.o
+ .riscv.attributes
+                0x00000000       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_uart_dca14ff7.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/sevs_assert_target_1358f0b7.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/sevs_assert_target_1358f0b7.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/sevs_assert_target_1358f0b7.o
+ .text.sevs_target_pop_crash_record
+                0x00000000       0x46 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/sevs_assert_target_1358f0b7.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/sevs_assert_target_1358f0b7.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/sevs_assert_target_1358f0b7.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_pwm_92462713.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_pwm_92462713.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_pwm_92462713.o
+ .text.pwm_set_percent
+                0x00000000       0xa8 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_pwm_92462713.o
+ .text.pwm_stop
+                0x00000000       0x4c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_pwm_92462713.o
+ .text.pwm_get_period
+                0x00000000       0x4c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_pwm_92462713.o
+ .rodata.__PRETTY_FUNCTION__.0
+                0x00000000        0xf C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_pwm_92462713.o
+ .rodata.__PRETTY_FUNCTION__.1
+                0x00000000        0x9 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_pwm_92462713.o
+ .rodata.__PRETTY_FUNCTION__.2
+                0x00000000       0x10 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_pwm_92462713.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_pwm_92462713.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_pwm_92462713.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_pwm_dab5ba1b.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_pwm_dab5ba1b.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_pwm_dab5ba1b.o
+ .text._rovari_pwm_write
+                0x00000000       0x50 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_pwm_dab5ba1b.o
+ .text._rovari_pwm_write_raw
+                0x00000000       0x2c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_pwm_dab5ba1b.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_pwm_dab5ba1b.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_pwm_dab5ba1b.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_tone_213328e2.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_tone_213328e2.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_tone_213328e2.o
+ .text.tone_play.part.0
+                0x00000000       0x20 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_tone_213328e2.o
+ .text.tone_play
+                0x00000000       0x12 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_tone_213328e2.o
+ .text.tone_stop
+                0x00000000       0x30 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_tone_213328e2.o
+ .text.tone_click
+                0x00000000       0x30 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_tone_213328e2.o
+ .text.tone_beep
+                0x00000000       0x64 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_tone_213328e2.o
+ .text.tone_success
+                0x00000000       0x4a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_tone_213328e2.o
+ .text.tone_error
+                0x00000000       0x64 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_tone_213328e2.o
+ .text.tone_warning
+                0x00000000       0x4e C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_tone_213328e2.o
+ .text.tone_startup
+                0x00000000       0x64 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_tone_213328e2.o
+ .text.tone_shutdown
+                0x00000000       0x64 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_tone_213328e2.o
+ .text.tone_doorbell
+                0x00000000       0x4a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_tone_213328e2.o
+ .text.tone_notification
+                0x00000000       0x60 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_tone_213328e2.o
+ .text.tone_alarm
+                0x00000000       0x64 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_tone_213328e2.o
+ .text.tone_ring
+                0x00000000       0xd8 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_tone_213328e2.o
+ .text.tone_countdown
+                0x00000000       0x86 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_tone_213328e2.o
+ .text.tone_chirp
+                0x00000000       0x4a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_tone_213328e2.o
+ .text.tone_siren
+                0x00000000       0xbc C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_tone_213328e2.o
+ .text.tone_sweep
+                0x00000000       0x86 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_tone_213328e2.o
+ .text.tone_alert
+                0x00000000       0x78 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_tone_213328e2.o
+ .text.tone_trill
+                0x00000000       0x76 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_tone_213328e2.o
+ .text.tone_melody
+                0x00000000       0x8a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_tone_213328e2.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_tone_213328e2.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_tone_213328e2.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-init.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-init.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-init.o)
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-init.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-init.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+SIGBLOCK         0x60060000         0x00000300         r
+RRAM             0x60060300         0x00399d00         xr
+SRAM             0x61000000         0x00200000         xrw
+IFRAM            0x50000000         0x00020000         rw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/app_0d1161bb.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari.blocks_cf4539e5.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/baochip1x_it_43f2d888.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/startup_a3fab3e8.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_gpio_9054eec4.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_uart_2b9c0ebf.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_irq_bff3f790.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao_delay_09c3a55a.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao_stdio_b6cd46e2.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao_stdlib_51aafccb.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_gpio_6fb6af80.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_main_620c9b9a.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_tick_d798bda6.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_button_b4b82f26.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_uart_dca14ff7.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/sevs_assert_target_1358f0b7.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_pwm_92462713.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_pwm_dab5ba1b.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_tone_213328e2.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libstdc++_nano.a
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libm_nano.a
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0\libgcc.a
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0\libgcc.a
+START GROUP
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0\libgcc.a
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libnosys.a
+END GROUP
+START GROUP
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0\libgcc.a
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libnosys.a
+END GROUP
+                0x00002000                        _stack_size = 0x2000
+                0x61200000                        _stack_top = (ORIGIN (SRAM) + LENGTH (SRAM))
+
+.text           0x60060300     0x1024
+ *(.text.start)
+ .text.start    0x60060300      0x13a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/startup_a3fab3e8.o
+                0x60060300                _start
+                0x60060370                _trap_entry
+ *(.text .text.*)
+ .text.app_init
+                0x6006043a        0x2 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/app_0d1161bb.o
+                0x6006043a                app_init
+ .text.app_run  0x6006043c       0x6a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/app_0d1161bb.o
+                0x6006043c                app_run
+ .text.startup._GLOBAL__sub_I_buzzer
+                0x600604a6        0x8 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/app_0d1161bb.o
+ .text.gpio_set_function
+                0x600604ae       0x9a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_gpio_9054eec4.o
+                0x600604ae                gpio_set_function
+ .text.gpio_set_dir
+                0x60060548       0x8e C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_gpio_9054eec4.o
+                0x60060548                gpio_set_dir
+ .text.gpio_pull_up
+                0x600605d6       0x7a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_gpio_9054eec4.o
+                0x600605d6                gpio_pull_up
+ .text.uart_init
+                0x60060650      0x114 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_uart_2b9c0ebf.o
+                0x60060650                uart_init
+ .text.trap_dispatch
+                0x60060764       0xbc C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_irq_bff3f790.o
+                0x60060764                trap_dispatch
+ .text.ticktimer_init
+                0x60060820       0x20 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao_delay_09c3a55a.o
+ .text.millis   0x60060840       0x40 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao_delay_09c3a55a.o
+                0x60060840                millis
+ .text.delay_ms
+                0x60060880       0x3c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao_delay_09c3a55a.o
+                0x60060880                delay_ms
+ .text.setup_default_uart
+                0x600608bc        0xa C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao_stdlib_51aafccb.o
+                0x600608bc                setup_default_uart
+ .text.bao_init
+                0x600608c6        0xe C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao_stdlib_51aafccb.o
+                0x600608c6                bao_init
+ .text.startup.main
+                0x600608d4        0xe C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_main_620c9b9a.o
+                0x600608d4                main
+ .text.copy_clipped
+                0x600608e2       0x2c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/sevs_assert_target_1358f0b7.o
+ .text.sevs_target_disable_irq
+                0x6006090e        0x2 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/sevs_assert_target_1358f0b7.o
+                0x6006090e                sevs_target_disable_irq
+ .text.sevs_target_uart_write_str
+                0x60060910        0x2 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/sevs_assert_target_1358f0b7.o
+                0x60060910                sevs_target_uart_write_str
+ .text.sevs_target_halt
+                0x60060912        0x2 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/sevs_assert_target_1358f0b7.o
+                0x60060912                sevs_target_halt
+ .text.sevs_assert_fail
+                0x60060914      0x2cc C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/sevs_assert_target_1358f0b7.o
+                0x60060914                sevs_assert_fail
+ .text.pwm_init_pin
+                0x60060be0       0x3e C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_pwm_92462713.o
+                0x60060be0                pwm_init_pin
+ .text.pwm_init
+                0x60060c1e      0x13c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_pwm_92462713.o
+                0x60060c1e                pwm_init
+ .text.pwm_set_duty
+                0x60060d5a       0x9e C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_pwm_92462713.o
+                0x60060d5a                pwm_set_duty
+ .text.find_pin
+                0x60060df8       0x2e C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_pwm_dab5ba1b.o
+ .text._rovari_pwm_init
+                0x60060e26       0x50 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_pwm_dab5ba1b.o
+                0x60060e26                _rovari_pwm_init
+ .text._rovari_pwm_write_pct
+                0x60060e76       0x50 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_pwm_dab5ba1b.o
+                0x60060e76                _rovari_pwm_write_pct
+ .text._rovari_pwm_stop
+                0x60060ec6       0x1e C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_pwm_dab5ba1b.o
+                0x60060ec6                _rovari_pwm_stop
+ .text.tone_play_ms
+                0x60060ee4       0x3c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_tone_213328e2.o
+                0x60060ee4                tone_play_ms
+ .text.tone_update
+                0x60060f20       0x30 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_tone_213328e2.o
+                0x60060f20                tone_update
+ .text.tone_is_playing
+                0x60060f50       0x26 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_tone_213328e2.o
+                0x60060f50                tone_is_playing
+ .text.__libc_init_array
+                0x60060f76       0x5e C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-init.o)
+                0x60060f76                __libc_init_array
+ *(.rodata .rodata.*)
+ *fill*         0x60060fd4        0x0 
+ .rodata._ZL9durations
+                0x60060fd4       0x10 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/app_0d1161bb.o
+ .rodata._ZL6melody
+                0x60060fe4       0x10 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/app_0d1161bb.o
+ .rodata.gpio_set_function.str1.4
+                0x60060ff4      0x229 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_gpio_9054eec4.o
+                                 0xa4 (size before relaxing)
+ *fill*         0x6006121d        0x3 
+ .rodata.__PRETTY_FUNCTION__.7
+                0x60061220        0xd C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_gpio_9054eec4.o
+ *fill*         0x6006122d        0x3 
+ .rodata.__PRETTY_FUNCTION__.11
+                0x60061230        0xd C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_gpio_9054eec4.o
+ *fill*         0x6006123d        0x3 
+ .rodata.__PRETTY_FUNCTION__.13
+                0x60061240       0x12 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_gpio_9054eec4.o
+ .rodata.uart_init.str1.4
+                0x60061252        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_uart_2b9c0ebf.o
+                                 0xa6 (size before relaxing)
+ *fill*         0x60061252        0x2 
+ .rodata.__PRETTY_FUNCTION__.6
+                0x60061254        0xa C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_uart_2b9c0ebf.o
+ *fill*         0x6006125e        0x2 
+ .rodata.uart_cg
+                0x60061260       0x10 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .rodata.uart_base
+                0x60061270       0x10 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .rodata.irq_array_base
+                0x60061280       0x50 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_irq_bff3f790.o
+ .rodata.sevs_assert_fail.str1.4
+                0x600612d0        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/sevs_assert_target_1358f0b7.o
+                                 0x17 (size before relaxing)
+ .rodata.str1.4
+                0x600612d0        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/sevs_assert_target_1358f0b7.o
+                                 0x28 (size before relaxing)
+ .rodata.CSWTCH.27
+                0x600612d0       0x10 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/sevs_assert_target_1358f0b7.o
+ .rodata.pwm_init.str1.4
+                0x600612e0        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_pwm_92462713.o
+                                 0x90 (size before relaxing)
+ .rodata.pwm_set_duty.str1.4
+                0x600612e0        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_pwm_92462713.o
+                                  0xd (size before relaxing)
+ .rodata.__PRETTY_FUNCTION__.3
+                0x600612e0        0xd C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_pwm_92462713.o
+ *fill*         0x600612ed        0x3 
+ .rodata.__PRETTY_FUNCTION__.4
+                0x600612f0        0x9 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_pwm_92462713.o
+ *fill*         0x600612f9        0x3 
+ .rodata.pwm_pins
+                0x600612fc       0x28 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_pwm_dab5ba1b.o
+                0x60061324                        . = ALIGN (0x4)
+
+.rela.dyn       0x60061324        0x0
+ .rela.text.start
+                0x60061324        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/app_0d1161bb.o
+ .rela.text.__libc_init_array
+                0x60061324        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/app_0d1161bb.o
+
+.preinit_array  0x60061324        0x0
+                0x60061324                        PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x60061324                        PROVIDE (__preinit_array_end = .)
+
+.init_array     0x60061324        0x4
+                0x60061324                        PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array*)
+ .init_array    0x60061324        0x4 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/app_0d1161bb.o
+                0x60061328                        PROVIDE (__init_array_end = .)
+
+.fini_array     0x60061328        0x0
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+                [!provide]                        PROVIDE (__fini_array_end = .)
+
+.data           0x61000000        0x0 load address 0x60061328
+                0x61000000                        _data_start = .
+ *(.data .data.*)
+ *(.sdata .sdata.*)
+                0x61000000                        . = ALIGN (0x4)
+                0x61000000                        _data_end = .
+                0x60061328                        _data_lma = LOADADDR (.data)
+
+.bss            0x61000000       0xa4 load address 0x60061328
+                0x61000000                        _bss_start = .
+ *(.bss .bss.*)
+ .bss.irq_handlers
+                0x61000000       0x7c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_irq_bff3f790.o
+ *(.sbss .sbss.*)
+ .sbss.buzzer   0x6100007c        0x1 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/app_0d1161bb.o
+                0x6100007c                buzzer
+ *fill*         0x6100007d        0x3 
+ .sbss.s_perclk
+                0x61000080        0x4 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .sbss.s_ticktimer_initialized
+                0x61000084        0x4 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao_delay_09c3a55a.o
+ .sbss.slice_period
+                0x61000088        0x8 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_pwm_92462713.o
+ .sbss.s_period
+                0x61000090        0x8 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_pwm_dab5ba1b.o
+ .sbss.s_duration
+                0x61000098        0x2 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_tone_213328e2.o
+ *fill*         0x6100009a        0x2 
+ .sbss.s_start_ms
+                0x6100009c        0x4 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_tone_213328e2.o
+ .sbss.s_active
+                0x610000a0        0x1 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_tone_213328e2.o
+ .sbss.s_pin    0x610000a1        0x1 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_tone_213328e2.o
+ *(COMMON)
+                0x610000a4                        . = ALIGN (0x4)
+ *fill*         0x610000a2        0x2 
+                0x610000a4                        _bss_end = .
+
+.dma_buffers    0x50000000        0x0
+                0x50000000                        _dma_start = .
+ *(.dma_buffers .dma_buffers.*)
+                0x50000000                        . = ALIGN (0x4)
+                0x50000000                        _dma_end = .
+                0x61000800                        __global_pointer$ = (_data_start + 0x800)
+
+.stack          0x610000a4     0x2000
+                0x610020a4                        . = (. + _stack_size)
+ *fill*         0x610000a4     0x2000 
+
+/DISCARD/
+ *(.comment)
+ *(.note.*)
+ *(.eh_frame*)
+OUTPUT(system\build\app.elf elf32-littleriscv)
+
+.riscv.attributes
+                0x00000000       0x67
+ .riscv.attributes
+                0x00000000       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/app_0d1161bb.o
+ .riscv.attributes
+                0x00000063       0x65 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/startup_a3fab3e8.o
+ .riscv.attributes
+                0x000000c8       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_gpio_9054eec4.o
+ .riscv.attributes
+                0x0000012b       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .riscv.attributes
+                0x0000018e       0x67 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_irq_bff3f790.o
+ .riscv.attributes
+                0x000001f5       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao_delay_09c3a55a.o
+ .riscv.attributes
+                0x00000258       0x67 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao_stdlib_51aafccb.o
+ .riscv.attributes
+                0x000002bf       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_main_620c9b9a.o
+ .riscv.attributes
+                0x00000322       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/sevs_assert_target_1358f0b7.o
+ .riscv.attributes
+                0x00000385       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_pwm_92462713.o
+ .riscv.attributes
+                0x000003e8       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_pwm_dab5ba1b.o
+ .riscv.attributes
+                0x0000044b       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_tone_213328e2.o
+ .riscv.attributes
+                0x000004ae       0x4e C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-init.o)
+
+.debug_info     0x00000000     0x5c51
+ .debug_info    0x00000000      0x718 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/app_0d1161bb.o
+ .debug_info    0x00000718       0x25 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/startup_a3fab3e8.o
+ .debug_info    0x0000073d      0xf5a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_gpio_9054eec4.o
+ .debug_info    0x00001697      0xea6 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .debug_info    0x0000253d      0x5c6 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_irq_bff3f790.o
+ .debug_info    0x00002b03      0x20c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao_delay_09c3a55a.o
+ .debug_info    0x00002d0f      0x4b1 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao_stdlib_51aafccb.o
+ .debug_info    0x000031c0       0xc8 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_main_620c9b9a.o
+ .debug_info    0x00003288      0x55d C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/sevs_assert_target_1358f0b7.o
+ .debug_info    0x000037e5      0x8c7 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_pwm_92462713.o
+ .debug_info    0x000040ac      0x4ae C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_pwm_dab5ba1b.o
+ .debug_info    0x0000455a     0x16f7 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_tone_213328e2.o
+
+.debug_abbrev   0x00000000     0x179d
+ .debug_abbrev  0x00000000      0x2bf C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/app_0d1161bb.o
+ .debug_abbrev  0x000002bf       0x14 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/startup_a3fab3e8.o
+ .debug_abbrev  0x000002d3      0x1ff C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_gpio_9054eec4.o
+ .debug_abbrev  0x000004d2      0x3f7 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .debug_abbrev  0x000008c9      0x273 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_irq_bff3f790.o
+ .debug_abbrev  0x00000b3c      0x121 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao_delay_09c3a55a.o
+ .debug_abbrev  0x00000c5d      0x1b1 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao_stdlib_51aafccb.o
+ .debug_abbrev  0x00000e0e       0x61 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_main_620c9b9a.o
+ .debug_abbrev  0x00000e6f      0x283 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/sevs_assert_target_1358f0b7.o
+ .debug_abbrev  0x000010f2      0x21f C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_pwm_92462713.o
+ .debug_abbrev  0x00001311      0x1a0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_pwm_dab5ba1b.o
+ .debug_abbrev  0x000014b1      0x2ec C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_tone_213328e2.o
+
+.debug_loclists
+                0x00000000     0x315c
+ .debug_loclists
+                0x00000000       0xb7 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/app_0d1161bb.o
+ .debug_loclists
+                0x000000b7      0x87e C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_gpio_9054eec4.o
+ .debug_loclists
+                0x00000935      0x819 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .debug_loclists
+                0x0000114e      0x135 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_irq_bff3f790.o
+ .debug_loclists
+                0x00001283       0xb2 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao_delay_09c3a55a.o
+ .debug_loclists
+                0x00001335      0x21c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao_stdlib_51aafccb.o
+ .debug_loclists
+                0x00001551      0x56f C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/sevs_assert_target_1358f0b7.o
+ .debug_loclists
+                0x00001ac0      0x618 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_pwm_92462713.o
+ .debug_loclists
+                0x000020d8      0x37c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_pwm_dab5ba1b.o
+ .debug_loclists
+                0x00002454      0xd08 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_tone_213328e2.o
+
+.debug_aranges  0x00000000      0x3e8
+ .debug_aranges
+                0x00000000       0x30 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/app_0d1161bb.o
+ .debug_aranges
+                0x00000030       0x20 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/startup_a3fab3e8.o
+ .debug_aranges
+                0x00000050       0x88 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_gpio_9054eec4.o
+ .debug_aranges
+                0x000000d8       0x70 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .debug_aranges
+                0x00000148       0x48 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_irq_bff3f790.o
+ .debug_aranges
+                0x00000190       0x38 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao_delay_09c3a55a.o
+ .debug_aranges
+                0x000001c8       0x50 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao_stdlib_51aafccb.o
+ .debug_aranges
+                0x00000218       0x20 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_main_620c9b9a.o
+ .debug_aranges
+                0x00000238       0x48 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/sevs_assert_target_1358f0b7.o
+ .debug_aranges
+                0x00000280       0x48 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_pwm_92462713.o
+ .debug_aranges
+                0x000002c8       0x48 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_pwm_dab5ba1b.o
+ .debug_aranges
+                0x00000310       0xd8 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_tone_213328e2.o
+
+.debug_rnglists
+                0x00000000      0x512
+ .debug_rnglists
+                0x00000000       0x5d C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/app_0d1161bb.o
+ .debug_rnglists
+                0x0000005d       0x6c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_gpio_9054eec4.o
+ .debug_rnglists
+                0x000000c9       0x99 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .debug_rnglists
+                0x00000162       0x7d C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_irq_bff3f790.o
+ .debug_rnglists
+                0x000001df       0x25 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao_delay_09c3a55a.o
+ .debug_rnglists
+                0x00000204       0x38 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao_stdlib_51aafccb.o
+ .debug_rnglists
+                0x0000023c       0x13 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_main_620c9b9a.o
+ .debug_rnglists
+                0x0000024f       0x7c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/sevs_assert_target_1358f0b7.o
+ .debug_rnglists
+                0x000002cb       0x64 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_pwm_92462713.o
+ .debug_rnglists
+                0x0000032f       0x31 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_pwm_dab5ba1b.o
+ .debug_rnglists
+                0x00000360      0x1b2 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_tone_213328e2.o
+
+.debug_line     0x00000000     0x5035
+ .debug_line    0x00000000      0x25a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/app_0d1161bb.o
+ .debug_line    0x0000025a      0x2a8 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/startup_a3fab3e8.o
+ .debug_line    0x00000502      0xaf4 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_gpio_9054eec4.o
+ .debug_line    0x00000ff6      0xebc C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .debug_line    0x00001eb2      0x52d C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_irq_bff3f790.o
+ .debug_line    0x000023df      0x2db C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao_delay_09c3a55a.o
+ .debug_line    0x000026ba      0x364 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao_stdlib_51aafccb.o
+ .debug_line    0x00002a1e       0x91 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_main_620c9b9a.o
+ .debug_line    0x00002aaf      0x7fa C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/sevs_assert_target_1358f0b7.o
+ .debug_line    0x000032a9      0x7bb C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_pwm_92462713.o
+ .debug_line    0x00003a64      0x3c9 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_pwm_dab5ba1b.o
+ .debug_line    0x00003e2d     0x1208 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_tone_213328e2.o
+
+.debug_str      0x00000000      0xeca
+ .debug_str     0x00000000      0xeca C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/app_0d1161bb.o
+                                0x57c (size before relaxing)
+ .debug_str     0x00000eca        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/startup_a3fab3e8.o
+                                 0xbb (size before relaxing)
+ .debug_str     0x00000eca        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_gpio_9054eec4.o
+                                0x363 (size before relaxing)
+ .debug_str     0x00000eca        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_uart_2b9c0ebf.o
+                                0x44d (size before relaxing)
+ .debug_str     0x00000eca        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_irq_bff3f790.o
+                                0x31a (size before relaxing)
+ .debug_str     0x00000eca        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao_delay_09c3a55a.o
+                                0x1f3 (size before relaxing)
+ .debug_str     0x00000eca        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao_stdlib_51aafccb.o
+                                0x2d8 (size before relaxing)
+ .debug_str     0x00000eca        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_main_620c9b9a.o
+                                0x17d (size before relaxing)
+ .debug_str     0x00000eca        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/sevs_assert_target_1358f0b7.o
+                                0x2b0 (size before relaxing)
+ .debug_str     0x00000eca        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_pwm_92462713.o
+                                0x392 (size before relaxing)
+ .debug_str     0x00000eca        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_pwm_dab5ba1b.o
+                                0x274 (size before relaxing)
+ .debug_str     0x00000eca        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_tone_213328e2.o
+                                0x3c1 (size before relaxing)
+
+.debug_line_str
+                0x00000000      0x9b0
+ .debug_line_str
+                0x00000000      0x9b0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/app_0d1161bb.o
+                                0x30c (size before relaxing)
+ .debug_line_str
+                0x000009b0        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/startup_a3fab3e8.o
+                                 0xaf (size before relaxing)
+ .debug_line_str
+                0x000009b0        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_gpio_9054eec4.o
+                                0x3ad (size before relaxing)
+ .debug_line_str
+                0x000009b0        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_uart_2b9c0ebf.o
+                                0x3ad (size before relaxing)
+ .debug_line_str
+                0x000009b0        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_irq_bff3f790.o
+                                0x33d (size before relaxing)
+ .debug_line_str
+                0x000009b0        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao_delay_09c3a55a.o
+                                0x2ba (size before relaxing)
+ .debug_line_str
+                0x000009b0        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao_stdlib_51aafccb.o
+                                0x446 (size before relaxing)
+ .debug_line_str
+                0x000009b0        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_main_620c9b9a.o
+                                0x1b3 (size before relaxing)
+ .debug_line_str
+                0x000009b0        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/sevs_assert_target_1358f0b7.o
+                                0x2f7 (size before relaxing)
+ .debug_line_str
+                0x000009b0        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_pwm_92462713.o
+                                0x3ab (size before relaxing)
+ .debug_line_str
+                0x000009b0        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_pwm_dab5ba1b.o
+                                0x342 (size before relaxing)
+ .debug_line_str
+                0x000009b0        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_tone_213328e2.o
+                                0x2d7 (size before relaxing)
+
+.debug_frame    0x00000000      0xc60
+ .debug_frame   0x00000000       0x64 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/app_0d1161bb.o
+ .debug_frame   0x00000064      0x220 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_gpio_9054eec4.o
+ .debug_frame   0x00000284      0x18c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .debug_frame   0x00000410       0xc8 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_irq_bff3f790.o
+ .debug_frame   0x000004d8       0x80 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao_delay_09c3a55a.o
+ .debug_frame   0x00000558       0xb0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao_stdlib_51aafccb.o
+ .debug_frame   0x00000608       0x28 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_main_620c9b9a.o
+ .debug_frame   0x00000630       0xa4 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/sevs_assert_target_1358f0b7.o
+ .debug_frame   0x000006d4       0xf0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/bao1x_pwm_92462713.o
+ .debug_frame   0x000007c4       0xe0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_pwm_dab5ba1b.o
+ .debug_frame   0x000008a4      0x3bc C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/04_Tone_C++/system/build/rovari_tone_213328e2.o

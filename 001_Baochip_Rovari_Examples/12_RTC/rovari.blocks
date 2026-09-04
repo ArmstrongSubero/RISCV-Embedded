@@ -1,0 +1,24 @@
+{
+  "version": "0.6",
+  "patches": {
+    "main": {
+      "is_main": true,
+      "chains": [
+        [
+          {
+            "type": "block_init",
+            "x": -80.0,
+            "y": -150.0,
+            "fields": {}
+          },
+          {
+            "type": "block_run",
+            "x": -80.0,
+            "y": -50.0,
+            "fields": {}
+          }
+        ]
+      ]
+    }
+  }
+}

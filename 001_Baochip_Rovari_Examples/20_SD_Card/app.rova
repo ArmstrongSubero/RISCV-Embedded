@@ -1,0 +1,103 @@
+/*
+ * Copyright (c) 2026 Armstrong Subero
+ *
+ * Program:  20_SD_Card (C style)
+ * Platform: Baochip-1x / Rovari SDK
+ * Hardware: SPI SD card breakout
+ *           CLK=PC0, MOSI=PC1, MISO=PC2, CS=PC3
+ */
+
+#include "rovari.h"
+
+extern "C" {
+#include "ff.h"
+#include "diskio.h"
+}
+
+static FATFS fs;
+static FIL fil;
+static DIR dir;
+static FILINFO fno;
+
+static uint32_t my_strlen(const char *s)
+{
+    uint32_t n = 0;
+    while (*s++) n++;
+    return n;
+}
+
+void app_init(void)
+{
+    pin_mode(PB1, Output);
+
+    mini_printf("FatFS SD Card Test\r\n\r\n");
+
+    DSTATUS ds = disk_initialize(0);
+    if (ds & STA_NOINIT)
+    {
+        mini_printf("disk init FAIL (0x%02x)\r\n", ds);
+        return;
+    }
+    mini_printf("disk init OK\r\n");
+
+    FRESULT fr = f_mount(&fs, "", 1);
+    if (fr != FR_OK)
+    {
+        mini_printf("f_mount FAIL (%d)\r\n", (int)fr);
+        return;
+    }
+    mini_printf("Mounted (FAT type=%d)\r\n\r\n", fs.fs_type);
+
+    /* List root directory */
+    mini_printf("Root directory:\r\n");
+    fr = f_opendir(&dir, "/");
+    if (fr == FR_OK)
+    {
+        int count = 0;
+        for (;;)
+        {
+            fr = f_readdir(&dir, &fno);
+            if (fr != FR_OK || fno.fname[0] == 0) break;
+            if (fno.fattrib & AM_DIR)
+                mini_printf("  [DIR]  %s\r\n", fno.fname);
+            else
+                mini_printf("  %s  (%u bytes)\r\n", fno.fname, (uint32_t)fno.fsize);
+            count++;
+            if (count >= 20) break;
+        }
+        f_closedir(&dir);
+        if (count == 0) mini_printf("  (empty)\r\n");
+    }
+    mini_printf("\r\n");
+
+    /* Write test file */
+    fr = f_open(&fil, "DABAO.TXT", FA_WRITE | FA_CREATE_ALWAYS);
+    if (fr == FR_OK)
+    {
+        const char *msg = "Hello from Dabao!\r\nBaochip-1x + Rovari SDK + FatFS.\r\n";
+        UINT bw;
+        f_write(&fil, msg, (UINT)my_strlen(msg), &bw);
+        mini_printf("Wrote %u bytes\r\n", bw);
+        f_close(&fil);
+    }
+
+    /* Read it back */
+    fr = f_open(&fil, "DABAO.TXT", FA_READ);
+    if (fr == FR_OK)
+    {
+        char rbuf[128];
+        UINT br;
+        f_read(&fil, rbuf, sizeof(rbuf) - 1, &br);
+        rbuf[br] = '\0';
+        mini_printf("Read %u bytes: \"%s\"\r\n", br, rbuf);
+        f_close(&fil);
+    }
+
+    mini_printf("\r\nSD Card test complete.\r\n");
+}
+
+void app_run(void)
+{
+    pin_toggle(PB1);
+    delay(500);
+}

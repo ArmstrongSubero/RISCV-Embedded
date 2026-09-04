@@ -1,0 +1,32 @@
+/*
+ * Copyright (c) 2026 Armstrong Subero
+ *
+ * Program:  08_TimerInterrupt (C++ style)
+ * Platform: Baochip-1x / Rovari SDK
+ * Hardware: LED on PB1 via 1K resistor
+ */
+
+#include "rovari.h"
+#include "hardware/timer.h"
+#include "hardware/irq.h"
+
+Gpio led(PB1, Output);
+
+void timer0_handler(uint32_t pending)
+{
+    (void)pending;
+    led.toggle();
+    TIMER0_EV_PENDING = 1;
+}
+
+void app_init(void)
+{
+    irq_init();
+    irq_set_handler(IRQ_TIMER0, timer0_handler);
+    irq_enable(IRQ_TIMER0);
+    timer0_start_periodic_ms(100);
+}
+
+void app_run(void)
+{
+}

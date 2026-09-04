@@ -1,0 +1,7 @@
+{
+  "peripherals": [
+    "GPIO",
+    "I2C"
+  ],
+  "libraries": []
+}

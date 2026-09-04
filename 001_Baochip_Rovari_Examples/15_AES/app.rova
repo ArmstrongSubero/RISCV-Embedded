@@ -1,0 +1,59 @@
+/*
+ * Copyright (c) 2026 Armstrong Subero
+ *
+ * Program:  15_AES (C style)
+ * Platform: Baochip-1x / Rovari SDK
+ * Hardware: none (on-chip AES via SCE)
+ */
+
+#include "rovari.h"
+#include "hardware/aes.h"
+
+static const uint8_t key[16] = {
+    0x2B, 0x7E, 0x15, 0x16, 0x28, 0xAE, 0xD2, 0xA6,
+    0xAB, 0xF7, 0x15, 0x88, 0x09, 0xCF, 0x4F, 0x3C
+};
+
+static const uint8_t plaintext[16] = {
+    0x6B, 0xC1, 0xBE, 0xE2, 0x2E, 0x40, 0x9F, 0x96,
+    0xE9, 0x3D, 0x7E, 0x11, 0x73, 0x93, 0x17, 0x2A
+};
+
+void app_init(void)
+{
+    mini_printf("AES-128 ECB Test\r\n");
+}
+
+void app_run(void)
+{
+    uint8_t cipher[16] = {0};
+    uint8_t result[16] = {0};
+
+    aes_set_key(key, AES_KEY_128);
+    aes_encrypt(plaintext, cipher, 16);
+
+    mini_printf("Plain:  ");
+    for (int i = 0; i < 16; i++) mini_printf("%02x", plaintext[i]);
+    mini_printf("\r\n");
+
+    mini_printf("Cipher: ");
+    for (int i = 0; i < 16; i++) mini_printf("%02x", cipher[i]);
+    mini_printf("\r\n");
+
+    aes_set_key(key, AES_KEY_128);
+    aes_decrypt(cipher, result, 16);
+
+    mini_printf("Decrpt: ");
+    for (int i = 0; i < 16; i++) mini_printf("%02x", result[i]);
+    mini_printf("\r\n");
+
+    uint8_t match = 1;
+    for (int i = 0; i < 16; i++)
+    {
+        if (result[i] != plaintext[i]) { match = 0; break; }
+    }
+
+    mini_printf("Result: %s\r\n\r\n", match ? "PASS" : "FAIL");
+
+    delay(5000);
+}

@@ -1,0 +1,1042 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-vsnprintf.o)
+                              C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_uart_dca14ff7.o (vsnprintf)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-impure.o)
+                              C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-vsnprintf.o) (_impure_ptr)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-init.o)
+                              C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_main_620c9b9a.o (__libc_init_array)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-nano-svfprintf.o)
+                              C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-vsnprintf.o) (_svfprintf_r)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-nano-vfprintf_i.o)
+                              C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-nano-svfprintf.o) (_printf_i)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-memchr.o)
+                              C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-nano-svfprintf.o) (memchr)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-memmove.o)
+                              C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-nano-svfprintf.o) (memmove)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-freer.o)
+                              C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-nano-svfprintf.o) (_free_r)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-mallocr.o)
+                              C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-nano-svfprintf.o) (_malloc_r)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-mlock.o)
+                              C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-freer.o) (__malloc_lock)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-reallocr.o)
+                              C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-nano-svfprintf.o) (_realloc_r)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-sbrkr.o)
+                              C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-mallocr.o) (_sbrk_r)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-lock.o)
+                              C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-mlock.o) (__retarget_lock_acquire_recursive)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-msizer.o)
+                              C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-reallocr.o) (_malloc_usable_size_r)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-reent.o)
+                              C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-sbrkr.o) (errno)
+C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libnosys.a(sbrk.o)
+                              C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-sbrkr.o) (_sbrk)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/app_1083ffda.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/app_1083ffda.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/app_1083ffda.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/app_1083ffda.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/app_1083ffda.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari.blocks_adde999a.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari.blocks_adde999a.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari.blocks_adde999a.o
+ .text._Z10block_initv
+                0x00000000        0x2 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari.blocks_adde999a.o
+ .text._Z9block_runv
+                0x00000000        0x2 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari.blocks_adde999a.o
+ .debug_info    0x00000000       0xb3 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari.blocks_adde999a.o
+ .debug_abbrev  0x00000000       0x65 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari.blocks_adde999a.o
+ .debug_aranges
+                0x00000000       0x28 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari.blocks_adde999a.o
+ .debug_rnglists
+                0x00000000       0x19 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari.blocks_adde999a.o
+ .debug_line    0x00000000       0x69 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari.blocks_adde999a.o
+ .debug_str     0x00000000      0x1dd C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari.blocks_adde999a.o
+ .debug_line_str
+                0x00000000      0x128 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari.blocks_adde999a.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari.blocks_adde999a.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari.blocks_adde999a.o
+ .debug_frame   0x00000000       0x30 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari.blocks_adde999a.o
+ .riscv.attributes
+                0x00000000       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari.blocks_adde999a.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/baochip1x_it_4cc1f642.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/baochip1x_it_4cc1f642.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/baochip1x_it_4cc1f642.o
+ .debug_info    0x00000000       0x65 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/baochip1x_it_4cc1f642.o
+ .debug_abbrev  0x00000000       0x26 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/baochip1x_it_4cc1f642.o
+ .debug_aranges
+                0x00000000       0x18 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/baochip1x_it_4cc1f642.o
+ .debug_line    0x00000000       0x44 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/baochip1x_it_4cc1f642.o
+ .debug_str     0x00000000      0x14c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/baochip1x_it_4cc1f642.o
+ .debug_line_str
+                0x00000000      0x110 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/baochip1x_it_4cc1f642.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/baochip1x_it_4cc1f642.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/baochip1x_it_4cc1f642.o
+ .riscv.attributes
+                0x00000000       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/baochip1x_it_4cc1f642.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/startup_18707c73.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/startup_18707c73.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/startup_18707c73.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_gpio_9054eec4.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_gpio_9054eec4.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_gpio_9054eec4.o
+ .text.gpio_put
+                0x00000000       0x9a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_gpio_9054eec4.o
+ .text.gpio_get
+                0x00000000       0x82 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_gpio_9054eec4.o
+ .text.gpio_toggle
+                0x00000000       0x86 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_gpio_9054eec4.o
+ .text.gpio_disable_pulls
+                0x00000000       0x8a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_gpio_9054eec4.o
+ .text.gpio_init
+                0x00000000       0x94 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_gpio_9054eec4.o
+ .text.gpio_get_pull
+                0x00000000       0x82 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_gpio_9054eec4.o
+ .text.gpio_set_schmitt
+                0x00000000       0x9a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_gpio_9054eec4.o
+ .text.gpio_put_all
+                0x00000000       0x50 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_gpio_9054eec4.o
+ .text.gpio_get_all
+                0x00000000       0x4a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_gpio_9054eec4.o
+ .text.gpio_set_dir_masked
+                0x00000000       0x50 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_gpio_9054eec4.o
+ .text.gpio_get_dir
+                0x00000000       0x82 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_gpio_9054eec4.o
+ .rodata.__PRETTY_FUNCTION__.0
+                0x00000000        0xd C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_gpio_9054eec4.o
+ .rodata.__PRETTY_FUNCTION__.1
+                0x00000000       0x14 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_gpio_9054eec4.o
+ .rodata.__PRETTY_FUNCTION__.2
+                0x00000000        0xd C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_gpio_9054eec4.o
+ .rodata.__PRETTY_FUNCTION__.3
+                0x00000000        0xd C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_gpio_9054eec4.o
+ .rodata.__PRETTY_FUNCTION__.4
+                0x00000000       0x11 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_gpio_9054eec4.o
+ .rodata.__PRETTY_FUNCTION__.5
+                0x00000000        0xe C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_gpio_9054eec4.o
+ .rodata.__PRETTY_FUNCTION__.6
+                0x00000000       0x13 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_gpio_9054eec4.o
+ .rodata.__PRETTY_FUNCTION__.8
+                0x00000000        0xc C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_gpio_9054eec4.o
+ .rodata.__PRETTY_FUNCTION__.9
+                0x00000000        0x9 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_gpio_9054eec4.o
+ .rodata.__PRETTY_FUNCTION__.10
+                0x00000000        0x9 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_gpio_9054eec4.o
+ .rodata.__PRETTY_FUNCTION__.12
+                0x00000000        0xa C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_gpio_9054eec4.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_gpio_9054eec4.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_gpio_9054eec4.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .text.uart_tx_complete_hook
+                0x00000000        0x2 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .rodata.uart_puts.str1.4
+                0x00000000        0xc C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .text.uart_puts
+                0x00000000       0x92 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .text.uart_is_readable
+                0x00000000       0x4c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .text.uart_getc
+                0x00000000       0x7c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .text.uart_get_perclk
+                0x00000000       0x2e C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .text.uart_write_async
+                0x00000000       0x9e C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .text.uart_write_done
+                0x00000000       0x90 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .text.uart_write_wait
+                0x00000000       0x3e C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .rodata.__PRETTY_FUNCTION__.0
+                0x00000000       0x10 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .rodata.__PRETTY_FUNCTION__.1
+                0x00000000        0xa C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .rodata.__PRETTY_FUNCTION__.2
+                0x00000000       0x11 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .rodata.__PRETTY_FUNCTION__.3
+                0x00000000        0xa C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .sbss.s_uart_tx_notified
+                0x00000000        0x4 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .sbss.s_uart_tx_busy
+                0x00000000        0x4 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_irq_bff3f790.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_irq_bff3f790.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_irq_bff3f790.o
+ .text.irq_init
+                0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_irq_bff3f790.o
+ .text.irq_set_handler
+                0x00000000       0x16 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_irq_bff3f790.o
+ .rodata.irq_enable.str1.4
+                0x00000000       0x85 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_irq_bff3f790.o
+ .text.irq_enable
+                0x00000000       0x6a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_irq_bff3f790.o
+ .text.irq_enable_events
+                0x00000000       0x2e C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_irq_bff3f790.o
+ .text.irq_disable
+                0x00000000       0x50 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_irq_bff3f790.o
+ .rodata.__PRETTY_FUNCTION__.0
+                0x00000000        0xc C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_irq_bff3f790.o
+ .rodata.__PRETTY_FUNCTION__.1
+                0x00000000        0xb C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_irq_bff3f790.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_irq_bff3f790.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_irq_bff3f790.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao_delay_09c3a55a.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao_delay_09c3a55a.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao_delay_09c3a55a.o
+ .text.delay_us
+                0x00000000       0x22 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao_delay_09c3a55a.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao_delay_09c3a55a.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao_delay_09c3a55a.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao_stdio_b6cd46e2.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao_stdio_b6cd46e2.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao_stdio_b6cd46e2.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao_stdio_b6cd46e2.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao_stdio_b6cd46e2.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao_stdlib_51aafccb.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao_stdlib_51aafccb.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao_stdlib_51aafccb.o
+ .text.memcpy   0x00000000       0x1c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao_stdlib_51aafccb.o
+ .text.memset   0x00000000       0x12 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao_stdlib_51aafccb.o
+ .rodata.memcmp.str1.4
+                0x00000000       0x90 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao_stdlib_51aafccb.o
+ .text.memcmp   0x00000000       0x8c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao_stdlib_51aafccb.o
+ .text.strchr   0x00000000       0x20 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao_stdlib_51aafccb.o
+ .text.trap_dispatch
+                0x00000000       0x38 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao_stdlib_51aafccb.o
+ .srodata.__PRETTY_FUNCTION__.0
+                0x00000000        0x7 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao_stdlib_51aafccb.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao_stdlib_51aafccb.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao_stdlib_51aafccb.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_gpio_6fb6af80.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_gpio_6fb6af80.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_gpio_6fb6af80.o
+ .rodata.pin_mode.str1.4
+                0x00000000       0x89 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_gpio_6fb6af80.o
+ .text.pin_mode
+                0x00000000       0xaa C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_gpio_6fb6af80.o
+ .text.digital_write
+                0x00000000       0x5a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_gpio_6fb6af80.o
+ .text.digital_read
+                0x00000000       0x50 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_gpio_6fb6af80.o
+ .text.pin_toggle
+                0x00000000       0x50 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_gpio_6fb6af80.o
+ .rodata.__PRETTY_FUNCTION__.0
+                0x00000000        0xb C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_gpio_6fb6af80.o
+ .rodata.__PRETTY_FUNCTION__.1
+                0x00000000        0xd C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_gpio_6fb6af80.o
+ .rodata.__PRETTY_FUNCTION__.2
+                0x00000000        0xe C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_gpio_6fb6af80.o
+ .rodata.__PRETTY_FUNCTION__.3
+                0x00000000        0x9 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_gpio_6fb6af80.o
+ .debug_info    0x00000000      0x5e6 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_gpio_6fb6af80.o
+ .debug_abbrev  0x00000000      0x179 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_gpio_6fb6af80.o
+ .debug_loclists
+                0x00000000      0x27f C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_gpio_6fb6af80.o
+ .debug_aranges
+                0x00000000       0x38 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_gpio_6fb6af80.o
+ .debug_rnglists
+                0x00000000       0x26 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_gpio_6fb6af80.o
+ .debug_line    0x00000000      0x316 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_gpio_6fb6af80.o
+ .debug_str     0x00000000      0x2dd C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_gpio_6fb6af80.o
+ .debug_line_str
+                0x00000000      0x353 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_gpio_6fb6af80.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_gpio_6fb6af80.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_gpio_6fb6af80.o
+ .debug_frame   0x00000000       0xb8 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_gpio_6fb6af80.o
+ .riscv.attributes
+                0x00000000       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_gpio_6fb6af80.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_main_620c9b9a.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_main_620c9b9a.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_main_620c9b9a.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_main_620c9b9a.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_main_620c9b9a.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_tick_d798bda6.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_tick_d798bda6.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_tick_d798bda6.o
+ .text.rovari_tick_init
+                0x00000000        0x2 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_tick_d798bda6.o
+ .text.micros   0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_tick_d798bda6.o
+ .debug_info    0x00000000      0x128 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_tick_d798bda6.o
+ .debug_abbrev  0x00000000       0xb7 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_tick_d798bda6.o
+ .debug_loclists
+                0x00000000       0x52 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_tick_d798bda6.o
+ .debug_aranges
+                0x00000000       0x28 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_tick_d798bda6.o
+ .debug_rnglists
+                0x00000000       0x19 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_tick_d798bda6.o
+ .debug_line    0x00000000       0xda C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_tick_d798bda6.o
+ .debug_str     0x00000000      0x1b2 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_tick_d798bda6.o
+ .debug_line_str
+                0x00000000      0x2bb C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_tick_d798bda6.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_tick_d798bda6.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_tick_d798bda6.o
+ .debug_frame   0x00000000       0x3c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_tick_d798bda6.o
+ .riscv.attributes
+                0x00000000       0x67 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_tick_d798bda6.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_button_b4b82f26.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_button_b4b82f26.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_button_b4b82f26.o
+ .text.find     0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_button_b4b82f26.o
+ .text.update   0x00000000       0x7c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_button_b4b82f26.o
+ .text.button_begin
+                0x00000000       0x72 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_button_b4b82f26.o
+ .text.button_pressed
+                0x00000000       0x32 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_button_b4b82f26.o
+ .text.button_released
+                0x00000000       0x32 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_button_b4b82f26.o
+ .text.button_held
+                0x00000000       0x46 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_button_b4b82f26.o
+ .text.button_state
+                0x00000000       0x2a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_button_b4b82f26.o
+ .bss.s_buttons
+                0x00000000       0x50 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_button_b4b82f26.o
+ .debug_info    0x00000000      0x4f7 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_button_b4b82f26.o
+ .debug_abbrev  0x00000000      0x1f4 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_button_b4b82f26.o
+ .debug_loclists
+                0x00000000      0x242 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_button_b4b82f26.o
+ .debug_aranges
+                0x00000000       0x50 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_button_b4b82f26.o
+ .debug_rnglists
+                0x00000000       0x52 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_button_b4b82f26.o
+ .debug_line    0x00000000      0x583 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_button_b4b82f26.o
+ .debug_str     0x00000000      0x2bb C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_button_b4b82f26.o
+ .debug_line_str
+                0x00000000      0x265 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_button_b4b82f26.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_button_b4b82f26.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_button_b4b82f26.o
+ .debug_frame   0x00000000      0x108 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_button_b4b82f26.o
+ .riscv.attributes
+                0x00000000       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_button_b4b82f26.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_uart_dca14ff7.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_uart_dca14ff7.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_uart_dca14ff7.o
+ .text.uart_write_byte
+                0x00000000        0xc C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_uart_dca14ff7.o
+ .text.uart_print
+                0x00000000        0xc C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_uart_dca14ff7.o
+ .text.uart_println
+                0x00000000       0x30 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_uart_dca14ff7.o
+ .text.uart_printf
+                0x00000000       0x3c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_uart_dca14ff7.o
+ .text.uart_read_byte
+                0x00000000       0x16 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_uart_dca14ff7.o
+ .text.uart_available
+                0x00000000        0x8 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_uart_dca14ff7.o
+ .text.uart_read_line
+                0x00000000       0x6c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_uart_dca14ff7.o
+ .debug_info    0x00000000      0x4a3 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_uart_dca14ff7.o
+ .debug_abbrev  0x00000000      0x1c3 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_uart_dca14ff7.o
+ .debug_loclists
+                0x00000000      0x21a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_uart_dca14ff7.o
+ .debug_aranges
+                0x00000000       0x50 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_uart_dca14ff7.o
+ .debug_rnglists
+                0x00000000       0x43 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_uart_dca14ff7.o
+ .debug_line    0x00000000      0x2ec C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_uart_dca14ff7.o
+ .debug_str     0x00000000      0x276 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_uart_dca14ff7.o
+ .debug_line_str
+                0x00000000      0x446 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_uart_dca14ff7.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_uart_dca14ff7.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_uart_dca14ff7.o
+ .debug_frame   0x00000000       0xd0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_uart_dca14ff7.o
+ .riscv.attributes
+                0x00000000       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_uart_dca14ff7.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/sevs_assert_target_1358f0b7.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/sevs_assert_target_1358f0b7.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/sevs_assert_target_1358f0b7.o
+ .text.sevs_target_pop_crash_record
+                0x00000000       0x46 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/sevs_assert_target_1358f0b7.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/sevs_assert_target_1358f0b7.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/sevs_assert_target_1358f0b7.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_sha_f33e210d.o
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_sha_f33e210d.o
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_sha_f33e210d.o
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_sha_f33e210d.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_sha_f33e210d.o
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-vsnprintf.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-vsnprintf.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-vsnprintf.o)
+ .text._vsnprintf_r
+                0x00000000       0x5e C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-vsnprintf.o)
+ .text.vsnprintf
+                0x00000000       0x18 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-vsnprintf.o)
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-vsnprintf.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-vsnprintf.o)
+ .riscv.attributes
+                0x00000000       0x4e C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-vsnprintf.o)
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-impure.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-impure.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-impure.o)
+ .sdata._impure_ptr
+                0x00000000        0x4 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-impure.o)
+ .data._impure_data
+                0x00000000       0x4c C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-impure.o)
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-impure.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-impure.o)
+ .riscv.attributes
+                0x00000000       0x4e C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-impure.o)
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-init.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-init.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-init.o)
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-init.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-init.o)
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-nano-svfprintf.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-nano-svfprintf.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-nano-svfprintf.o)
+ .text.__ssputs_r
+                0x00000000      0x106 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-nano-svfprintf.o)
+ .text.__ssprint_r
+                0x00000000      0x142 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-nano-svfprintf.o)
+ .rodata._svfprintf_r.str1.4
+                0x00000000       0x13 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-nano-svfprintf.o)
+ .text._svfprintf_r
+                0x00000000      0x290 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-nano-svfprintf.o)
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-nano-svfprintf.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-nano-svfprintf.o)
+ .riscv.attributes
+                0x00000000       0x4e C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-nano-svfprintf.o)
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-nano-vfprintf_i.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-nano-vfprintf_i.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-nano-vfprintf_i.o)
+ .text._printf_common
+                0x00000000      0x112 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-nano-vfprintf_i.o)
+ .rodata._printf_i.str1.4
+                0x00000000       0x25 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-nano-vfprintf_i.o)
+ .text._printf_i
+                0x00000000      0x272 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-nano-vfprintf_i.o)
+ .rodata._printf_i
+                0x00000000       0x58 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-nano-vfprintf_i.o)
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-nano-vfprintf_i.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-nano-vfprintf_i.o)
+ .riscv.attributes
+                0x00000000       0x4e C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-nano-vfprintf_i.o)
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-memchr.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-memchr.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-memchr.o)
+ .text.memchr   0x00000000       0x1a C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-memchr.o)
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-memchr.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-memchr.o)
+ .riscv.attributes
+                0x00000000       0x4e C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-memchr.o)
+ .text          0x00000000       0x26 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-memmove.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-memmove.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-memmove.o)
+ .riscv.attributes
+                0x00000000       0x4c C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-memmove.o)
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-freer.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-freer.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-freer.o)
+ .text._free_r  0x00000000       0xae C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-freer.o)
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-freer.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-freer.o)
+ .riscv.attributes
+                0x00000000       0x4e C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-freer.o)
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-mallocr.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-mallocr.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-mallocr.o)
+ .text.sbrk_aligned
+                0x00000000       0x66 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-mallocr.o)
+ .text._malloc_r
+                0x00000000      0x142 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-mallocr.o)
+ .sbss.__malloc_sbrk_start
+                0x00000000        0x4 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-mallocr.o)
+ .sbss.__malloc_free_list
+                0x00000000        0x4 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-mallocr.o)
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-mallocr.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-mallocr.o)
+ .riscv.attributes
+                0x00000000       0x4e C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-mallocr.o)
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-mlock.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-mlock.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-mlock.o)
+ .text.__malloc_lock
+                0x00000000       0x10 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-mlock.o)
+ .text.__malloc_unlock
+                0x00000000       0x10 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-mlock.o)
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-mlock.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-mlock.o)
+ .riscv.attributes
+                0x00000000       0x4e C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-mlock.o)
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-reallocr.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-reallocr.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-reallocr.o)
+ .text._realloc_r
+                0x00000000       0x8a C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-reallocr.o)
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-reallocr.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-reallocr.o)
+ .riscv.attributes
+                0x00000000       0x4e C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-reallocr.o)
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-sbrkr.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-sbrkr.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-sbrkr.o)
+ .text._sbrk_r  0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-sbrkr.o)
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-sbrkr.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-sbrkr.o)
+ .riscv.attributes
+                0x00000000       0x4e C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-sbrkr.o)
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-lock.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-lock.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_init
+                0x00000000        0x2 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x00000000        0x2 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_close
+                0x00000000        0x2 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x00000000        0x2 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x00000000        0x2 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_acquire_recursive
+                0x00000000        0x2 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x00000000        0x4 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x00000000        0x4 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_release
+                0x00000000        0x2 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_release_recursive
+                0x00000000        0x2 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-lock.o)
+ .sbss.__lock___arc4random_mutex
+                0x00000000        0x1 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-lock.o)
+ .sbss.__lock___dd_hash_mutex
+                0x00000000        0x1 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-lock.o)
+ .sbss.__lock___tz_mutex
+                0x00000000        0x1 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-lock.o)
+ .sbss.__lock___env_recursive_mutex
+                0x00000000        0x1 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-lock.o)
+ .sbss.__lock___malloc_recursive_mutex
+                0x00000000        0x1 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-lock.o)
+ .sbss.__lock___at_quick_exit_mutex
+                0x00000000        0x1 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-lock.o)
+ .sbss.__lock___atexit_recursive_mutex
+                0x00000000        0x1 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-lock.o)
+ .sbss.__lock___sfp_recursive_mutex
+                0x00000000        0x1 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-lock.o)
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-lock.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-lock.o)
+ .riscv.attributes
+                0x00000000       0x4e C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-lock.o)
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-msizer.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-msizer.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-msizer.o)
+ .text._malloc_usable_size_r
+                0x00000000       0x14 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-msizer.o)
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-msizer.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-msizer.o)
+ .riscv.attributes
+                0x00000000       0x4e C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-msizer.o)
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-reent.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-reent.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-reent.o)
+ .text._reclaim_reent
+                0x00000000      0x112 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-reent.o)
+ .sbss.errno    0x00000000        0x4 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-reent.o)
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-reent.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-reent.o)
+ .riscv.attributes
+                0x00000000       0x4e C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-reent.o)
+ .text          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libnosys.a(sbrk.o)
+ .data          0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libnosys.a(sbrk.o)
+ .bss           0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libnosys.a(sbrk.o)
+ .text._sbrk    0x00000000       0x2e C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libnosys.a(sbrk.o)
+ .sbss.heap_end.0
+                0x00000000        0x4 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libnosys.a(sbrk.o)
+ .comment       0x00000000       0x34 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libnosys.a(sbrk.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libnosys.a(sbrk.o)
+ .riscv.attributes
+                0x00000000       0x4e C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libnosys.a(sbrk.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+SIGBLOCK         0x60060000         0x00000300         r
+RRAM             0x60060300         0x00399d00         xr
+SRAM             0x61000000         0x00200000         xrw
+IFRAM            0x50000000         0x00020000         rw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/app_1083ffda.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari.blocks_adde999a.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/baochip1x_it_4cc1f642.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/startup_18707c73.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_gpio_9054eec4.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_uart_2b9c0ebf.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_irq_bff3f790.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao_delay_09c3a55a.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao_stdio_b6cd46e2.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao_stdlib_51aafccb.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_gpio_6fb6af80.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_main_620c9b9a.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_tick_d798bda6.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_button_b4b82f26.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_uart_dca14ff7.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/sevs_assert_target_1358f0b7.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_sha_f33e210d.o
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libstdc++_nano.a
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libm_nano.a
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0\libgcc.a
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0\libgcc.a
+START GROUP
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0\libgcc.a
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libnosys.a
+END GROUP
+START GROUP
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0\libgcc.a
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a
+LOAD C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libnosys.a
+END GROUP
+                0x00002000                        _stack_size = 0x2000
+                0x61200000                        _stack_top = (ORIGIN (SRAM) + LENGTH (SRAM))
+
+.text           0x60060300     0x1438
+ *(.text.start)
+ .text.start    0x60060300      0x13a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/startup_18707c73.o
+                0x60060300                _start
+                0x60060370                _trap_entry
+ *(.text .text.*)
+ .text.app_init
+                0x6006043a       0x16 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/app_1083ffda.o
+                0x6006043a                app_init
+ .text.app_run  0x60060450       0x9c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/app_1083ffda.o
+                0x60060450                app_run
+ .text.gpio_set_function
+                0x600604ec       0x9e C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_gpio_9054eec4.o
+                0x600604ec                gpio_set_function
+ .text.gpio_set_dir
+                0x6006058a       0x8e C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_gpio_9054eec4.o
+                0x6006058a                gpio_set_dir
+ .text.gpio_pull_up
+                0x60060618       0x7a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_gpio_9054eec4.o
+                0x60060618                gpio_pull_up
+ .text.uart_init
+                0x60060692      0x114 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_uart_2b9c0ebf.o
+                0x60060692                uart_init
+ .text.uart_write
+                0x600607a6      0x140 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_uart_2b9c0ebf.o
+                0x600607a6                uart_write
+ .text.uart_putc
+                0x600608e6       0x3e C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_uart_2b9c0ebf.o
+                0x600608e6                uart_putc
+ .text.trap_dispatch
+                0x60060924       0xbc C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_irq_bff3f790.o
+                0x60060924                trap_dispatch
+ .text.ticktimer_init
+                0x600609e0       0x20 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao_delay_09c3a55a.o
+ .text.millis   0x60060a00       0x40 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao_delay_09c3a55a.o
+                0x60060a00                millis
+ .text.delay_ms
+                0x60060a40       0x3c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao_delay_09c3a55a.o
+                0x60060a40                delay_ms
+ .text.print_unsigned
+                0x60060a7c       0x86 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao_stdio_b6cd46e2.o
+ .text.mini_printf
+                0x60060b02      0x14c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao_stdio_b6cd46e2.o
+                0x60060b02                mini_printf
+ .text.setup_default_uart
+                0x60060c4e        0xa C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao_stdlib_51aafccb.o
+                0x60060c4e                setup_default_uart
+ .text.bao_init
+                0x60060c58        0xe C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao_stdlib_51aafccb.o
+                0x60060c58                bao_init
+ .text.startup.main
+                0x60060c66       0x12 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_main_620c9b9a.o
+                0x60060c66                main
+ .text.copy_clipped
+                0x60060c78       0x2c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/sevs_assert_target_1358f0b7.o
+ .text.sevs_target_disable_irq
+                0x60060ca4        0x2 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/sevs_assert_target_1358f0b7.o
+                0x60060ca4                sevs_target_disable_irq
+ .text.sevs_target_uart_write_str
+                0x60060ca6        0x2 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/sevs_assert_target_1358f0b7.o
+                0x60060ca6                sevs_target_uart_write_str
+ .text.sevs_target_halt
+                0x60060ca8        0x2 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/sevs_assert_target_1358f0b7.o
+                0x60060ca8                sevs_target_halt
+ .text.sevs_assert_fail
+                0x60060caa      0x2cc C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/sevs_assert_target_1358f0b7.o
+                0x60060caa                sevs_assert_fail
+ .text.s_hash_wait_done
+                0x60060f76       0x26 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_sha_f33e210d.o
+ .text.sha256_init
+                0x60060f9c       0x6e C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_sha_f33e210d.o
+                0x60060f9c                sha256_init
+ .text.sha256_hash
+                0x6006100a      0x180 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_sha_f33e210d.o
+                0x6006100a                sha256_hash
+ .text.__libc_init_array
+                0x6006118a       0x5e C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-init.o)
+                0x6006118a                __libc_init_array
+ *(.rodata .rodata.*)
+ .rodata.app_init.str1.4
+                0x600611e8      0x33e C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/app_1083ffda.o
+                                 0x18 (size before relaxing)
+ .rodata.app_run.str1.4
+                0x60061526        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/app_1083ffda.o
+                                 0x4b (size before relaxing)
+ .rodata.gpio_set_function.str1.4
+                0x60061526        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_gpio_9054eec4.o
+                                 0xa4 (size before relaxing)
+ *fill*         0x60061526        0x2 
+ .rodata.__PRETTY_FUNCTION__.7
+                0x60061528        0xd C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_gpio_9054eec4.o
+ *fill*         0x60061535        0x3 
+ .rodata.__PRETTY_FUNCTION__.11
+                0x60061538        0xd C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_gpio_9054eec4.o
+ *fill*         0x60061545        0x3 
+ .rodata.__PRETTY_FUNCTION__.13
+                0x60061548       0x12 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_gpio_9054eec4.o
+ .rodata.uart_init.str1.4
+                0x6006155a        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_uart_2b9c0ebf.o
+                                 0xa6 (size before relaxing)
+ .rodata.uart_write.str1.4
+                0x6006155a        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_uart_2b9c0ebf.o
+                                  0xf (size before relaxing)
+ *fill*         0x6006155a        0x2 
+ .rodata.__PRETTY_FUNCTION__.4
+                0x6006155c        0xa C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_uart_2b9c0ebf.o
+ *fill*         0x60061566        0x2 
+ .rodata.__PRETTY_FUNCTION__.5
+                0x60061568        0xb C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_uart_2b9c0ebf.o
+ *fill*         0x60061573        0x1 
+ .rodata.__PRETTY_FUNCTION__.6
+                0x60061574        0xa C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_uart_2b9c0ebf.o
+ *fill*         0x6006157e        0x2 
+ .rodata.uart_cg
+                0x60061580       0x10 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .rodata.uart_base
+                0x60061590       0x10 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .rodata.irq_array_base
+                0x600615a0       0x50 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_irq_bff3f790.o
+ .rodata.mini_printf.str1.4
+                0x600615f0        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao_stdio_b6cd46e2.o
+                                 0x86 (size before relaxing)
+ .rodata.__PRETTY_FUNCTION__.0
+                0x600615f0        0xc C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao_stdio_b6cd46e2.o
+ .rodata.sevs_assert_fail.str1.4
+                0x600615fc        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/sevs_assert_target_1358f0b7.o
+                                 0x17 (size before relaxing)
+ .rodata.str1.4
+                0x600615fc        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/sevs_assert_target_1358f0b7.o
+                                 0x28 (size before relaxing)
+ .rodata.CSWTCH.27
+                0x600615fc       0x10 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/sevs_assert_target_1358f0b7.o
+ .rodata.sha256_hash.str1.4
+                0x6006160c        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_sha_f33e210d.o
+                                 0xba (size before relaxing)
+ .rodata.__PRETTY_FUNCTION__.0
+                0x6006160c        0xc C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_sha_f33e210d.o
+ .rodata.s_sha256_k
+                0x60061618      0x100 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_sha_f33e210d.o
+ .rodata.s_sha256_h
+                0x60061718       0x20 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_sha_f33e210d.o
+                0x60061738                        . = ALIGN (0x4)
+
+.rela.dyn       0x60061738        0x0
+ .rela.text.start
+                0x60061738        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/app_1083ffda.o
+ .rela.text.__libc_init_array
+                0x60061738        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/app_1083ffda.o
+
+.preinit_array  0x60061738        0x0
+                0x60061738                        PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x60061738                        PROVIDE (__preinit_array_end = .)
+
+.init_array     0x60061738        0x0
+                0x60061738                        PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array*)
+                0x60061738                        PROVIDE (__init_array_end = .)
+
+.fini_array     0x60061738        0x0
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+                [!provide]                        PROVIDE (__fini_array_end = .)
+
+.data           0x61000000        0x0 load address 0x60061738
+                0x61000000                        _data_start = .
+ *(.data .data.*)
+ *(.sdata .sdata.*)
+                0x61000000                        . = ALIGN (0x4)
+                0x61000000                        _data_end = .
+                0x60061738                        _data_lma = LOADADDR (.data)
+
+.bss            0x61000000       0x84 load address 0x60061738
+                0x61000000                        _bss_start = .
+ *(.bss .bss.*)
+ .bss.irq_handlers
+                0x61000000       0x7c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_irq_bff3f790.o
+ *(.sbss .sbss.*)
+ .sbss.s_perclk
+                0x6100007c        0x4 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .sbss.s_ticktimer_initialized
+                0x61000080        0x4 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao_delay_09c3a55a.o
+ *(COMMON)
+                0x61000084                        . = ALIGN (0x4)
+                0x61000084                        _bss_end = .
+
+.dma_buffers    0x50000000      0x100
+                0x50000000                        _dma_start = .
+ *(.dma_buffers .dma_buffers.*)
+ .dma_buffers   0x50000000      0x100 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_uart_2b9c0ebf.o
+                0x50000100                        . = ALIGN (0x4)
+                0x50000100                        _dma_end = .
+                0x61000800                        __global_pointer$ = (_data_start + 0x800)
+
+.stack          0x61000084     0x2000
+                0x61002084                        . = (. + _stack_size)
+ *fill*         0x61000084     0x2000 
+
+/DISCARD/
+ *(.comment)
+ *(.note.*)
+ *(.eh_frame*)
+OUTPUT(system\build\app.elf elf32-littleriscv)
+
+.riscv.attributes
+                0x00000000       0x67
+ .riscv.attributes
+                0x00000000       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/app_1083ffda.o
+ .riscv.attributes
+                0x00000063       0x65 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/startup_18707c73.o
+ .riscv.attributes
+                0x000000c8       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_gpio_9054eec4.o
+ .riscv.attributes
+                0x0000012b       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .riscv.attributes
+                0x0000018e       0x67 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_irq_bff3f790.o
+ .riscv.attributes
+                0x000001f5       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao_delay_09c3a55a.o
+ .riscv.attributes
+                0x00000258       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao_stdio_b6cd46e2.o
+ .riscv.attributes
+                0x000002bb       0x67 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao_stdlib_51aafccb.o
+ .riscv.attributes
+                0x00000322       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_main_620c9b9a.o
+ .riscv.attributes
+                0x00000385       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/sevs_assert_target_1358f0b7.o
+ .riscv.attributes
+                0x000003e8       0x63 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_sha_f33e210d.o
+ .riscv.attributes
+                0x0000044b       0x4e C:/Users/armstrongsubero/Desktop/Products/02_Rovari_Studio/Rovari_System_Studio/toolchain/bin/../lib/gcc/riscv-none-elf/15.2.0/../../../../riscv-none-elf/lib\libc_nano.a(libc_a-init.o)
+
+.debug_info     0x00000000     0x3cba
+ .debug_info    0x00000000      0x29b C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/app_1083ffda.o
+ .debug_info    0x0000029b       0x25 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/startup_18707c73.o
+ .debug_info    0x000002c0      0xf5a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_gpio_9054eec4.o
+ .debug_info    0x0000121a      0xea6 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .debug_info    0x000020c0      0x5c6 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_irq_bff3f790.o
+ .debug_info    0x00002686      0x20c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao_delay_09c3a55a.o
+ .debug_info    0x00002892      0x330 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao_stdio_b6cd46e2.o
+ .debug_info    0x00002bc2      0x4b1 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao_stdlib_51aafccb.o
+ .debug_info    0x00003073       0xc8 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_main_620c9b9a.o
+ .debug_info    0x0000313b      0x55d C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/sevs_assert_target_1358f0b7.o
+ .debug_info    0x00003698      0x622 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_sha_f33e210d.o
+
+.debug_abbrev   0x00000000     0x13c5
+ .debug_abbrev  0x00000000      0x17a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/app_1083ffda.o
+ .debug_abbrev  0x0000017a       0x14 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/startup_18707c73.o
+ .debug_abbrev  0x0000018e      0x1ff C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_gpio_9054eec4.o
+ .debug_abbrev  0x0000038d      0x3f7 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .debug_abbrev  0x00000784      0x273 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_irq_bff3f790.o
+ .debug_abbrev  0x000009f7      0x121 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao_delay_09c3a55a.o
+ .debug_abbrev  0x00000b18      0x180 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao_stdio_b6cd46e2.o
+ .debug_abbrev  0x00000c98      0x1b1 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao_stdlib_51aafccb.o
+ .debug_abbrev  0x00000e49       0x61 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_main_620c9b9a.o
+ .debug_abbrev  0x00000eaa      0x283 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/sevs_assert_target_1358f0b7.o
+ .debug_abbrev  0x0000112d      0x298 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_sha_f33e210d.o
+
+.debug_loclists
+                0x00000000     0x1e49
+ .debug_loclists
+                0x00000000       0x64 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/app_1083ffda.o
+ .debug_loclists
+                0x00000064      0x87e C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_gpio_9054eec4.o
+ .debug_loclists
+                0x000008e2      0x819 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .debug_loclists
+                0x000010fb      0x135 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_irq_bff3f790.o
+ .debug_loclists
+                0x00001230       0xb2 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao_delay_09c3a55a.o
+ .debug_loclists
+                0x000012e2      0x1d0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao_stdio_b6cd46e2.o
+ .debug_loclists
+                0x000014b2      0x21c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao_stdlib_51aafccb.o
+ .debug_loclists
+                0x000016ce      0x56f C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/sevs_assert_target_1358f0b7.o
+ .debug_loclists
+                0x00001c3d      0x20c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_sha_f33e210d.o
+
+.debug_aranges  0x00000000      0x2d0
+ .debug_aranges
+                0x00000000       0x28 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/app_1083ffda.o
+ .debug_aranges
+                0x00000028       0x20 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/startup_18707c73.o
+ .debug_aranges
+                0x00000048       0x88 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_gpio_9054eec4.o
+ .debug_aranges
+                0x000000d0       0x70 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .debug_aranges
+                0x00000140       0x48 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_irq_bff3f790.o
+ .debug_aranges
+                0x00000188       0x38 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao_delay_09c3a55a.o
+ .debug_aranges
+                0x000001c0       0x28 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao_stdio_b6cd46e2.o
+ .debug_aranges
+                0x000001e8       0x50 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao_stdlib_51aafccb.o
+ .debug_aranges
+                0x00000238       0x20 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_main_620c9b9a.o
+ .debug_aranges
+                0x00000258       0x48 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/sevs_assert_target_1358f0b7.o
+ .debug_aranges
+                0x000002a0       0x30 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_sha_f33e210d.o
+
+.debug_rnglists
+                0x00000000      0x340
+ .debug_rnglists
+                0x00000000       0x1a C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/app_1083ffda.o
+ .debug_rnglists
+                0x0000001a       0x6c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_gpio_9054eec4.o
+ .debug_rnglists
+                0x00000086       0x99 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .debug_rnglists
+                0x0000011f       0x7d C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_irq_bff3f790.o
+ .debug_rnglists
+                0x0000019c       0x25 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao_delay_09c3a55a.o
+ .debug_rnglists
+                0x000001c1       0x2d C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao_stdio_b6cd46e2.o
+ .debug_rnglists
+                0x000001ee       0x38 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao_stdlib_51aafccb.o
+ .debug_rnglists
+                0x00000226       0x13 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_main_620c9b9a.o
+ .debug_rnglists
+                0x00000239       0x7c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/sevs_assert_target_1358f0b7.o
+ .debug_rnglists
+                0x000002b5       0x8b C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_sha_f33e210d.o
+
+.debug_line     0x00000000     0x3d2a
+ .debug_line    0x00000000      0x207 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/app_1083ffda.o
+ .debug_line    0x00000207      0x2a8 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/startup_18707c73.o
+ .debug_line    0x000004af      0xaf4 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_gpio_9054eec4.o
+ .debug_line    0x00000fa3      0xebc C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .debug_line    0x00001e5f      0x52d C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_irq_bff3f790.o
+ .debug_line    0x0000238c      0x2db C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao_delay_09c3a55a.o
+ .debug_line    0x00002667      0x42e C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao_stdio_b6cd46e2.o
+ .debug_line    0x00002a95      0x364 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao_stdlib_51aafccb.o
+ .debug_line    0x00002df9       0x91 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_main_620c9b9a.o
+ .debug_line    0x00002e8a      0x7fa C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/sevs_assert_target_1358f0b7.o
+ .debug_line    0x00003684      0x6a6 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_sha_f33e210d.o
+
+.debug_str      0x00000000      0xa47
+ .debug_str     0x00000000      0xa47 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/app_1083ffda.o
+                                0x21b (size before relaxing)
+ .debug_str     0x00000a47        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/startup_18707c73.o
+                                 0xb9 (size before relaxing)
+ .debug_str     0x00000a47        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_gpio_9054eec4.o
+                                0x363 (size before relaxing)
+ .debug_str     0x00000a47        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_uart_2b9c0ebf.o
+                                0x44d (size before relaxing)
+ .debug_str     0x00000a47        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_irq_bff3f790.o
+                                0x31a (size before relaxing)
+ .debug_str     0x00000a47        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao_delay_09c3a55a.o
+                                0x1f3 (size before relaxing)
+ .debug_str     0x00000a47        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao_stdio_b6cd46e2.o
+                                0x240 (size before relaxing)
+ .debug_str     0x00000a47        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao_stdlib_51aafccb.o
+                                0x2d8 (size before relaxing)
+ .debug_str     0x00000a47        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_main_620c9b9a.o
+                                0x17d (size before relaxing)
+ .debug_str     0x00000a47        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/sevs_assert_target_1358f0b7.o
+                                0x2b0 (size before relaxing)
+ .debug_str     0x00000a47        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_sha_f33e210d.o
+                                0x2dd (size before relaxing)
+
+.debug_line_str
+                0x00000000      0x911
+ .debug_line_str
+                0x00000000      0x911 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/app_1083ffda.o
+                                0x365 (size before relaxing)
+ .debug_line_str
+                0x00000911        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/startup_18707c73.o
+                                 0xad (size before relaxing)
+ .debug_line_str
+                0x00000911        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_gpio_9054eec4.o
+                                0x3ac (size before relaxing)
+ .debug_line_str
+                0x00000911        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_uart_2b9c0ebf.o
+                                0x3ac (size before relaxing)
+ .debug_line_str
+                0x00000911        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_irq_bff3f790.o
+                                0x33c (size before relaxing)
+ .debug_line_str
+                0x00000911        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao_delay_09c3a55a.o
+                                0x2b9 (size before relaxing)
+ .debug_line_str
+                0x00000911        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao_stdio_b6cd46e2.o
+                                0x3aa (size before relaxing)
+ .debug_line_str
+                0x00000911        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao_stdlib_51aafccb.o
+                                0x445 (size before relaxing)
+ .debug_line_str
+                0x00000911        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_main_620c9b9a.o
+                                0x1b2 (size before relaxing)
+ .debug_line_str
+                0x00000911        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/sevs_assert_target_1358f0b7.o
+                                0x2f6 (size before relaxing)
+ .debug_line_str
+                0x00000911        0x0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_sha_f33e210d.o
+                                0x331 (size before relaxing)
+
+.debug_frame    0x00000000      0x7a4
+ .debug_frame   0x00000000       0x5c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/app_1083ffda.o
+ .debug_frame   0x0000005c      0x220 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_gpio_9054eec4.o
+ .debug_frame   0x0000027c      0x18c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_uart_2b9c0ebf.o
+ .debug_frame   0x00000408       0xc8 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_irq_bff3f790.o
+ .debug_frame   0x000004d0       0x80 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao_delay_09c3a55a.o
+ .debug_frame   0x00000550       0x7c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao_stdio_b6cd46e2.o
+ .debug_frame   0x000005cc       0xb0 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao_stdlib_51aafccb.o
+ .debug_frame   0x0000067c       0x28 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/rovari_main_620c9b9a.o
+ .debug_frame   0x000006a4       0xa4 C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/sevs_assert_target_1358f0b7.o
+ .debug_frame   0x00000748       0x5c C:/Users/armstrongsubero/Desktop/Products/06_Dabao_Book/Baochip_ws/16_SHA_C++/system/build/bao1x_sha_f33e210d.o

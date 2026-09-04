@@ -1,0 +1,24 @@
+/*
+ * Copyright (c) 2026 Armstrong Subero
+ *
+ * Program:  01_Pushbutton (C style)
+ * Platform: Baochip-1x / Rovari SDK
+ * Hardware: LED on PB1 via 330R resistor
+ *           pushbutton on PB2 to GND
+ */
+
+#include "rovari.h"
+
+void app_init(void)
+{
+    pin_mode(PB1, Output);
+    button_begin(PB2);
+}
+
+void app_run(void)
+{
+    if (button_pressed(PB2))
+    {
+        pin_toggle(PB1);
+    }
+}

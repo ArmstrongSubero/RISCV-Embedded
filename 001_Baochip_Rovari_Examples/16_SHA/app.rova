@@ -1,0 +1,37 @@
+/*
+ * Copyright (c) 2026 Armstrong Subero
+ *
+ * Program:  16_SHA256 (C style)
+ * Platform: Baochip-1x / Rovari SDK
+ * Hardware: none (on-chip SHA-256 via SCE)
+ */
+
+#include "rovari.h"
+#include "hardware/sha.h"
+
+void app_init(void)
+{
+    sha256_init();
+    mini_printf("Hardware SHA-256 Test\r\n");
+}
+
+void app_run(void)
+{
+    const char *msg = "Hello, Baochip!";
+    uint8_t digest[SHA256_DIGEST_SIZE];
+
+    int rc = sha256_hash((const uint8_t *)msg, 15, digest);
+
+    mini_printf("Msg:  %s\r\n", msg);
+    mini_printf("SHA:  ");
+    
+    for (int i = 0; i < SHA256_DIGEST_SIZE; i++)
+    {
+        mini_printf("%02x", digest[i]);
+    }
+    
+    mini_printf("\r\n");
+    mini_printf("Status: %s\r\n\r\n", (rc == 0) ? "OK" : "FAIL");
+
+    delay(5000);
+}

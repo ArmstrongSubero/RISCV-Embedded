@@ -1,0 +1,30 @@
+/*
+ * Copyright (c) 2026 Armstrong Subero
+ *
+ * Program:  22_OLED_Lite (C style)
+ * Platform: Baochip-1x / Rovari SDK
+ * Hardware: SSD1306 128x32 OLED on I2C
+ *           SCL=PB11, SDA=PB12 (4.7K pullups)
+ */
+
+#include "rovari.h"
+#include "rovari_ssd1306.h"
+
+void app_init(void)
+{
+    i2c_init(I2C_1, 400000);
+    oled_init(I2C_1, OLED_128x32, SSD1306_I2C_ADDR);
+    oled_clear();
+    
+    oled_set_orientation(OLED_ORIENT_180);
+
+    oled_printf_line(0, "Baochip-1x");
+    oled_printf_line(1, "Rovari SDK");
+}
+
+void app_run(void)
+{
+    static uint32_t count = 0;
+    oled_printf_line(3, "Count: %u", count++);
+    delay(500);
+}

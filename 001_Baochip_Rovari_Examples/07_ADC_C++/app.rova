@@ -1,0 +1,26 @@
+/*
+ * Copyright (c) 2026 Armstrong Subero
+ *
+ * Program:  07_ADC (C++ style)
+ * Platform: Baochip-1x / Rovari SDK
+ * Hardware: potentiometer on 3.3V/GND, wiper through
+ *           2.2K/1K divider to PC9 (ADC ch0)
+ */
+
+#include "rovari.h"
+
+Adc pot(PC9);
+
+void app_init(void)
+{
+    mini_printf("ADC Reading\r\n");
+}
+
+void app_run(void)
+{
+    uint16_t raw = pot.read();
+    uint16_t mv  = adc_raw_to_mv(raw);
+
+    mini_printf("raw: %d  mv: %d\r\n", raw, mv);
+    delay(500);
+}

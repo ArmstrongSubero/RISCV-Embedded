@@ -1,0 +1,45 @@
+/*
+ * Copyright (c) 2026 Armstrong Subero
+ *
+ * Program:  13_RRAM (C++ style)
+ * Platform: Baochip-1x / Rovari SDK
+ * Hardware: none (on-chip 4MB ReRAM)
+ *
+ * Writes a boot counter to RRAM that survives power cycles.
+ * Each reset increments the counter. Data persists without
+ * battery backup (it is non-volatile memory, not SRAM).
+ */
+
+#include "rovari.h"
+#include "hardware/rram.h"
+
+#define STORAGE_ADDR  RRAM_USER_BASE
+
+void app_init(void)
+{
+    uint32_t count = 0;
+    rram_read(STORAGE_ADDR, (uint8_t *)&count, sizeof(count));
+
+    if (count == 0xFFFFFFFF)
+    {
+        count = 0;
+    }
+
+    count++;
+    mini_printf("Boot count: %d\r\n", count);
+
+    int rc = rram_write(STORAGE_ADDR, (const uint8_t *)&count, sizeof(count));
+    
+    if (rc == 0)
+    {
+        mini_printf("Saved to RRAM at 0x%x\r\n", STORAGE_ADDR);
+    }
+    else
+    {
+        mini_printf("RRAM write failed (%d)\r\n", rc);
+    }
+}
+
+void app_run(void)
+{
+}

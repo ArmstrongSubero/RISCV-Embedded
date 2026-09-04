@@ -1,0 +1,9 @@
+{
+  "peripherals": [
+    "GPIO",
+    "I2C"
+  ],
+  "libraries": [
+    "SSD1306 OLED"
+  ]
+}

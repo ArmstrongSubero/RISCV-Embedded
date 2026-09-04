@@ -1,0 +1,107 @@
+/*
+ * Copyright (c) 2026 Armstrong Subero
+ *
+ * Program:  23_W25Q (C style)
+ * Platform: Baochip-1x / Rovari SDK
+ * Hardware: W25Q flash on QSPI1
+ *           CLK=PC11, D0=PC7, D1=PC8, D2=PC9, D3=PC10
+ *           CS0=PC12, VCC=3V3, GND=GND
+ */
+
+#include "rovari.h"
+
+extern "C" {
+#include "hardware/qspi.h"
+#include "hardware/w25q.h"
+}
+
+#define TEST_ADDR   0x010000
+#define TEST_LEN    16
+
+void app_init(void)
+{
+    mini_printf("W25Q Flash Test (Quad Mode)\r\n\r\n");
+
+    int rc = w25q_init(1, 0, 9);
+
+    uint8_t id[3];
+    w25q_read_jedec_id(id);
+    
+    mini_printf("JEDEC ID: %02x %02x %02x\r\n", id[0], id[1], id[2]);
+
+    if (rc != 0)
+    {
+        mini_printf("w25q_init failed: %d\r\n", rc);
+        return;
+    }
+
+    if (id[0] == 0xEF)
+        mini_printf("  Manufacturer: Winbond\r\n");
+
+    uint8_t mfr, dev;
+    w25q_read_id(&mfr, &dev);
+    mini_printf("Mfr/Dev ID: %02x / %02x\r\n", mfr, dev);
+    
+    mini_printf("SR1: 0x%02x  SR2: 0x%02x\r\n",
+                w25q_read_sr1(), w25q_read_sr2());
+
+    mini_printf("\r\nEnabling quad mode... ");
+    
+    rc = w25q_enable_quad();
+    if (rc == 0)
+        mini_printf("OK (SR2: 0x%02x)\r\n", w25q_read_sr2());
+    else
+        mini_printf("FAILED (%d)\r\n", rc);
+
+    mini_printf("\r\nErasing sector at 0x%06x... ", TEST_ADDR);
+    rc = w25q_erase_sector(TEST_ADDR);
+    mini_printf("%s\r\n", rc == 0 ? "OK" : "FAILED");
+
+    uint8_t buf[TEST_LEN];
+    w25q_read(TEST_ADDR, buf, TEST_LEN);
+    uint8_t erase_ok = 1;
+    
+    for (int i = 0; i < TEST_LEN; i++)
+    {
+        if (buf[i] != 0xFF) { erase_ok = 0; break; }
+    }
+    
+    mini_printf("Erase verify: %s\r\n", erase_ok ? "PASS" : "FAIL");
+
+    uint8_t pattern[TEST_LEN];
+    for (int i = 0; i < TEST_LEN; i++) pattern[i] = (uint8_t)(i & 0xFF);
+
+    mini_printf("Writing %d bytes... ", TEST_LEN);
+    rc = w25q_write(TEST_ADDR, pattern, TEST_LEN);
+    mini_printf("%s\r\n", rc == 0 ? "OK" : "FAILED");
+
+    for (int i = 0; i < TEST_LEN; i++) buf[i] = 0;
+    
+    w25q_read(TEST_ADDR, buf, TEST_LEN);
+
+    mini_printf("Quad read back:\r\n");
+    
+    for (int i = 0; i < TEST_LEN; i++)
+    {
+        mini_printf("%02x ", buf[i]);
+        if ((i & 0xF) == 0xF) mini_printf("\r\n");
+    }
+
+    uint8_t verify_ok = 1;
+    
+    for (int i = 0; i < TEST_LEN; i++)
+    {
+        if (buf[i] != pattern[i])
+        {
+            mini_printf("MISMATCH at %d: expected %02x got %02x\r\n",
+                        i, pattern[i], buf[i]);
+            verify_ok = 0;
+        }
+    }
+    
+    mini_printf("\r\nVerify: %s\r\n", verify_ok ? "PASS" : "FAIL");
+}
+
+void app_run(void)
+{
+}
