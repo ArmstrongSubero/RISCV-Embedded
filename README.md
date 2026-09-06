@@ -4,6 +4,24 @@ Bare metal C and C++ examples for the CH32V003F4P6 RISC-V microcontroller, built
 
 Part of the [Rovari](https://rvembedded.com) platform.
 
+
+Current Tools in the Eocsystem is: 
+
+Rovari Studio IDE which includes Rovari Connect, Rovari Tinkersteam, Guvari, Tunari and Filtari. 
+
+https://github.com/ArmstrongSubero/rovari-studio
+
+The Rovari SDK Bundled into Rovari Studio:
+
+https://github.com/ArmstrongSubero/Rovari-SDK
+
+
+Also Rovari CircuitStudio IDE: 
+
+https://github.com/ArmstrongSubero/rvcircuit-studio
+
+
+
 ## About
 
 The CH32V003F4P6 is a 32-bit RISC-V microcontroller from WCH. QingKe V2A core, 48 MHz, 16 KB flash, 2 KB SRAM, under $0.10 in volume. Full peripheral set: UART, SPI, I2C, 10-bit ADC, timers, DMA, analog comparator.
